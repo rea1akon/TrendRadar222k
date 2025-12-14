@@ -86,3 +86,10 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "hupu"
+    name: "虎扑"
+  - id: "bilibili-hot-search"
+    name: "bilibili 热搜"
+  - id: "chongbuluo"
+    name: "虫部落"
+    
