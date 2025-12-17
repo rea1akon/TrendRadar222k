@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T06:24:11.901008+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2025-12-18T07:23:04.102517+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 06时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -42,30 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 06时24分]"
-        },
-        {
-          "title": "市场消息：特朗普被律师告知，关于第三个总统任期的宪法合法性尚不明确。",
-          "url": "https://flash.jin10.com/detail/20251218060245642800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "KPI暴增10倍 特朗普政府拟加码撤销入籍公民身份",
-          "url": "https://flash.jin10.com/detail/20251218055750070800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
@@ -105,6 +83,30 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
+          "title": "市场消息：特朗普被律师告知，关于第三个总统任期的宪法合法性尚不明确。",
+          "url": "https://flash.jin10.com/detail/20251218060245642800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "KPI暴增10倍 特朗普政府拟加码撤销入籍公民身份",
+          "url": "https://flash.jin10.com/detail/20251218055750070800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
           "url": "https://flash.jin10.com/detail/20251218000612267800",
           "source": "金十数据",
@@ -139,6 +141,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时23分]"
+        },
+        {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -184,6 +197,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "预告：特朗普今日上午10点将向全美发表讲话",
+          "url": "https://flash.jin10.com/detail/20251218064618327800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普预计将于周四就大麻重新分类问题发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251218063414755800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "巴西总统卢拉：担忧美国总统特朗普对拉丁美洲的态度及其威胁。",
@@ -280,7 +315,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -302,7 +337,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
