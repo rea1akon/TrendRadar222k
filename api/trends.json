@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T19:23:32.166432+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2025-12-17T20:51:16.969118+08:00",
+  "total_titles_processed": 1855,
   "failed_sources": [],
   "trends": [
     {
@@ -64,6 +64,19 @@
           "time_info": "[00时51分 ~ 12时35分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时26分 ~ 20时51分]"
+        },
+        {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
           "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
           "source": "凤凰网",
@@ -111,18 +124,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时22分 ~ 17时31分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时26分 ~ 19时23分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
