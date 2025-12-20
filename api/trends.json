@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T05:20:07.426926+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2025-12-21T06:21:13.067861+08:00",
+  "total_titles_processed": 442,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -26,8 +26,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时21分]"
+        },
+        {
+          "title": "特朗普入股核聚变公司",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A5%E8%82%A1%E6%A0%B8%E8%81%9A%E5%8F%98%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            25,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 06时21分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -52,30 +77,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 05时20分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
-          "url": "https://flash.jin10.com/detail/20251220184219205800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 05时20分]"
-        },
-        {
-          "title": "特朗普入股核聚变公司",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A5%E8%82%A1%E6%A0%B8%E8%81%9A%E5%8F%98%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时23分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
