@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T20:43:12.025691+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-12-21T21:30:51.023484+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时23分 ~ 20时43分]"
+          "appearance_count": 12,
+          "time_info": "[13时23分 ~ 21时30分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -59,6 +59,17 @@
           "time_info": "[09时56分 ~ 15时22分]"
         },
         {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 21时30分]"
+        },
+        {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
@@ -85,17 +96,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时21分]"
-        },
-        {
-          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
-          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时43分]"
         },
         {
           "title": "特朗普入股核聚变公司",
@@ -167,11 +167,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时43分]"
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 21时30分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
