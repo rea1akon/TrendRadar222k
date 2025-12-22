@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T22:24:38.859413+08:00",
-  "total_titles_processed": 1787,
+  "generated_at": "2025-12-22T23:26:24.951615+08:00",
+  "total_titles_processed": 1884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时24分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时26分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -84,8 +84,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时43分 ~ 22时24分]"
+          "appearance_count": 14,
+          "time_info": "[12时43分 ~ 23时26分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -117,6 +117,17 @@
           "time_info": "[02时31分 ~ 16时34分]"
         },
         {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时26分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
           "url": "https://flash.jin10.com/detail/20251221222740005800",
           "source": "金十数据",
@@ -141,17 +152,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时39分 ~ 19时21分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时24分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -329,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "白宫官员：美国总统特朗普和美国国防部长赫格塞思将于周一就造船业发表声明。",
+          "url": "https://flash.jin10.com/detail/20251222225324934800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
         },
         {
           "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
