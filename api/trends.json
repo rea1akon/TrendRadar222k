@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T03:19:57.593009+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-12-24T04:26:25.453310+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -38,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -52,8 +53,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -62,11 +63,12 @@
           "ranks": [
             25,
             14,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -76,8 +78,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时26分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -86,11 +88,12 @@
           "ranks": [
             20,
             16,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 04时26分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -171,11 +174,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时19分]"
+          "appearance_count": 3,
+          "time_info": "[02时35分 ~ 04时26分]"
         },
         {
           "title": "美国总统特朗普：希望市场能在好消息时上涨，在坏消息时下跌。",
@@ -232,9 +236,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时26分]"
         },
         {
           "title": "据纽约时报：美国国会山成员寻求将特朗普的名字移出肯尼迪中心。",
@@ -246,6 +250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "美军将建造“特朗普级”战舰",
+          "url": "https://www.douyin.com/hot/2345209",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时26分"
         },
         {
           "title": "美国总统特朗普：我与哈萨克斯坦总统、乌兹别克斯坦总统通电话。 美方将邀请两国参加（美国在2026年轮值主办的）二十国集团（G20）峰会。",
