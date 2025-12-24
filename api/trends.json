@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T06:22:51.438945+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2025-12-25T07:22:24.700071+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 07时22分]"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -126,11 +126,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 07时22分]"
         },
         {
           "title": "学者：特朗普锚定“第四处战场”",
