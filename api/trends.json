@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T18:25:49.376535+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-12-25T19:21:13.941734+08:00",
+  "total_titles_processed": 1563,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时21分]"
         },
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -75,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时26分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 19时21分]"
         },
         {
           "title": "周三（12月24日），降息赢家指数涨0.60%，报100.35点。 “特朗普关税输家”指数涨0.41%，散户抱团概念股指数/迷因股（meme stock）指数跌0.43%。",
@@ -113,7 +113,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -138,17 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225173408748800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         },
         {
           "title": "美国法官支持特朗普推进10万美元天价H-1B签证费，美商会表达失望",
@@ -188,6 +177,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 03时19分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 19时21分]"
         },
         {
           "title": "特朗普为何强调新战列舰不针对中国",
