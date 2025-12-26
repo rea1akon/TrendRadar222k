@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T13:25:21.101589+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-12-26T14:36:37.869860+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 14时36分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -46,20 +60,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时19分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时25分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -124,6 +124,17 @@
           "time_info": "[00时30分 ~ 04时27分]"
         },
         {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时36分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -138,26 +149,16 @@
           "time_info": "[01时20分 ~ 04时27分]"
         },
         {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时25分]"
-        },
-        {
           "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
           "url": "https://flash.jin10.com/detail/20251226130524809800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时25分 ~ 14时36分]"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
