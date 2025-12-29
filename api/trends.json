@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T21:39:51.240072+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-12-29T22:25:02.032077+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -40,8 +40,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时39分 ~ 21时39分]"
+          "appearance_count": 12,
+          "time_info": "[14时39分 ~ 22时25分]"
         },
         {
           "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -899,6 +899,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
+          "url": "https://flash.jin10.com/detail/20251229213129062800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "特朗普政府正在调查美国大型企业在招聘和晋升方面的相关举措。（华尔街日报）",
