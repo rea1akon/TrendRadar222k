@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:33:09.971195+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2025-12-31T17:28:30.747370+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
             10,
             5,
             7,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时39分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时39分 ~ 17时28分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
