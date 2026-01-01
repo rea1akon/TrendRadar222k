@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:48:50.030946+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-01-01T21:35:54.697789+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -76,11 +76,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 20时48分]"
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时35分]"
         },
         {
           "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
