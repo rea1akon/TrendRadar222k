@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T05:22:24.294332+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-01-02T06:23:35.752341+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 06时23分]"
         },
         {
           "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
@@ -25,11 +25,12 @@
           "ranks": [
             3,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时23分]"
         },
         {
           "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
@@ -40,11 +41,12 @@
             6,
             9,
             16,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 06时23分]"
         },
         {
           "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
@@ -52,11 +54,25 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时23分]"
+        },
+        {
+          "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
+          "url": "https://flash.jin10.com/detail/20260102030004557800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时23分]"
         },
         {
           "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
@@ -70,18 +86,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时34分]"
-        },
-        {
-          "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
-          "url": "https://flash.jin10.com/detail/20260102030004557800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 05时22分]"
         },
         {
           "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
