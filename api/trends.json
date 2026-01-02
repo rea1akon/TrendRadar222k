@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T02:34:24.711978+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-01-03T03:16:48.246833+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             16,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时16分]"
         },
         {
           "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 02时34分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 03时16分]"
         },
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -40,8 +42,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普发文猛烈抨击乔治·克鲁尼",
+          "url": "https://www.toutiao.com/trending/7590436761429049350/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 03时16分]"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -57,27 +71,17 @@
           "time_info": "[00时29分 ~ 02时34分]"
         },
         {
-          "title": "特朗普发文猛烈抨击乔治·克鲁尼",
-          "url": "https://www.toutiao.com/trending/7590436761429049350/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 02时34分]"
-        },
-        {
           "title": "特朗普称美国已做好准备",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 02时34分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 03时16分]"
         },
         {
           "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
@@ -108,7 +112,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
         }
