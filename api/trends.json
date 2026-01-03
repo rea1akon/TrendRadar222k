@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T09:48:04.342269+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-01-03T11:25:14.680887+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 09时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 11时25分]"
         },
         {
           "title": "特朗普发文猛烈抨击乔治·克鲁尼",
@@ -36,16 +37,28 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "特朗普与高市早苗通话，推进对方首次访美安排",
+          "url": "https://news.ifeng.com/c/8pbf7hkGDkK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 11时25分]"
+        },
+        {
           "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
           "url": "https://flash.jin10.com/detail/20260103035911381800",
           "source": "金十数据",
           "ranks": [
             1,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时26分 ~ 09时48分]"
+          "appearance_count": 6,
+          "time_info": "[04时26分 ~ 11时25分]"
         },
         {
           "title": "特朗普称美国已做好准备",
@@ -75,15 +88,19 @@
           "time_info": "[09时47分 ~ 09时48分]"
         },
         {
-          "title": "特朗普与高市早苗通话，推进对方首次访美安排",
-          "url": "https://news.ifeng.com/c/8pbf7hkGDkK",
-          "source": "凤凰网",
+          "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
+          "url": "https://wallstreetcn.com/livenews/3029929",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2,
+            16,
+            19,
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 5,
+          "time_info": "[05时18分 ~ 11时25分]"
         },
         {
           "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
@@ -99,20 +116,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时20分 ~ 05时18分]"
-        },
-        {
-          "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
-          "url": "https://wallstreetcn.com/livenews/3029929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时18分 ~ 09时48分]"
         },
         {
           "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
@@ -134,11 +137,47 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 11时25分]"
+        },
+        {
+          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
+          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 11时25分]"
+        },
+        {
+          "title": "特朗普承认没少吃药，否认开会睡觉",
+          "url": "https://news.ifeng.com/c/8pacnklL11I",
+          "source": "凤凰网",
+          "ranks": [
+            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时48分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 11时25分]"
+        },
+        {
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 11时25分]"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -166,37 +205,15 @@
           "time_info": "[05时18分 ~ 07时22分]"
         },
         {
-          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
-          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
-          "source": "凤凰网",
+          "title": "特朗普又对中国在半导体领域下黑手",
+          "url": "https://www.toutiao.com/trending/7590946966054391342/",
+          "source": "今日头条",
           "ranks": [
-            7
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "特朗普承认没少吃药，否认开会睡觉",
-          "url": "https://news.ifeng.com/c/8pacnklL11I",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
