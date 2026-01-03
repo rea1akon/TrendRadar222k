@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T13:24:55.948581+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2026-01-03T14:35:12.342052+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
@@ -37,6 +37,18 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "通话后，高市都笑裂了，特朗普转头就见美驻华大使",
+          "url": "https://news.ifeng.com/c/8pbpH4jJoYi",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时35分]"
+        },
+        {
           "title": "特朗普与高市早苗通话，推进对方首次访美安排",
           "url": "https://news.ifeng.com/c/8pbf7hkGDkK",
           "source": "凤凰网",
@@ -46,6 +58,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时47分 ~ 11时25分]"
+        },
+        {
+          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
+          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 14时35分]"
+        },
+        {
+          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时47分 ~ 14时35分]"
         },
         {
           "title": "伊朗外交部强烈谴责美国总统特朗普和其他美国官员对伊朗内政的干涉主义言论。",
@@ -78,17 +116,6 @@
           "time_info": "[05时18分 ~ 13时24分]"
         },
         {
-          "title": "通话后，高市都笑裂了，特朗普转头就见美驻华大使",
-          "url": "https://news.ifeng.com/c/8pbpH4jJoYi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时24分]"
-        },
-        {
           "title": "特朗普称美国已做好准备",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -105,6 +132,22 @@
           "time_info": "[00时29分 ~ 07时22分]"
         },
         {
+          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
+          "url": "https://wallstreetcn.com/livenews/3029951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            10,
+            11,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 14时35分]"
+        },
+        {
           "title": "特朗普称将就伊朗事件进行干涉",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%B1%E4%BC%8A%E6%9C%97%E4%BA%8B%E4%BB%B6%E8%BF%9B%E8%A1%8C%E5%B9%B2%E6%B6%89",
           "source": "bilibili 热搜",
@@ -114,45 +157,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "特朗普又下黑手，强制“与中国有关联公司”剥离涉美芯片资产",
-          "url": "https://news.ifeng.com/c/8pbhuK7HgiN",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时24分]"
-        },
-        {
-          "title": "沃旭能源Orsted AS与Equinor ASA起诉美国总特朗普政府阻挠它们在美国多个海上风电项目建设的决定。",
-          "url": "https://wallstreetcn.com/livenews/3029951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302492",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时47分 ~ 13时24分]"
         },
         {
           "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
@@ -196,6 +200,18 @@
           "time_info": "[00时29分 ~ 03时16分]"
         },
         {
+          "title": "与高市通话后特朗普转头就见驻华大使",
+          "url": "https://www.toutiao.com/trending/7590145571084681243/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时35分]"
+        },
+        {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
           "url": "https://wallstreetcn.com/livenews/3029871",
           "source": "华尔街见闻-快讯",
@@ -221,18 +237,6 @@
           "time_info": "[05时18分 ~ 07时22分]"
         },
         {
-          "title": "与高市通话后特朗普转头就见驻华大使",
-          "url": "https://www.toutiao.com/trending/7590145571084681243/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时24分]"
-        },
-        {
           "title": "特朗普又对中国在半导体领域下黑手",
           "url": "https://www.toutiao.com/trending/7590946966054391342/",
           "source": "今日头条",
@@ -242,6 +246,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
+        },
+        {
+          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 14时35分]"
         },
         {
           "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
