@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T20:53:08.252828+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-01-05T21:43:19.290197+08:00",
+  "total_titles_processed": 1736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 81,
+      "match_count": 82,
       "titles": [
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时18分 ~ 20时53分]"
+          "appearance_count": 13,
+          "time_info": "[12时18分 ~ 21时43分]"
         },
         {
           "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
@@ -57,17 +57,30 @@
           "time_info": "[16时37分 ~ 19时22分]"
         },
         {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 21时43分]"
+        },
+        {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
           "url": "https://www.toutiao.com/trending/7591783882828431398/",
           "source": "今日头条",
           "ranks": [
             5,
             1,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时36分 ~ 20时53分]"
+          "appearance_count": 7,
+          "time_info": "[17时36分 ~ 21时43分]"
         },
         {
           "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
@@ -78,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时18分 ~ 20时53分]"
+          "appearance_count": 13,
+          "time_info": "[12时18分 ~ 21时43分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -92,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时18分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 21时43分]"
         },
         {
           "title": "特朗普在抓捕马杜罗发布会上称已超越门罗主义，升级为唐罗主义，这反映了怎样的政策转向？核心主张是什么？",
@@ -122,17 +135,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时43分 ~ 19时22分]"
-        },
-        {
-          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
-          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 20时53分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
@@ -189,6 +191,20 @@
           "time_info": "[10时03分 ~ 16时38分]"
         },
         {
+          "title": "委内瑞拉代总统喊话特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            6,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时37分 ~ 21时43分]"
+        },
+        {
           "title": "特朗普威胁古巴哥伦比亚",
           "url": "https://www.douyin.com/hot/2356597",
           "source": "抖音",
@@ -223,19 +239,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时28分 ~ 07时22分]"
-        },
-        {
-          "title": "委内瑞拉代总统喊话特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时37分 ~ 20时53分]"
         },
         {
           "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
@@ -309,6 +312,17 @@
           "time_info": "[00时28分 ~ 06时22分]"
         },
         {
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时28分 ~ 21时43分]"
+        },
+        {
           "title": "委内瑞拉后恐是格陵兰岛，丹麦首相强硬回应特朗普！",
           "url": "https://www.cls.cn/detail/2247392",
           "source": "财联社热门",
@@ -368,17 +382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
-        },
-        {
-          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
-          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时28分 ~ 20时53分]"
         },
         {
           "title": "特朗普威胁委代总统或付“沉重代价”",
@@ -533,6 +536,17 @@
           "time_info": "[05时21分 ~ 07时22分]"
         },
         {
+          "title": "特朗普再度警告委政府：若不配合，或进行第二次军事打击！",
+          "url": "https://www.cls.cn/detail/2247951",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 21时43分]"
+        },
+        {
           "title": "格陵兰岛总理回应特朗普",
           "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%80%BB%E7%90%86%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -542,6 +556,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时36分 ~ 18时29分]"
+        },
+        {
+          "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
+          "url": "https://www.cls.cn/detail/2248057",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时52分 ~ 21时43分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普在委内瑞拉的行为虽属非法，但符合其一贯捍卫美国利益的作风。",
@@ -592,17 +617,6 @@
           "time_info": "[02时32分 ~ 03时18分]"
         },
         {
-          "title": "特朗普再度警告委政府：若不配合，或进行第二次军事打击！",
-          "url": "https://www.cls.cn/detail/2247951",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
           "title": "特朗普又改口：不相信乌克兰袭击普京官邸",
           "url": "https://news.ifeng.com/c/8pfVwlEUPcV",
           "source": "凤凰网",
@@ -612,17 +626,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时28分 ~ 18时29分]"
-        },
-        {
-          "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
-          "url": "https://www.cls.cn/detail/2248057",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
         },
         {
           "title": "特朗普威胁多国",
@@ -852,6 +855,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "特朗普称不相信乌克兰曾袭击普京住所",
           "url": "https://flash.jin10.com/detail/20260105094045584800",
           "source": "金十数据",
@@ -924,7 +938,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
