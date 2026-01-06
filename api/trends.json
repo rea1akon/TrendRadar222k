@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T16:36:05.248228+08:00",
-  "total_titles_processed": 1445,
+  "generated_at": "2026-01-06T17:30:00.124619+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时41分 ~ 16时36分]"
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 17时30分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时53分 ~ 16时36分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 17时30分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -105,11 +105,12 @@
             29,
             18,
             19,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时53分 ~ 16时36分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 17时30分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -124,8 +125,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 16时36分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 17时30分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -175,6 +176,32 @@
           "time_info": "[11时41分 ~ 15时28分]"
         },
         {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 17时30分]"
+        },
+        {
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时28分 ~ 17时30分]"
+        },
+        {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
           "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
           "source": "凤凰网",
@@ -184,30 +211,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时41分 ~ 15时28分]"
-        },
-        {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 16时36分]"
-        },
-        {
-          "title": "丹麦首相警告特朗普涉格陵兰岛言论",
-          "url": "https://www.toutiao.com/trending/7592114928259285042/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 16时36分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -232,16 +235,17 @@
           "time_info": "07时23分"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
           "ranks": [
-            10,
-            9
+            22,
+            15,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时28分 ~ 16时36分]"
+          "time_info": "[14时38分 ~ 17时30分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
@@ -253,6 +257,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "丹麦首相警告特朗普涉格陵兰岛言论",
+          "url": "https://www.toutiao.com/trending/7592114928259285042/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 17时30分]"
         },
         {
           "title": "美国白宫办公厅副主任斯蒂芬·米勒：特朗普已要求卢比奥领导委内瑞拉进程，委内瑞拉任何商务往来都需要美国的批准，我们正得到委内瑞拉的全力配合。",
@@ -369,18 +386,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 02时36分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 16时36分]"
         },
         {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
