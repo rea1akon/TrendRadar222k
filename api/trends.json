@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T11:42:18.459937+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-01-07T12:43:30.061765+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
@@ -60,6 +60,28 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
+          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
+          "url": "https://www.cls.cn/detail/2249909",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
+          "url": "https://news.ifeng.com/c/8piFwnPic7a",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时43分]"
+        },
+        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -72,28 +94,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 11时42分]"
-        },
-        {
-          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
-          "url": "https://www.cls.cn/detail/2249909",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
-        },
-        {
-          "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
-          "url": "https://news.ifeng.com/c/8piFwnPic7a",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -112,11 +112,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时43分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -127,8 +128,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时43分]"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -192,6 +193,17 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://news.ifeng.com/c/8piCojZXRGw",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时43分]"
+        },
+        {
           "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
           "url": "https://flash.jin10.com/detail/20260107045536947800",
           "source": "金十数据",
@@ -228,26 +240,16 @@
           "time_info": "[05时24分 ~ 06时24分]"
         },
         {
-          "title": "特朗普向印度发出新警告",
-          "url": "https://news.ifeng.com/c/8piCojZXRGw",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 11时42分]"
-        },
-        {
           "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
           "url": "https://www.cls.cn/detail/2249952",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -257,8 +259,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "美国高级官员表示，美国总统特朗普希望在其现任期内获取格陵兰岛。",
