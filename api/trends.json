@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T07:23:26.088098+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-01-08T09:53:56.571230+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 55,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时53分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -40,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时53分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -73,7 +73,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -89,15 +89,37 @@
           "time_info": "05时23分"
         },
         {
+          "title": "特朗普团队正起草关于可负担性的行政命令。（Political）",
+          "url": "https://wallstreetcn.com/livenews/3032839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "贝森特、卢特尼克、Wright、Greer、Sacks和Witkoff将随同特朗普参加达沃斯论坛。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3032753",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美国副总统万斯：我们必须解决住房问题。特朗普将在未来几周就住房问题发表声明。",
+          "url": "https://wallstreetcn.com/livenews/3032837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
@@ -134,6 +156,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时53分]"
         },
         {
           "title": "美国总统特朗普：他们将用从我们新的石油协议中获得的资金来支付。",
@@ -431,18 +465,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
-          "url": "https://www.cls.cn/detail/2251170",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -456,6 +479,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美国副总统万斯：特朗普将对格陵兰岛问题做出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260108092749798800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "美国总统特朗普发表针对国防企业的言论后，美国防务股涨势放缓，通用动力股价下跌1.3%，波音(BA.N)股价涨幅收窄。",
@@ -489,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美国副总统万斯：特朗普将对格陵兰岛做出最终决定。 格陵兰岛对美国国家安全至关重要。 丹麦人对安全领域投资不足。 特朗普愿意在格陵兰岛问题上尽其所能。",
+          "url": "https://wallstreetcn.com/livenews/3032830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "白宫：特朗普政府正在“积极”讨论购买格陵兰岛的可能性",
@@ -552,7 +597,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -590,6 +635,28 @@
           "time_info": "06时24分"
         },
         {
+          "title": "美国石油公司警告称，它们需要得到担保才能在委内瑞拉投资。 美国石油高管向特朗普施压，要求获得法律和财务担保。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3032814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "特朗普指示美国退出“不符合该国利益”的66个国际组织",
           "url": "https://wallstreetcn.com/livenews/3032717",
           "source": "华尔街见闻-快讯",
@@ -612,6 +679,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "美国股市：特朗普密集发帖冲击市场",
+          "url": "https://www.toutiao.com/trending/7591727257576685610/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "外媒：特朗普正固化美国全球流氓形象",
           "url": "https://www.toutiao.com/trending/7591748193269137471/",
           "source": "今日头条",
@@ -621,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "特朗普质疑北约在美需要时会否支持",
+          "url": "https://www.toutiao.com/trending/7592647574625075243/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         },
         {
           "title": "特朗普声称接收委内瑞拉石油 导致加拿大油价暴跌",
