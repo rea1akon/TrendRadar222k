@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T20:51:10.428565+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2026-01-09T21:40:45.699606+08:00",
+  "total_titles_processed": 1974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 135,
+      "match_count": 138,
       "titles": [
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -58,8 +58,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时42分 ~ 20时51分]"
+          "appearance_count": 12,
+          "time_info": "[12时42分 ~ 21时40分]"
         },
         {
           "title": "特朗普放话“我不需要国际法”",
@@ -70,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时43分 ~ 20时51分]"
+          "appearance_count": 13,
+          "time_info": "[11时43分 ~ 21时40分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -83,8 +83,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时43分 ~ 20时51分]"
+          "appearance_count": 13,
+          "time_info": "[11时43分 ~ 21时40分]"
         },
         {
           "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
@@ -113,8 +113,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时54分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[09时54分 ~ 21时40分]"
+        },
+        {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 21时40分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -153,6 +166,17 @@
           "time_info": "[00时34分 ~ 12时43分]"
         },
         {
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时40分]"
+        },
+        {
           "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
           "source": "澎湃新闻",
@@ -184,27 +208,15 @@
           "time_info": "[00时34分 ~ 07时21分]"
         },
         {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
           "source": "凤凰网",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时51分]"
-        },
-        {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 20时51分]"
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 21时40分]"
         },
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -217,6 +229,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时54分 ~ 15时28分]"
+        },
+        {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 21时40分]"
         },
         {
           "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
@@ -275,29 +299,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时54分 ~ 15时28分]"
-        },
-        {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 20时51分]"
-        },
-        {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 20时51分]"
         },
         {
           "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
@@ -372,6 +373,17 @@
           "time_info": "07时21分"
         },
         {
+          "title": "美国能源部长赖特：特朗普总统将改变条件，允许企业进入委内瑞拉。",
+          "url": "https://flash.jin10.com/detail/20260109212658629800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
           "url": "https://news.ifeng.com/c/8pls4YBnj3I",
           "source": "凤凰网",
@@ -413,7 +425,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -915,6 +927,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "特朗普：取消对委内瑞拉第二波打击，油企将投资至少1000亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32351594",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "特朗普：石油公司将在委内瑞拉投资1000亿美元",
           "url": "https://flash.jin10.com/detail/20260109111914207800",
           "source": "金十数据",
@@ -932,9 +955,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "特朗普会晤17家油企高管 拟投千亿美元重启委内瑞拉石油版图",
+          "url": "https://flash.jin10.com/detail/20260109212131250800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "据消息人士透露，委内瑞拉正积极与特朗普政府合作，推进其向美国出口石油的计划，委临时领导人德尔茜·罗德里格斯与美国国务卿鲁比奥保持密切沟通。（英国金融时报）",
@@ -1009,7 +1043,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1042,7 +1076,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -1086,7 +1120,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
