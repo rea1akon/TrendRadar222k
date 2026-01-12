@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T21:44:41.213228+08:00",
-  "total_titles_processed": 1690,
+  "generated_at": "2026-01-12T22:29:31.437877+08:00",
+  "total_titles_processed": 1763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普发图自称“委内瑞拉代总统”",
@@ -34,6 +34,31 @@
           "time_info": "[00时28分 ~ 09时59分]"
         },
         {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 22时29分]"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 22时29分]"
+        },
+        {
           "title": "特朗普表态让万千台湾民众看清现实",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%80%81%E8%AE%A9%E4%B8%87%E5%8D%83%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E7%9C%8B%E6%B8%85%E7%8E%B0%E5%AE%9E%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -55,31 +80,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时59分 ~ 15时31分]"
-        },
-        {
-          "title": "特朗普威胁古巴，委内瑞拉发声",
-          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时36分 ~ 21时44分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
-          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时36分 ~ 21时44分]"
         },
         {
           "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
@@ -290,6 +290,17 @@
           "time_info": "18时29分"
         },
         {
+          "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
+          "url": "https://news.ifeng.com/c/8pr1vFKruDQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "美国共和党参议员蒂利斯：如果之前还有人怀疑特朗普政府内部的顾问是否正在积极推动结束美联储的独立性，那么现在应该没有任何疑问了。",
           "url": "https://flash.jin10.com/detail/20260112092912020800",
           "source": "金十数据",
@@ -299,6 +310,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 22时29分]"
         },
         {
           "title": "美国总统特朗普将于周二听取与伊朗相关选项的介绍。 这些考虑还处于早期阶段。（华尔街日报）",
@@ -313,6 +336,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时26分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 22时29分]"
         },
         {
           "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
@@ -365,18 +401,6 @@
           "time_info": "[13时33分 ~ 14时41分]"
         },
         {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时44分]"
-        },
-        {
           "title": "分析师：特朗普攻击美联储动摇市场信心",
           "url": "https://flash.jin10.com/detail/20260112115831082800",
           "source": "金十数据",
@@ -399,19 +423,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时36分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时44分]"
         },
         {
           "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
@@ -460,6 +471,18 @@
           "time_info": "[11时56分 ~ 13时33分]"
         },
         {
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时29分]"
+        },
+        {
           "title": "特朗普发布系列指令震慑企业界，CEO们保持警惕",
           "url": "https://wallstreetcn.com/livenews/3034767",
           "source": "华尔街见闻-快讯",
@@ -484,15 +507,52 @@
           "time_info": "[18时29分 ~ 19时24分]"
         },
         {
-          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
-          "url": "https://wallstreetcn.com/articles/3763082",
-          "source": "华尔街见闻",
+          "title": "德国财政部长克林贝伊尔就特朗普抨击美联储发表评论：作为财政部长，央行独立性对我来说是一条不容逾越的红线。",
+          "url": "https://flash.jin10.com/detail/20260112212737636800",
+          "source": "金十数据",
           "ranks": [
-            10
+            7,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时44分]"
+          "time_info": "[21时44分 ~ 22时29分]"
+        },
+        {
+          "title": "美媒：特朗普本周将就美联储主席一职面试贝莱德高管里克·里德",
+          "url": "https://flash.jin10.com/detail/20260112212716396800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时29分]"
+        },
+        {
+          "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260112212210051800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时29分]"
+        },
+        {
+          "title": "特朗普将就美联储主席一职面试贝莱德高管里德（Rick Rieder）。面试将于本周举行。",
+          "url": "https://flash.jin10.com/detail/20260112211851443800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时44分 ~ 22时29分]"
         },
         {
           "title": "特朗普发图自称委内瑞拉代总统",
@@ -550,17 +610,6 @@
           "time_info": "09时59分"
         },
         {
-          "title": "德国财政部长克林贝伊尔就特朗普抨击美联储发表评论：作为财政部长，央行独立性对我来说是一条不容逾越的红线。",
-          "url": "https://flash.jin10.com/detail/20260112212737636800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "特朗普：伊朗昨日呼吁就核问题进行谈判。美国可能和伊朗会面。",
           "url": "https://wallstreetcn.com/livenews/3034881",
           "source": "华尔街见闻-快讯",
@@ -583,24 +632,13 @@
           "time_info": "09时59分"
         },
         {
-          "title": "美媒：特朗普本周将就美联储主席一职面试贝莱德高管里克·里德",
-          "url": "https://flash.jin10.com/detail/20260112212716396800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
-        },
-        {
           "title": "特朗普将就美联储主席一职面试贝莱德分析师Rick Rieder，面试将于本周进行。（福克斯）",
           "url": "https://wallstreetcn.com/livenews/3035370",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -625,17 +663,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
-        },
-        {
-          "title": "北约秘书长吕特：相信美国总统特朗普为北约做正确的事情。",
-          "url": "https://flash.jin10.com/detail/20260112212210051800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "特朗普称在考虑干预伊朗局势的“强硬选项”",
@@ -669,17 +696,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
-        },
-        {
-          "title": "特朗普将就美联储主席一职面试贝莱德高管里德（Rick Rieder）。面试将于本周举行。",
-          "url": "https://flash.jin10.com/detail/20260112211851443800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时44分"
         },
         {
           "title": "美媒：特朗普盟友将投放超级碗广告宣传“特朗普账户”",
@@ -746,6 +762,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "META任命前特朗普顾问Dina Powell McCormick担任新设立的高管职位，负责与政府和投资者合作推动AI发展。",
+          "url": "https://wallstreetcn.com/livenews/3035386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "特朗普称伊朗提议谈判但美国或“先行动”",
