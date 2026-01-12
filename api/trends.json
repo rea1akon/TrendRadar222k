@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T05:24:49.881445+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-01-13T06:22:20.348145+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -37,30 +37,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
           "url": "https://wallstreetcn.com/articles/3763089",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
           "url": "https://wallstreetcn.com/articles/3763082",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
@@ -71,8 +73,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 05时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 06时22分]"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -80,11 +82,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 05时24分]"
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 06时22分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -98,15 +101,40 @@
           "time_info": "02时41分"
         },
         {
+          "title": "罗德里格斯回应特朗普“自诩委内瑞拉代总统”",
+          "url": "https://wallstreetcn.com/livenews/3035584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "美国总统特朗普倾向于袭击伊朗，但还没有做最终决定。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3035581",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普：最高法若就关税政策作出不利裁决，美将无法负担代价",
+          "url": "https://wallstreetcn.com/livenews/3035556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时22分]"
         },
         {
           "title": "白宫新闻秘书利维特：：特朗普并未设定收购格陵兰岛的时间表。",
@@ -144,18 +172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普：最高法若就关税政策作出不利裁决，美将无法负担代价",
-          "url": "https://wallstreetcn.com/livenews/3035556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时24分]"
         },
         {
           "title": "特朗普古巴政策现“温差” 仍允许墨西哥向古巴输油",
@@ -230,6 +246,18 @@
           "time_info": "[03时23分 ~ 04时29分]"
         },
         {
+          "title": "美媒：特朗普最近几周多次抱怨司法部长帕姆·邦迪",
+          "url": "https://flash.jin10.com/detail/20260113045004188800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
           "title": "诺和诺德CEO：公司对直接与特朗普政府对话感到欣慰。 预计Wegovy口服药有助于拓展减肥药市场。",
           "url": "https://wallstreetcn.com/livenews/3035459",
           "source": "华尔街见闻-快讯",
@@ -302,6 +330,18 @@
           "time_info": "[03时23分 ~ 04时29分]"
         },
         {
+          "title": "美国总统特朗普曾多次向助手抱怨司法部长邦迪（Bondi），自称倍感挫折。 不满之处包括对Comey和james的调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3035569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
           "title": "白宫新闻秘书利维特：美国总统特朗普相信美联储的独立性。",
           "url": "https://flash.jin10.com/detail/20260113021957699800",
           "source": "金十数据",
@@ -350,6 +390,18 @@
           "time_info": "[02时41分 ~ 03时23分]"
         },
         {
+          "title": "特朗普的司法部调查鲍威尔给日元带来一波急剧的冲高回落行情",
+          "url": "https://wallstreetcn.com/livenews/3035564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
           "title": "白宫新闻秘书利维特：特朗普明天将参观福特工厂。",
           "url": "https://flash.jin10.com/detail/20260113020925954800",
           "source": "金十数据",
@@ -360,6 +412,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时23分]"
+        },
+        {
+          "title": "特朗普：任何与伊朗开展业务的国家都将被征收25%关税",
+          "url": "https://flash.jin10.com/detail/20260113054813875800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "据华尔街日报：以美国副总统万斯为首的某些高级政府助手敦促美国总统特朗普在对伊朗采取报复行动之前先尝试外交手段。",
@@ -373,15 +436,15 @@
           "time_info": "04时29分"
         },
         {
-          "title": "美媒：特朗普最近几周多次抱怨司法部长帕姆·邦迪",
-          "url": "https://flash.jin10.com/detail/20260113045004188800",
+          "title": "罗德里格斯回应特朗普“自诩委内瑞拉代总统”",
+          "url": "https://flash.jin10.com/detail/20260113054439873800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时24分"
+          "time_info": "06时22分"
         },
         {
           "title": "据华尔街日报：白宫权衡伊朗的核谈提议，而美国总统特朗普倾向于采取打击行动。",
@@ -417,17 +480,6 @@
           "time_info": "01时26分"
         },
         {
-          "title": "美国总统特朗普曾多次向助手抱怨司法部长邦迪（Bondi），自称倍感挫折。 不满之处包括对Comey和james的调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3035569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
           "title": "美国国会山一个跨党派团体前往丹麦首都哥本哈根。 在总统特朗普企图吞并格陵兰岛之际，他们会见丹麦官员们。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3035545",
           "source": "华尔街见闻-快讯",
@@ -459,17 +511,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "特朗普的司法部调查鲍威尔给日元带来一波急剧的冲高回落行情",
-          "url": "https://wallstreetcn.com/livenews/3035564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时24分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。 （自从美方强行掳走委内瑞拉总统马杜罗以来）委内瑞拉政府已经“全面配合”（美方的意图）。 现在谈论委内瑞拉大选还言之过早。",
@@ -511,7 +552,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         },
