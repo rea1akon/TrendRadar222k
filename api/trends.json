@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T19:23:46.884487+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2026-01-13T20:53:55.190548+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 85,
+      "match_count": 86,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -102,8 +102,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 19时23分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 20时53分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -119,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 19时23分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 20时53分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -132,8 +132,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时40分 ~ 19时23分]"
+          "appearance_count": 14,
+          "time_info": "[11时40分 ~ 20时53分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -160,8 +160,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时50分 ~ 19时23分]"
+          "appearance_count": 16,
+          "time_info": "[09时50分 ~ 20时53分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -214,8 +214,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 20时53分]"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -256,6 +256,17 @@
           "time_info": "[11时40分 ~ 15时28分]"
         },
         {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 20时53分]"
+        },
+        {
           "title": "暴力执法惹众怒，美国两州把特朗普政府告了",
           "url": "https://news.ifeng.com/c/8pslTiqBz0e",
           "source": "凤凰网",
@@ -276,17 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
-        },
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "美国总统特朗普倾向于袭击伊朗，但还没有做最终决定。（Axios）",
@@ -750,6 +750,17 @@
           "time_info": "18时28分"
         },
         {
+          "title": "阿联酋贸易部长：尚不清楚美国总统特朗普宣布对与伊朗有贸易往来的国家征收关税将如何实施，我们将观察这是否会影响从伊朗进口食品。",
+          "url": "https://flash.jin10.com/detail/20260113201116059800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "据华尔街日报：白宫权衡伊朗的核谈提议，而美国总统特朗普倾向于采取打击行动。",
           "url": "https://flash.jin10.com/detail/20260113032013915800",
           "source": "金十数据",
@@ -998,7 +1009,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
