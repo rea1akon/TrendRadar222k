@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T21:44:01.906720+08:00",
-  "total_titles_processed": 1882,
+  "generated_at": "2026-01-13T22:29:09.957840+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 88,
+      "match_count": 89,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -79,6 +79,18 @@
           "time_info": "[11时40分 ~ 16时35分]"
         },
         {
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 22时29分]"
+        },
+        {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
           "url": "https://wallstreetcn.com/articles/3763089",
           "source": "华尔街见闻",
@@ -102,20 +114,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时50分 ~ 21时44分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 21时44分]"
+          "appearance_count": 20,
+          "time_info": "[09时50分 ~ 22时29分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -131,8 +131,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时50分 ~ 21时44分]"
+          "appearance_count": 20,
+          "time_info": "[09时50分 ~ 22时29分]"
+        },
+        {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 22时29分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -158,8 +169,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时50分 ~ 21时44分]"
+          "appearance_count": 20,
+          "time_info": "[09时50分 ~ 22时29分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -216,17 +227,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 09时51分]"
-        },
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时44分]"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -295,7 +295,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -833,9 +833,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
+        },
+        {
+          "title": "丹麦首相：（谈特朗普对格陵兰岛的兴趣）有大量证据表明，最艰难的部分还在后面。",
+          "url": "https://flash.jin10.com/detail/20260113220415069800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "美国参议院民主党成员Warren：接到总统特朗普的电话。 我已经告诉特朗普，我会支持参议院通过信用卡利率上限。",
