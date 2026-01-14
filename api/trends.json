@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T21:42:49.475276+08:00",
-  "total_titles_processed": 2031,
+  "generated_at": "2026-01-14T22:28:57.162428+08:00",
+  "total_titles_processed": 2103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 117,
+      "match_count": 118,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普特使秘密见了伊朗末代王储",
+          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时34分 ~ 22时28分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -40,19 +53,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时34分 ~ 21时42分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -118,18 +118,6 @@
           "time_info": "[00时35分 ~ 05时24分]"
         },
         {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时52分 ~ 15时29分]"
-        },
-        {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
           "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
           "source": "澎湃新闻",
@@ -141,8 +129,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时32分 ~ 22时28分]"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时32分 ~ 21时42分]"
+          "time_info": "[11时52分 ~ 15时29分]"
         },
         {
           "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
@@ -236,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "美国总统特朗普今日将签署关于学校全脂牛奶的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260114221525506800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -1245,7 +1256,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1267,7 +1278,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -1311,7 +1322,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
