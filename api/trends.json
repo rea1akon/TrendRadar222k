@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T22:28:57.162428+08:00",
-  "total_titles_processed": 2103,
+  "generated_at": "2026-01-14T23:31:26.103735+08:00",
+  "total_titles_processed": 2206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 118,
+      "match_count": 125,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时34分 ~ 22时28分]"
+          "appearance_count": 12,
+          "time_info": "[16时34分 ~ 23时31分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -68,6 +68,22 @@
           "time_info": "[09时58分 ~ 14时39分]"
         },
         {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时32分 ~ 23时31分]"
+        },
+        {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
           "url": "https://wallstreetcn.com/articles/3763222",
           "source": "华尔街见闻",
@@ -76,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时52分 ~ 21时42分]"
+          "appearance_count": 18,
+          "time_info": "[11时52分 ~ 23时31分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -116,21 +132,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时35分 ~ 05时24分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时32分 ~ 22时28分]"
         },
         {
           "title": "特朗普建议盟友“撤离”伊朗",
@@ -194,6 +195,17 @@
           "time_info": "17时33分"
         },
         {
+          "title": "美国最高法院未就特朗普关税的合法性作出裁决",
+          "url": "https://flash.jin10.com/detail/20260114232658833800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "特朗普：对伊朗最终目标是“赢”",
           "url": "https://wallstreetcn.com/livenews/3036719",
           "source": "华尔街见闻-快讯",
@@ -244,7 +256,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -755,6 +767,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "美最高法院未就特朗普政府关税合法性作出裁决",
+          "url": "https://wallstreetcn.com/livenews/3037174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及《美墨加协定》（USMCA）的日落条款时）该条款无关紧要，加拿大希望保留该协定，但美国并不需要它。",
           "url": "https://flash.jin10.com/detail/20260114015647765800",
           "source": "金十数据",
@@ -865,6 +888,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "美最高法院未就特朗普政府关税合法性作出裁决",
+          "url": "https://flash.jin10.com/detail/20260114231759371800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "美国总统特朗普上周在一场活动上称美国的检察官软弱。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3036391",
           "source": "华尔街见闻-快讯",
@@ -931,6 +965,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决。 标普500指数维持0.5%的跌幅，纳指跌超0.8%，半导体指数跌0.9%，银行指数跌1.1%。 标普1500服装指数跌1.3%，刷新日低。耐克、露露柠檬刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3037168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "特朗普驳斥戴蒙对司法部调查鲍威尔的批评",
           "url": "https://flash.jin10.com/detail/20260114063417981800",
           "source": "金十数据",
@@ -951,6 +996,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "特朗普当场被激怒，白宫称抗议者是“歇斯底里的疯子”，福特将其停职",
+          "url": "https://wallstreetcn.com/livenews/3037167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美国总统特朗普：我听说氢燃料汽车的测试结果不太理想。",
@@ -1017,6 +1073,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "美国最高法院未就特朗普关税的合法性作出裁决。",
+          "url": "https://flash.jin10.com/detail/20260114231225342800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "特朗普当场被激怒，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3037163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美国总统特朗普：如果我们在关税诉讼中败诉，我们会想办法的。",
