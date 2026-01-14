@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:24:36.364838+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2026-01-14T20:53:09.800675+08:00",
+  "total_titles_processed": 1908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 107,
+      "match_count": 114,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -47,11 +47,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时34分 ~ 19时24分]"
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 20时53分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -75,8 +76,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时52分 ~ 19时24分]"
+          "appearance_count": 15,
+          "time_info": "[11时52分 ~ 20时53分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -154,6 +155,20 @@
           "time_info": "07时22分"
         },
         {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 20时53分]"
+        },
+        {
           "title": "中方回应“特朗普称不需要国际法”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
           "source": "百度热搜",
@@ -187,6 +202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "特朗普喊话最高法院：在重大裁决前请先看我们史无前例的经济上成功",
+          "url": "https://flash.jin10.com/detail/20260114201722365800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "美国总统特朗普：摩根大通CEO戴蒙就调查美联储主席鲍威尔一事谴责司法部，那样做“是错误的”。",
@@ -378,19 +404,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时23分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 19时24分]"
         },
         {
           "title": "特朗普演讲时突然模仿拜登",
@@ -796,6 +809,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "英媒：特朗普政府已获50个伊朗高价值军事目标清单",
+          "url": "https://flash.jin10.com/detail/20260114200542021800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "特朗普将率“最大美国代表团”出席达沃斯论坛",
           "url": "https://wallstreetcn.com/livenews/3036705",
           "source": "华尔街见闻-快讯",
@@ -873,6 +897,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "美国总统特朗普：国内生产总值（GDP）预计将增长超过5%。",
+          "url": "https://flash.jin10.com/detail/20260114200207252800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "Warren敦促特朗普的财政部限制对冲基金等对储备金的利用",
           "url": "https://wallstreetcn.com/livenews/3036329",
           "source": "华尔街见闻-快讯",
@@ -893,6 +928,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "美国总统特朗普：今天公布的数据显示，美国贸易逆差降至2009年以来的最低水平，并且还在持续下降。",
+          "url": "https://flash.jin10.com/detail/20260114200129386800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "美国总统特朗普：我听说氢燃料汽车的测试结果不太理想。",
@@ -928,6 +974,17 @@
           "time_info": "17时33分"
         },
         {
+          "title": "在特朗普考虑是否对伊朗发动袭击之际，特朗普政府已收到一份详细的伊朗军事目标清单，其中包括50个目标。",
+          "url": "https://flash.jin10.com/detail/20260114195925033800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "特朗普称已取消所有与伊朗官员的会谈",
           "url": "https://wallstreetcn.com/livenews/3036306",
           "source": "华尔街见闻-快讯",
@@ -959,6 +1016,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：自2月1日起，联邦政府将不再向各州支付用于其腐败的犯罪保护中心（即所谓的“庇护城市”）的款项。",
+          "url": "https://flash.jin10.com/detail/20260114195407071800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "美国众议院议长约翰逊：已经与总统特朗普讨论10%的信用卡利率上限方案。 在这个问题上（的立法）需要大量沟通。 必须在信用卡利率上限方案方面非常深思熟虑。",
@@ -1198,7 +1266,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1234,6 +1302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "美国总统特朗普：美国出于国家安全需要格陵兰岛。 格陵兰岛对“金穹”导弹防御系统至关重要。 北约应当牵头以便美国取得格陵兰。 如果格陵兰在美国手中，北约将强大得多。",
+          "url": "https://wallstreetcn.com/livenews/3037002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     }
