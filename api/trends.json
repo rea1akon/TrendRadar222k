@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T19:23:26.427994+08:00",
-  "total_titles_processed": 1818,
+  "generated_at": "2026-01-15T20:52:07.596798+08:00",
+  "total_titles_processed": 1942,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[00时35分 ~ 09时53分]"
         },
         {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 20时52分]"
+        },
+        {
           "title": "特朗普特使秘密见了伊朗末代王储",
           "url": "https://news.ifeng.com/c/8puGHxn1NbX",
           "source": "凤凰网",
@@ -52,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 19时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时53分 ~ 20时52分]"
         },
         {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
@@ -82,16 +94,15 @@
           "time_info": "[05时24分 ~ 07时21分]"
         },
         {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
           "source": "凤凰网",
           "ranks": [
-            2,
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时35分 ~ 19时23分]"
+          "time_info": "[18时28分 ~ 20时52分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -105,17 +116,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时53分 ~ 15时28分]"
-        },
-        {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时23分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -210,6 +210,18 @@
           "time_info": "[11时44分 ~ 13时28分]"
         },
         {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 20时52分]"
+        },
+        {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
           "url": "https://wallstreetcn.com/livenews/3037278",
           "source": "华尔街见闻-快讯",
@@ -268,18 +280,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时31分 ~ 19时23分]"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 19时23分]"
         },
         {
           "title": "特朗普邀请记者喝放了5天的牛奶",
@@ -451,7 +451,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
