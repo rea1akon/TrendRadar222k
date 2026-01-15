@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T12:44:05.706001+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-01-15T13:28:58.956772+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时28分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -98,6 +98,31 @@
           "time_info": "09时53分"
         },
         {
+          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2258166",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 13时28分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 13时28分]"
+        },
+        {
           "title": "特朗普再批鲍威尔",
           "url": "https://www.douyin.com/hot/2367805",
           "source": "抖音",
@@ -110,16 +135,17 @@
           "time_info": "[03时21分 ~ 06时26分]"
         },
         {
-          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2258166",
-          "source": "财联社热门",
+          "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
+          "url": "https://wallstreetcn.com/livenews/3037513",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6
+            1,
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 13时28分]"
         },
         {
           "title": "标普500能源指数回吐涨幅，美国总统特朗普谈及伊朗。",
@@ -132,29 +158,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时25分]"
-        },
-        {
-          "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
-          "url": "https://wallstreetcn.com/livenews/3037513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时44分]"
-        },
-        {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时44分]"
         },
         {
           "title": "美国总统特朗普签署行动，来保障国家稀土供应。",
@@ -189,19 +192,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 12时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 13时28分]"
         },
         {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
           "url": "https://www.cls.cn/detail/2258223",
           "source": "财联社热门",
           "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时28分]"
+        },
+        {
+          "title": "委内瑞拉代总统和特朗普通话",
+          "url": "https://www.douyin.com/hot/2368035",
+          "source": "抖音",
+          "ranks": [
+            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 13时28分]"
         },
         {
           "title": "特朗普称与委内瑞拉代总统通话",
@@ -226,17 +242,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时21分]"
-        },
-        {
-          "title": "委内瑞拉代总统和特朗普通话",
-          "url": "https://www.douyin.com/hot/2368035",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
         },
         {
           "title": "特朗普敲定首笔委内瑞拉石油大单，5亿美金落袋",
@@ -440,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "特朗普同委内瑞拉代总统通话",
+          "url": "https://www.toutiao.com/trending/7594631182898397227/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "美国总统特朗普签署关键矿物行政命令。",
