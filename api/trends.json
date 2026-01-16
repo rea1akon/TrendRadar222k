@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T12:43:06.526118+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-01-16T13:28:42.397486+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 81,
+      "match_count": 82,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时38分 ~ 12时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 13时28分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 13时28分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 13时28分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时43分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时28分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -129,6 +129,30 @@
           "time_info": "07时25分"
         },
         {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 13时28分]"
+        },
+        {
+          "title": "“特朗普级”军舰造价或创美历史新高，高达220亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 13时28分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
           "url": "https://wallstreetcn.com/livenews/3038164",
           "source": "华尔街见闻-快讯",
@@ -164,18 +188,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "“特朗普级”军舰造价或创美历史新高，高达220亿美元",
-          "url": "https://wallstreetcn.com/livenews/3038447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 12时43分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
@@ -229,17 +241,6 @@
           "time_info": "[02时40分 ~ 04时29分]"
         },
         {
-          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
-          "url": "https://wallstreetcn.com/articles/3763392",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 12时43分]"
-        },
-        {
           "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
           "url": "https://flash.jin10.com/detail/20260116024657437800",
           "source": "金十数据",
@@ -264,6 +265,17 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 13时28分]"
+        },
+        {
           "title": "邀记者畅饮放了5天的牛奶，特朗普：还挺新鲜的",
           "url": "https://m.thepaper.cn/newsDetail_forward_32392145",
           "source": "澎湃新闻",
@@ -275,17 +287,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时25分 ~ 09时55分]"
-        },
-        {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 12时43分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
@@ -439,6 +440,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://www.douyin.com/hot/2369152",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         },
         {
           "title": "美国白宫：特朗普要求国会通过法律，将其“最惠国待遇”药品价格政策法典化。",
@@ -700,7 +712,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
         },
