@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T17:24:46.732924+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-01-18T18:25:28.697598+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
@@ -102,6 +102,36 @@
           "time_info": "[00时26分 ~ 17时24分]"
         },
         {
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            23,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时07分 ~ 18时25分]"
+        },
+        {
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
           "url": "https://wallstreetcn.com/articles/3763499",
           "source": "华尔街见闻",
@@ -111,6 +141,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 18时25分]"
         },
         {
           "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
@@ -139,20 +180,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时07分 ~ 17时24分]"
         },
         {
           "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
@@ -210,31 +237,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时26分 ~ 17时24分]"
-        },
-        {
-          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
-          "url": "https://wallstreetcn.com/articles/3763532",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时26分 ~ 17时24分]"
         },
         {
           "title": "英媒：特朗普羡慕中国",
@@ -477,6 +479,29 @@
           "time_info": "[00时26分 ~ 01时20分]"
         },
         {
+          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
+          "url": "https://flash.jin10.com/detail/20260118162133517800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 18时25分]"
+        },
+        {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
           "url": "https://flash.jin10.com/detail/20260118081338309800",
           "source": "金十数据",
@@ -524,15 +549,15 @@
           "time_info": "[10时02分 ~ 12时07分]"
         },
         {
-          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
-          "url": "https://flash.jin10.com/detail/20260118162133517800",
+          "title": "德国工程协会表示，欧盟委员会应考虑采取反胁迫工具，以应对美国总统特朗普针对格陵兰岛的关税威胁。",
+          "url": "https://flash.jin10.com/detail/20260118171938820800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "18时25分"
         },
         {
           "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
@@ -546,15 +571,15 @@
           "time_info": "07时22分"
         },
         {
-          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
-          "url": "https://wallstreetcn.com/articles/3763529",
-          "source": "华尔街见闻",
+          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "18时25分"
         },
         {
           "title": "特朗普开价10亿卖委员会永久席位",
@@ -566,6 +591,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        },
+        {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至完全收购格陵兰岛，这需要多少钱，经济上 2026 再掀关税战还能有效吗？",
+          "url": "https://www.zhihu.com/question/1996151715129492944",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "法国总统马克龙表示，美国总统特朗普关于格陵兰岛的关税威胁不可接受。",
@@ -607,7 +643,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
