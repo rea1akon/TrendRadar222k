@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T05:22:49.895294+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-01-20T06:25:23.094748+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
+          "url": "https://wallstreetcn.com/articles/3763623",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -27,20 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时36分 ~ 05时22分]"
-        },
-        {
-          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
-          "url": "https://wallstreetcn.com/articles/3763623",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[02时36分 ~ 06时25分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -50,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时36分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[02时36分 ~ 06时25分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -63,8 +64,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "普京被邀请加入特朗普“和平委员会”",
@@ -74,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
@@ -85,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -140,11 +141,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 06时25分]"
         },
         {
           "title": "摩洛哥外交部：摩洛哥接受特朗普邀请，加入加沙和平委员会。",
@@ -233,6 +235,18 @@
           "time_info": "[04时28分 ~ 05时22分]"
         },
         {
+          "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
+          "url": "https://flash.jin10.com/detail/20260120045515099800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时25分]"
+        },
+        {
           "title": "特朗普和将于当时时间周四上午10:30（北京时间17:30）在达沃斯举行和平委员会宪章签署仪式。",
           "url": "https://flash.jin10.com/detail/20260120035235865800",
           "source": "金十数据",
@@ -267,17 +281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时22分]"
-        },
-        {
-          "title": "芬兰总统：欧盟拥有多种工具说服特朗普撤销格陵兰岛威胁",
-          "url": "https://flash.jin10.com/detail/20260120045515099800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         },
         {
           "title": "美国总统特朗普：（当被问及在未能达成格陵兰岛协议的情况下，是否会落实对欧洲国家加征关税的计划时）我会的，百分之百！",
