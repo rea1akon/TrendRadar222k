@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T20:56:19.694073+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2026-01-20T21:51:03.497463+08:00",
+  "total_titles_processed": 1895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 87,
+      "match_count": 91,
       "titles": [
         {
           "title": "会武力夺岛？特朗普：无可奉告",
@@ -56,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时33分 ~ 20时56分]"
+          "appearance_count": 29,
+          "time_info": "[00时33分 ~ 21时51分]"
         },
         {
           "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
@@ -92,11 +92,24 @@
             8,
             6,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时47分 ~ 20时56分]"
+          "appearance_count": 16,
+          "time_info": "[11时47分 ~ 21时51分]"
+        },
+        {
+          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
+          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 21时51分]"
         },
         {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
@@ -175,18 +188,6 @@
           "time_info": "[09时54分 ~ 16时37分]"
         },
         {
-          "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
-          "url": "https://news.ifeng.com/c/8q4QMT6vE0S",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时56分]"
-        },
-        {
           "title": "手握“10万亿美元武器”！分析师热议：欧洲是否会祭出“资本战”反击特朗普？",
           "url": "https://www.cls.cn/detail/2263060",
           "source": "财联社热门",
@@ -209,8 +210,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时56分]"
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 21时51分]"
         },
         {
           "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
@@ -223,8 +224,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时56分]"
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 21时51分]"
         },
         {
           "title": "外交部回应特朗普计划4月访华",
@@ -235,11 +236,36 @@
             17,
             13,
             15,
-            14
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 21时51分]"
+        },
+        {
+          "title": "“特朗普计划4月访华”，中方回应",
+          "url": "https://www.cls.cn/detail/2263523",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时56分]"
+          "time_info": "[17时36分 ~ 21时51分]"
+        },
+        {
+          "title": "特朗普执政一年都干了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%A7%E6%94%BF%E4%B8%80%E5%B9%B4%E9%83%BD%E5%B9%B2%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -253,6 +279,17 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
+          "title": "不可能既要又要，诺贝尔和平奖得主批特朗普政府",
+          "url": "https://news.ifeng.com/c/8q4TQszY1yW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 21时51分]"
+        },
+        {
           "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
           "url": "https://news.ifeng.com/c/8q2uSgRf3ld",
           "source": "凤凰网",
@@ -262,6 +299,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时26分]"
+        },
+        {
+          "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
+          "url": "https://www.zhihu.com/question/1996539214104322510",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 21时51分]"
         },
         {
           "title": "特朗普“颠覆性”的政策手段引燃贵金属行情",
@@ -297,18 +347,6 @@
           "time_info": "15时32分"
         },
         {
-          "title": "“特朗普计划4月访华”，中方回应",
-          "url": "https://www.cls.cn/detail/2263523",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时36分 ~ 20时56分]"
-        },
-        {
           "title": "美国总统特朗普：我将对法国葡萄酒和香槟征收200%的关税，法国总统马克龙将加入和平委员会。",
           "url": "https://flash.jin10.com/detail/20260120125358466800",
           "source": "金十数据",
@@ -332,6 +370,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时36分 ~ 19时26分]"
+        },
+        {
+          "title": "特朗普计划于4月访华？外交部回应",
+          "url": "https://www.toutiao.com/trending/7596273635871031359/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 21时51分]"
         },
         {
           "title": "经济学家：特朗普加征关税或使英国陷入衰退",
@@ -358,17 +408,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时25分]"
-        },
-        {
-          "title": "不可能既要又要，诺贝尔和平奖得主批特朗普政府",
-          "url": "https://news.ifeng.com/c/8q4TQszY1yW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时56分]"
         },
         {
           "title": "美国总统特朗普：没有回头路可走。 格陵兰对国家和世界安全至关重要。 我同意在达沃斯与各方举行会议。 与北约秘书长马克·吕特进行了非常愉快的电话交谈。",
@@ -431,16 +470,16 @@
           "time_info": "[00时33分 ~ 01时26分]"
         },
         {
-          "title": "特朗普 2.0 任期与其上一届任期相比，他的执政思路有变化吗？背后有哪些深层的逻辑？",
-          "url": "https://www.zhihu.com/question/1996539214104322510",
-          "source": "知乎",
+          "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
+          "source": "澎湃新闻",
           "ranks": [
-            15,
-            9
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时31分 ~ 20时56分]"
+          "time_info": "[20时55分 ~ 21时51分]"
         },
         {
           "title": "特朗普关税威胁引发欧股抛售 奢侈品股全线大跌",
@@ -479,18 +518,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普计划于4月访华？外交部回应",
-          "url": "https://www.toutiao.com/trending/7596273635871031359/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 20时56分]"
         },
         {
           "title": "特朗普打关税牌吞格陵兰能得逞吗",
@@ -600,17 +627,6 @@
           "time_info": "[11时47分 ~ 12时49分]"
         },
         {
-          "title": "一图看懂｜特朗普发持星条旗登岛图，格陵兰岛的战略价值在哪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32424436",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
-        },
-        {
           "title": "俄方证实：普京获邀加入特朗普主导的“和平委员会” 正审议细节",
           "url": "https://www.cls.cn/detail/2262948",
           "source": "财联社热门",
@@ -645,6 +661,17 @@
           "time_info": "[02时36分 ~ 03时22分]"
         },
         {
+          "title": "特朗普称英“愚蠢至极”",
+          "url": "https://www.douyin.com/hot/2374249",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
+        },
+        {
           "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
           "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
           "source": "澎湃新闻",
@@ -666,6 +693,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 19时26分]"
+        },
+        {
+          "title": "英国对俄罗斯总统普京邀请加入美国总统特朗普和平委员会表示担忧。",
+          "url": "https://flash.jin10.com/detail/20260120213328450800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "美国总统特朗普：我们必须拥有格陵兰岛。",
@@ -743,6 +781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "美国财长贝森特：美国总统特朗普认为，格陵兰岛对“金色圆顶”导弹防御系统至关重要。",
+          "url": "https://flash.jin10.com/detail/20260120213302531800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         },
         {
           "title": "美国总统特朗普：我们将在达沃斯讨论格陵兰岛。",
@@ -861,7 +910,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
