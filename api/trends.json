@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T04:31:50.393341+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-01-23T05:27:21.086839+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "特朗普180度转折，欧洲懵了",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -60,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -73,8 +73,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
@@ -84,8 +84,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
@@ -95,20 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
-          "url": "https://wallstreetcn.com/articles/3763863",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
@@ -118,8 +106,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -132,8 +120,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "马克龙戴太阳镜亮相遭特朗普调侃",
@@ -144,11 +132,12 @@
             26,
             20,
             14,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "特朗普态度大转弯：与北约就格陵兰达成“框架协议”，取消对欧关税",
@@ -158,6 +147,18 @@
             19,
             17,
             18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 05时27分]"
+        },
+        {
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -173,6 +174,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 01时32分]"
+        },
+        {
+          "title": "特朗普为啥时隔一天态度变了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 05时27分]"
         },
         {
           "title": "德国总理默茨：特朗普放弃吞并格陵兰的计划，这让人感到欣慰。",
@@ -192,29 +205,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "特朗普为啥时隔一天态度变了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E5%95%A5%E6%97%B6%E9%9A%94%E4%B8%80%E5%A4%A9%E6%80%81%E5%BA%A6%E5%8F%98%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时31分 ~ 03时28分]"
-        },
-        {
-          "title": "特朗普称将申办2035年世博会 身兼数职的鲁比奥再迎新头衔",
-          "url": "https://flash.jin10.com/detail/20260123040133988800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -226,8 +217,22 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时37分 ~ 05时27分]"
+        },
+        {
+          "title": "特朗普执政一年把美国推向何方",
+          "url": "https://www.douyin.com/hot/2376099",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            19,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时37分 ~ 04时31分]"
+          "time_info": "[00时39分 ~ 05时27分]"
         },
         {
           "title": "特朗普撤回关税威胁后，欧洲议会拟重启美欧贸易协议表决",
@@ -235,11 +240,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 05时27分]"
+        },
+        {
+          "title": "特朗普称将申办2035年世博会 身兼数职的鲁比奥再迎新头衔",
+          "url": "https://flash.jin10.com/detail/20260123040133988800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时28分 ~ 04时31分]"
+          "time_info": "[04时31分 ~ 05时27分]"
         },
         {
           "title": "特朗普：启程返回华盛顿 达沃斯之行非常精彩",
@@ -252,19 +270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普执政一年把美国推向何方",
-          "url": "https://www.douyin.com/hot/2376099",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "特朗普吐槽北约盟友“不孝顺”",
@@ -378,7 +383,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -389,9 +394,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美国总统特朗普呼吁起诉美国前特别检察官杰克·史密斯。",
+          "url": "https://flash.jin10.com/detail/20260123045616098800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "格陵兰岛总理：相信特朗普不会动用武力；可以谈谈如何在矿产资源方面加强伙伴关系。",
@@ -427,6 +443,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "克里姆林宫：俄罗斯总统普京开始与美国特使Witkoff、美国总统特朗普女婿库什纳对话。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3042286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
           "title": "英国首相斯塔默：我对俄罗斯总统普京加入美国总统特朗普“和平委员会”一事感到担忧。",
           "url": "https://flash.jin10.com/detail/20260123023623793800",
           "source": "金十数据",
@@ -436,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京与美国总统特使威特科夫和特朗普女婿库什纳展开会谈。",
+          "url": "https://flash.jin10.com/detail/20260123042743568800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "奥地利官员Stocker：（欧洲）与美国的关系处于艰难阶段。 如果美国通过贸易手段打击欧洲，将予以反制。 时间将表明（因美国总统特朗普关系而发生的）欧美关系所遭受的破坏是否会是永久性的。",
@@ -471,6 +509,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "白宫贸易顾问纳瓦罗：本周的美国GDP数据显示，特朗普推动的制造业繁荣逐渐根基稳固。",
+          "url": "https://flash.jin10.com/detail/20260123042015022800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
           "url": "https://wallstreetcn.com/livenews/3042186",
           "source": "华尔街见闻-快讯",
@@ -491,6 +540,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普：美国将申办2035年世博会",
+          "url": "https://wallstreetcn.com/livenews/3042278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "据俄罗斯卫星通讯社：美国中东问题特使威特科夫的车队抵达克里姆林宫并将就乌克兰问题进行会谈。此为特朗普政府上任以来威特科夫第七次访问莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260123041358414800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         },
         {
           "title": "德国总理默茨：特朗普放弃吞并格陵兰的计划，这让人感激涕零。 欧洲团结一致，迫使特朗普在格陵兰吞并欲望方面改弦更张。 欧洲是北约的一部分，（欧洲自身）需要能够捍卫自己（的利益）。 必须在防务、竞争方面强化欧洲的韧性。",
