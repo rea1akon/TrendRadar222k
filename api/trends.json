@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T22:34:51.727599+08:00",
-  "total_titles_processed": 2018,
+  "generated_at": "2026-01-22T23:35:24.650461+08:00",
+  "total_titles_processed": 2112,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 228,
+      "match_count": 230,
       "titles": [
         {
           "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时58分 ~ 22时34分]"
+          "appearance_count": 20,
+          "time_info": "[09时58分 ~ 23时35分]"
         },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时36分 ~ 22时34分]"
+          "appearance_count": 11,
+          "time_info": "[17时36分 ~ 23时35分]"
         },
         {
           "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
@@ -145,8 +145,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时58分 ~ 22时34分]"
+          "appearance_count": 20,
+          "time_info": "[09时58分 ~ 23时35分]"
         },
         {
           "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
@@ -209,8 +209,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时31分 ~ 22时34分]"
+          "appearance_count": 17,
+          "time_info": "[13时31分 ~ 23时35分]"
         },
         {
           "title": "特朗普刚喊完中俄威胁，转头就否了",
@@ -224,6 +224,17 @@
           "time_info": "[00时55分 ~ 09时58分]"
         },
         {
+          "title": "特朗普达沃斯演讲，被群嘲了",
+          "url": "https://news.ifeng.com/c/8q7oOaAst69",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时31分 ~ 23时35分]"
+        },
+        {
           "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
           "url": "https://news.ifeng.com/c/8q7huMODUfi",
           "source": "凤凰网",
@@ -233,8 +244,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时36分 ~ 22时34分]"
+          "appearance_count": 11,
+          "time_info": "[17时36分 ~ 23时35分]"
         },
         {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
@@ -247,8 +258,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[07时28分 ~ 22时34分]"
+          "appearance_count": 22,
+          "time_info": "[07时28分 ~ 23时35分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -260,8 +271,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时58分 ~ 22时34分]"
+          "appearance_count": 20,
+          "time_info": "[09时58分 ~ 23时35分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -275,8 +286,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时58分 ~ 22时34分]"
+          "appearance_count": 20,
+          "time_info": "[09时58分 ~ 23时35分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
@@ -362,15 +373,20 @@
           "time_info": "[00时55分 ~ 09时58分]"
         },
         {
-          "title": "特朗普达沃斯演讲，被群嘲了",
-          "url": "https://news.ifeng.com/c/8q7oOaAst69",
-          "source": "凤凰网",
+          "title": "中方回应特朗普达沃斯涉华言论",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
           "ranks": [
-            6
+            26,
+            24,
+            25,
+            22,
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时31分 ~ 22时34分]"
+          "appearance_count": 10,
+          "time_info": "[18时31分 ~ 23时35分]"
         },
         {
           "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
@@ -383,21 +399,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时39分 ~ 19时26分]"
-        },
-        {
-          "title": "中方回应特朗普达沃斯涉华言论",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24,
-            25,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时31分 ~ 22时34分]"
         },
         {
           "title": "特朗普对贸易战“踩刹车” 马斯克据悉希望在7月前让SpaceX上市 | 环球市场",
@@ -423,6 +424,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时28分 ~ 07时29分]"
+        },
+        {
+          "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
+          "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时55分 ~ 23时35分]"
         },
         {
           "title": "解读特朗普和平委员会宪章",
@@ -498,7 +510,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -520,7 +532,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -575,20 +587,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
-        },
-        {
-          "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
-          "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时55分 ~ 22时34分]"
         },
         {
           "title": "格陵兰岛协定泄露，特朗普获得了什么？丨Hi，今天怎么看？",
@@ -815,6 +816,18 @@
           "time_info": "[18时32分 ~ 19时26分]"
         },
         {
+          "title": "特朗普180度转折，欧洲懵了",
+          "url": "https://wallstreetcn.com/articles/3763911",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时50分 ~ 23时35分]"
+        },
+        {
           "title": "美股收盘：特朗普助力 三大股指涨超1%",
           "url": "https://flash.jin10.com/detail/20260122050202493800",
           "source": "金十数据",
@@ -947,17 +960,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 01时57分]"
-        },
-        {
-          "title": "特朗普180度转折，欧洲懵了",
-          "url": "https://wallstreetcn.com/articles/3763911",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时50分 ~ 22时34分]"
         },
         {
           "title": "专家：特朗普演讲是混世魔王行为",
@@ -1654,9 +1656,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
+        },
+        {
+          "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
+          "url": "https://news.ifeng.com/c/8q88cGpXCla",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：美联储对特朗普的批评与独立性不符。",
@@ -1709,7 +1722,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1775,7 +1788,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
@@ -1989,6 +2002,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "乌克兰总统泽连斯基：已就安全保障和经济方案与美国总统特朗普进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260122225920017800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "白宫经济顾问哈塞特：美国经济增速可能会有两个季度超过5%。 总统特朗普正在搅局一个必须被打乱的（国际）秩序。 预计下一年对（财政/贸易）赤字的削减幅度将更大。",
           "url": "https://wallstreetcn.com/livenews/3041430",
           "source": "华尔街见闻-快讯",
@@ -2094,7 +2118,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时34分"
         },
