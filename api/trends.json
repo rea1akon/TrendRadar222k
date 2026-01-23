@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T12:46:04.872870+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-01-23T13:31:43.139803+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 12时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 13时31分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -52,8 +52,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 12时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普称加拿大因美国而存在，加总理回应",
+          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 13时31分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -63,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 12时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 13时31分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -88,8 +99,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 12时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 13时31分]"
         },
         {
           "title": "特朗普为啥时隔一天态度变了",
@@ -116,17 +127,6 @@
           "time_info": "[00时39分 ~ 09时55分]"
         },
         {
-          "title": "特朗普称加拿大因美国而存在，加总理回应",
-          "url": "https://news.ifeng.com/c/8q8mPoxeaJ8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 12时46分]"
-        },
-        {
           "title": "1小时闭门会谈后，特朗普称与泽连斯基会晤非常好",
           "url": "https://news.ifeng.com/c/8q88cGpXCla",
           "source": "凤凰网",
@@ -135,8 +135,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 12时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 13时31分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -195,6 +195,28 @@
           "time_info": "[02时37分 ~ 07时24分]"
         },
         {
+          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
+          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时31分]"
+        },
+        {
+          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
+          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时31分]"
+        },
+        {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
           "url": "https://wallstreetcn.com/articles/3763863",
           "source": "华尔街见闻",
@@ -223,17 +245,6 @@
           "time_info": "[00时39分 ~ 07时24分]"
         },
         {
-          "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
-          "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时46分]"
-        },
-        {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
           "url": "https://wallstreetcn.com/articles/3763851",
           "source": "华尔街见闻",
@@ -243,17 +254,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 01时32分]"
-        },
-        {
-          "title": "马斯克用谐音梗暗讽特朗普的“和平委员会”",
-          "url": "https://v.ifeng.com/c/8q8wrrYsxgK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 12时46分]"
         },
         {
           "title": "法国用特朗普表情包回怼特朗普",
@@ -301,6 +301,20 @@
           "time_info": "04时31分"
         },
         {
+          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
+          "url": "https://www.cls.cn/detail/2267060",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 13时31分]"
+        },
+        {
           "title": "特朗普痛批加州州长纽森失职，称其不配竞选总统",
           "url": "https://flash.jin10.com/detail/20260123092953807800",
           "source": "金十数据",
@@ -332,19 +346,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        },
-        {
-          "title": "特朗普警告：若欧洲抛售美国资产 将实施“猛烈报复”",
-          "url": "https://www.cls.cn/detail/2267060",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 12时46分]"
         },
         {
           "title": "美国总统特朗普：听取了关于美联储理事库克被解雇案的最高法院部分庭审。",
@@ -418,6 +419,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
+          "url": "https://www.cls.cn/detail/2267102",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 13时31分]"
         },
         {
           "title": "特朗普吐槽北约盟友“不孝顺”",
@@ -536,17 +548,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时28分]"
-        },
-        {
-          "title": "特朗普起诉摩根大通及其CEO戴蒙 索赔至少50亿美元",
-          "url": "https://www.cls.cn/detail/2267102",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
         },
         {
           "title": "特朗普启程返回华盛顿",
