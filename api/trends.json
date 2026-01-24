@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T07:24:39.977998+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-01-24T09:51:40.356610+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 20,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时51分]"
         },
         {
           "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时51分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -59,11 +59,12 @@
             5,
             3,
             18,
-            21
+            21,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 09时51分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -73,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时51分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -88,8 +89,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 09时51分]"
         },
         {
           "title": "加州州长怒批特朗普的腐败和贪污",
@@ -105,15 +106,48 @@
           "time_info": "[00时34分 ~ 07时24分]"
         },
         {
-          "title": "加州起诉特朗普政府，抗议美国联邦政府重启Sable输油管道",
-          "url": "https://wallstreetcn.com/livenews/3043164",
+          "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
+          "url": "https://flash.jin10.com/detail/20260124093450741800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
+          "url": "https://wallstreetcn.com/livenews/3043195",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "09时51分"
+        },
+        {
+          "title": "斯塔默要求特朗普道歉，白宫回应",
+          "url": "https://wallstreetcn.com/livenews/3043194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
+          "url": "https://flash.jin10.com/detail/20260124090807365800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -128,6 +162,18 @@
           "time_info": "[03时27分 ~ 07时24分]"
         },
         {
+          "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
+          "url": "https://flash.jin10.com/detail/20260124031952416800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时30分 ~ 09时51分]"
+        },
+        {
           "title": "巴西总统卢拉：美国总统特朗普企图打造一个只能由自己把控的“新联合国”。",
           "url": "https://wallstreetcn.com/livenews/3043151",
           "source": "华尔街见闻-快讯",
@@ -138,6 +184,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时24分]"
+        },
+        {
+          "title": "加州起诉特朗普政府，抗议美国联邦政府重启Sable输油管道",
+          "url": "https://wallstreetcn.com/livenews/3043164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时51分]"
         },
         {
           "title": "白宫：美国总统特朗普签署部分拨款法案，使其生效。",
@@ -162,17 +220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时24分]"
-        },
-        {
-          "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
-          "url": "https://flash.jin10.com/detail/20260124031952416800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时30分 ~ 07时24分]"
         },
         {
           "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
@@ -210,6 +257,18 @@
           "time_info": "[00时35分 ~ 01时28分]"
         },
         {
+          "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448273",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时51分]"
+        },
+        {
           "title": "欧洲军工股普遍收涨。 捷克国防企业捷克奥斯洛伐克集团（CSG）荷兰阿姆斯特丹上市首日收涨31.4%，报32.85欧元，此前给出的IPO发行价为每股25欧元。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收涨2.20%，本周累计下跌1.96%，整体持续走低，投资者关注美国总统特朗普对格陵兰问题的态度。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收涨1.46%，本周累跌0.86%。",
           "url": "https://wallstreetcn.com/livenews/3043069",
           "source": "华尔街见闻-快讯",
@@ -220,6 +279,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时27分]"
+        },
+        {
+          "title": "报道：特朗普要求格陵兰全面放开军事限制",
+          "url": "https://wallstreetcn.com/articles/3764043",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
+          "url": "https://wallstreetcn.com/livenews/3043186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
+          "url": "https://flash.jin10.com/detail/20260124082538327800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         },
         {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
@@ -233,15 +325,37 @@
           "time_info": "05时25分"
         },
         {
-          "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448273",
+          "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
           "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普：万斯将于2月前往阿塞拜疆和亚美尼亚。 感谢亚美尼亚和阿塞拜疆领导人达成和平协议。 美国将加强与亚美尼亚的核合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3043175",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普卡尼“口水仗”升级",
+          "url": "https://www.toutiao.com/trending/7597980626083610630/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     }
