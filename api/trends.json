@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T07:23:42.683459+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-01-26T10:04:44.906723+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时04分]"
         },
         {
           "title": "特朗普嫌盟友在阿富汗没出力，英、澳等国“接受不了”",
@@ -53,19 +53,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时04分]"
         },
         {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
           "url": "https://news.ifeng.com/c/8qClugB0Wf0",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时04分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -84,11 +85,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 10时04分]"
         },
         {
           "title": "特朗普承认使用“秘密”武器",
@@ -195,6 +197,17 @@
           "time_info": "[00时30分 ~ 05时22分]"
         },
         {
+          "title": "一天过去，特朗普从愤怒变成“非常难过”",
+          "url": "https://news.ifeng.com/c/8qDlBtHaTST",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
           "title": "特朗普称现在阻止白宫宴会厅建设“为时已晚”",
           "url": "https://flash.jin10.com/detail/20260126050304284800",
           "source": "金十数据",
@@ -275,7 +288,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
