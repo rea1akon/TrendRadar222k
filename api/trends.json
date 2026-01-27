@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T21:52:10.706324+08:00",
-  "total_titles_processed": 1956,
+  "generated_at": "2026-01-27T22:33:57.935566+08:00",
+  "total_titles_processed": 2017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -72,11 +72,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时26分 ~ 21时52分]"
+          "appearance_count": 17,
+          "time_info": "[07时26分 ~ 22时33分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -118,6 +119,18 @@
           "time_info": "[14时39分 ~ 20时56分]"
         },
         {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时36分 ~ 22时33分]"
+        },
+        {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
           "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
           "source": "凤凰网",
@@ -127,18 +140,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 07时26分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时36分 ~ 21时52分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -177,23 +178,12 @@
         },
         {
           "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
-          "url": "https://wallstreetcn.com/livenews/3044806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
           "url": "https://flash.jin10.com/detail/20260127212721886800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -268,6 +258,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时26分]"
+        },
+        {
+          "title": "加拿大总理卡尼：与特朗普总统进行了良好的对话。",
+          "url": "https://wallstreetcn.com/livenews/3044806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 22时33分]"
         },
         {
           "title": "特朗普提议维持医疗保险向保险公司支付的费率不变",
@@ -675,6 +677,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛的情况进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260127215902817800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "东契奇奎克利当选NBA周最佳球员",
           "url": "https://www.toutiao.com/trending/7599772175399960630/",
           "source": "今日头条",
@@ -706,6 +719,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美国总统特朗普：庞大的舰队正驶往伊朗，希望我们不必动用它。",
+          "url": "https://flash.jin10.com/detail/20260127215541311800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "韩国青瓦台：美国来信与美国总统特朗普关于关税的声明无直接关联。",
@@ -761,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
+        },
+        {
+          "title": "美国总统特朗普：与明尼阿波利斯市长进行了精彩的对话。",
+          "url": "https://flash.jin10.com/detail/20260127215213078800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "特朗普碰瓷中国接管加拿大",
