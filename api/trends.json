@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T19:26:17.910603+08:00",
-  "total_titles_processed": 1758,
+  "generated_at": "2026-01-27T20:56:25.249689+08:00",
+  "total_titles_processed": 1862,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时26分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[07时26分 ~ 20时56分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -105,17 +105,6 @@
           "time_info": "[10时01分 ~ 14时40分]"
         },
         {
-          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
-          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时26分]"
-        },
-        {
           "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
           "source": "澎湃新闻",
@@ -125,8 +114,19 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时39分 ~ 20时56分]"
+        },
+        {
+          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
+          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[14时39分 ~ 19时26分]"
+          "time_info": "[00时38分 ~ 07时26分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -173,6 +173,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "美媒：特朗普一周内两次妥协",
+          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时36分 ~ 20时56分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，上周日在明尼苏达州发生（联邦移民执法官员枪杀一名男子）的事件是一场悲剧。",
@@ -246,17 +258,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时26分]"
-        },
-        {
-          "title": "美媒：特朗普一周内两次妥协",
-          "url": "https://news.ifeng.com/c/8qG16xqtXtH",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 19时26分]"
         },
         {
           "title": "特朗普将于周二前往爱荷华州就美国经济发表演讲",
