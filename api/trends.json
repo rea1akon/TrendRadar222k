@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T15:31:49.087469+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-01-27T16:37:18.184644+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -42,17 +42,6 @@
           "time_info": "[10时01分 ~ 15时31分]"
         },
         {
-          "title": "韩国人还在睡梦中，特朗普突然下手了",
-          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时01分 ~ 15时31分]"
-        },
-        {
           "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
           "url": "https://www.cls.cn/detail/2270546",
           "source": "财联社热门",
@@ -61,6 +50,17 @@
             4,
             3,
             2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时01分 ~ 16时37分]"
+        },
+        {
+          "title": "韩国人还在睡梦中，特朗普突然下手了",
+          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -80,6 +80,18 @@
           "time_info": "[00时38分 ~ 12时50分]"
         },
         {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时26分 ~ 16时37分]"
+        },
+        {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
           "url": "https://www.cls.cn/detail/2270513",
           "source": "财联社热门",
@@ -91,18 +103,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时01分 ~ 14时40分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时26分 ~ 15时31分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -276,22 +276,24 @@
           "source": "微博",
           "ranks": [
             19,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时37分]"
         },
         {
           "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
           "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 16时37分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
@@ -534,7 +536,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         },
@@ -702,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "特朗普对移民执法枪击事件态度大转变",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E7%A7%BB%E6%B0%91%E6%89%A7%E6%B3%95%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E6%80%81%E5%BA%A6%E5%A4%A7%E8%BD%AC%E5%8F%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "特朗普碰瓷中国接管加拿大",
