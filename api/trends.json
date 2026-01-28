@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-01-28T15:29:12.791521+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-01-28T16:37:17.614668+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 67,
+      "match_count": 70,
       "titles": [
-        {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 15时29分]"
-        },
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
           "url": "https://news.ifeng.com/c/8qH7ZqPC79B",
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 16时37分]"
+        },
+        {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时57分 ~ 15时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时57分 ~ 16时37分]"
         },
         {
           "title": "美国公民遭执法人员当街枪杀，拜登怒批特朗普",
@@ -73,11 +73,12 @@
           "ranks": [
             9,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时49分 ~ 15时29分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 16时37分]"
         },
         {
           "title": "美元指数跌至近四年新低 特朗普政策不确定性引爆市场焦虑",
@@ -92,6 +93,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时49分 ~ 15时29分]"
+        },
+        {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时32分 ~ 16时37分]"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -137,19 +151,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时57分 ~ 13时33分]"
-        },
-        {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 15时29分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -359,6 +360,17 @@
           "time_info": "[03时29分 ~ 04时27分]"
         },
         {
+          "title": "韩国总统顾问：美国总统特朗普发出的对韩国加征关税的信息，反映了他对国会审议贸易协定进度缓慢的沮丧。",
+          "url": "https://flash.jin10.com/detail/20260128161628174800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "特朗普称还有一支舰队正驶向伊朗",
           "url": "https://www.douyin.com/hot/2381636",
           "source": "抖音",
@@ -390,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "韩国总统顾问：正如美国总统特朗普所说，我们会共同寻求关税解决方案。",
+          "url": "https://flash.jin10.com/detail/20260128161606852800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "特朗普回应美公民被ICE枪杀",
@@ -698,6 +721,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "悠悠球世界冠军上线！特朗普亲自画出大阴线丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260128155108590800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美国总统特朗普：霍曼（边境事务协调员）稍后将在明尼阿波利斯会见州长和市长。",
