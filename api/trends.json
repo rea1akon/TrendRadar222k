@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T22:02:46.194685+08:00",
-  "total_titles_processed": 2003,
+  "generated_at": "2026-01-30T23:38:25.258874+08:00",
+  "total_titles_processed": 2124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 115,
+      "match_count": 121,
       "titles": [
         {
           "title": "今晚官宣！报道称特朗普拟提名沃什执掌美联储，市场押注其胜率飙至95%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时42分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[12时42分 ~ 23时38分]"
         },
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -69,11 +69,12 @@
             13,
             14,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时53分 ~ 22时02分]"
+          "appearance_count": 12,
+          "time_info": "[14时53分 ~ 23时38分]"
         },
         {
           "title": "美元大涨、黄金暴跌！特朗普挑了位最“鹰”的鲍威尔接班人？",
@@ -159,6 +160,29 @@
           "time_info": "[06时31分 ~ 12时43分]"
         },
         {
+          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
+          "url": "https://www.cls.cn/detail/2276051",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时38分]"
+        },
+        {
+          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
+          "url": "https://wallstreetcn.com/articles/3764603",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时38分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普将于周五美国东部时间上午11点（北京时间周六零点）签署行政命令。",
           "url": "https://flash.jin10.com/detail/20260130123131643800",
           "source": "金十数据",
@@ -225,15 +249,28 @@
           "time_info": "21时02分"
         },
         {
-          "title": "提名沃什，特朗普：他会是最伟大的美联储主席之一！",
-          "url": "https://wallstreetcn.com/articles/3764603",
-          "source": "华尔街见闻",
+          "title": "非洲股市收盘播报｜周五（1月30日），南非富时/JSE非洲领先40可交易指数收跌4.52%，刷新日低、逼近11.2万点，开盘跳水、随后持续走低，在特朗普宣布凯文·沃什为美联储主席提名人之际脱离历史最高位，本周累计下跌1.86%。",
+          "url": "https://wallstreetcn.com/livenews/3047474",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "23时38分"
+        },
+        {
+          "title": "特朗普提名沃什担任美联储主席",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时38分]"
         },
         {
           "title": "美国总统特朗普：我正与国会紧密合作，以确保我们能够及时为政府提供充足资金，毫不拖延。",
@@ -245,18 +282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "特朗普提名沃什担任美联储主席",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%90%8D%E6%B2%83%E4%BB%80%E6%8B%85%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时02分]"
         },
         {
           "title": "特朗普挑了他？",
@@ -271,15 +296,18 @@
           "time_info": "[18时37分 ~ 19时31分]"
         },
         {
-          "title": "新任美联储主席人选出炉 特朗普提名前美联储理事沃什接替鲍威尔",
-          "url": "https://www.cls.cn/detail/2276051",
-          "source": "财联社热门",
+          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            18,
+            16,
+            15,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 23时38分]"
         },
         {
           "title": "特朗普：普京同意停火一周",
@@ -291,6 +319,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时31分 ~ 07时30分]"
+        },
+        {
+          "title": "特朗普提名凯文·沃什担任美联储主席",
+          "url": "https://news.ifeng.com/c/8qLGm417qYM",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时38分]"
         },
         {
           "title": "美国总统特朗普：与礼来制药老板对话。",
@@ -440,28 +479,29 @@
           "time_info": "[03时32分 ~ 04时34分]"
         },
         {
-          "title": "古巴谴责特朗普行政令意在种族灭绝：将致水电交通医疗全瘫痪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32498277",
-          "source": "澎湃新闻",
+          "title": "特朗普起诉美政府部门",
+          "url": "https://www.douyin.com/hot/2383706",
+          "source": "抖音",
           "ranks": [
-            18,
-            16,
-            15
+            8,
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时31分 ~ 22时02分]"
+          "time_info": "[17时44分 ~ 23时38分]"
         },
         {
-          "title": "特朗普提名凯文·沃什担任美联储主席",
-          "url": "https://news.ifeng.com/c/8qLGm417qYM",
-          "source": "凤凰网",
+          "title": "特朗普：提名凯文·沃什出任美联储主席",
+          "url": "https://www.cls.cn/detail/2276010",
+          "source": "财联社热门",
           "ranks": [
-            6
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 23时38分]"
         },
         {
           "title": "特朗普回应开会睡觉",
@@ -501,18 +541,6 @@
           "time_info": "[17时44分 ~ 18时38分]"
         },
         {
-          "title": "特朗普起诉美政府部门",
-          "url": "https://www.douyin.com/hot/2383706",
-          "source": "抖音",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时44分 ~ 18时38分]"
-        },
-        {
           "title": "美国总统特朗普声称：将索马里海盗列入“类似贩毒船只”清单。",
           "url": "https://wallstreetcn.com/livenews/3046641",
           "source": "华尔街见闻-快讯",
@@ -524,18 +552,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时53分 ~ 04时34分]"
-        },
-        {
-          "title": "特朗普：提名凯文·沃什出任美联储主席",
-          "url": "https://www.cls.cn/detail/2276010",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时01分 ~ 22时02分]"
         },
         {
           "title": "美国总统特朗普谈及发电站，称：我们不需要电网。",
@@ -770,9 +786,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
+        },
+        {
+          "title": "谁是沃什？其岳父第一个建议特朗普买下格陵兰岛",
+          "url": "https://news.ifeng.com/c/8qLLfsjtQ3f",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "美国民主党参议员沃伦：在美国总统特朗普停止美联储调查之前，任何共和党人都不应同意推进沃什的提名。",
@@ -817,6 +844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "特朗普提名凯文·沃什出任美联储主席，特朗普为何会选中他？若他出任将如何影响美国货币政策？",
+          "url": "https://www.zhihu.com/question/2000660435238613290",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "在特朗普宣布与古巴相关的贸易威胁后，现货黄金突破5430美元/盎司，日内涨1.17%。",
@@ -872,6 +910,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "加拿大工业部长Joly：我们不会（针对特朗普政府）将飞机认证政治化。",
+          "url": "https://wallstreetcn.com/livenews/3047464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "分析师：沃什或陷入特朗普目标与经济现实的夹缝",
@@ -1155,7 +1204,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1248,6 +1297,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "庞巴迪多伦多股价暴跌19.70%，至少创4月4日以来最差盘中表现，至147.56（加元），逼近11月14日底部142.40。 1月29日盘后，该公司声明称，关注到美国总统特朗普的帖子，正与加拿大政府保持联系。希望此事能尽快解决，以避免对航空交通和广大乘客造成重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3047446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "美国总统特朗普签署行政命令打击毒瘾和药物滥用，称之为“伟大的美国复苏计划”。",
           "url": "https://flash.jin10.com/detail/20260130063308194800",
           "source": "金十数据",
@@ -1279,6 +1339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "俄方：普京收到了特朗普的请求",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E6%99%AE%E4%BA%AC%E6%94%B6%E5%88%B0%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E8%AF%B7%E6%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "美国总统特朗普：美国特使威特科夫带来了一些相当不错的消息。",
@@ -1320,7 +1391,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
