@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T12:49:23.984528+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-02-03T13:53:30.832641+08:00",
+  "total_titles_processed": 971,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时34分 ~ 12时49分]"
+          "appearance_count": 4,
+          "time_info": "[07时34分 ~ 13时53分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "法庭文件显示，纽约市发展委员会起诉特朗普政府，指控其扣留连接纽约市和新泽西州、耗资160亿美元的隧道建设资金。",
+          "url": "https://flash.jin10.com/detail/20260203133008885800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "报道：特朗普称墨西哥将停止向古巴供应石油",
@@ -72,8 +83,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 13时53分]"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2278428",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 13时53分]"
         },
         {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
@@ -88,6 +112,18 @@
           "time_info": "[01时41分 ~ 02时49分]"
         },
         {
+          "title": "特朗普威胁要向哈佛大学索赔10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3048804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 13时53分]"
+        },
+        {
           "title": "美国驻印度大事：总统特朗普刚刚与印度总理莫迪通话。",
           "url": "https://wallstreetcn.com/livenews/3048454",
           "source": "华尔街见闻-快讯",
@@ -100,16 +136,16 @@
           "time_info": "[00时44分 ~ 01时41分]"
         },
         {
-          "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2278428",
-          "source": "财联社热门",
+          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2001948735127643511",
+          "source": "知乎",
           "ranks": [
-            11,
-            10
+            15,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时26分 ~ 12时49分]"
+          "time_info": "[12时49分 ~ 13时53分]"
         },
         {
           "title": "市场消息：美国法官恢复了被特朗普叫停的沃旭能源纽约海上风电项目。",
@@ -121,17 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
-        },
-        {
-          "title": "特朗普威胁要向哈佛大学索赔10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3048804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
         },
         {
           "title": "美国总统特朗普谈及明尼苏达州（移民相关问题），声称：我们想要一个东西，他们关押的人。",
@@ -244,17 +269,6 @@
           "time_info": "01时41分"
         },
         {
-          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2001948735127643511",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
           "title": "墨西哥总统辛鲍姆：与美国总统特朗普通话时并没有讨论“和平委员会”。",
           "url": "https://wallstreetcn.com/livenews/3048443",
           "source": "华尔街见闻-快讯",
@@ -272,7 +286,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -294,7 +308,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -305,7 +319,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
