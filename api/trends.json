@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T00:57:33.531446+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-04T01:56:05.915721+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时56分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时56分]"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时56分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -59,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时56分]"
         },
         {
           "title": "美国里士满联储主席Barkin：我既担心通胀，又担心就业。 需求和GDP数据都出现鼓舞人心的迹象。 期待与（总统特朗普的美联储主席提名人）凯文·沃什共事。 （现阶段的）生产力问题与20世纪90年代的现象是有区别的。 企业之间有韧性，并不存在（通胀）重新加速的问题。",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "城堡投资创始人格里芬：特朗普政府在个人获利决策方面出现了失误。",
+          "url": "https://flash.jin10.com/detail/20260204005511944800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     }
