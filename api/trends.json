@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T13:53:30.832641+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-02-03T14:56:28.818839+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 14时56分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -37,7 +37,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -80,11 +80,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 14时56分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -96,8 +97,21 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 14时56分]"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2001948735127643511",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时53分]"
+          "time_info": "[12时49分 ~ 14时56分]"
         },
         {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
@@ -136,18 +150,6 @@
           "time_info": "[00时44分 ~ 01时41分]"
         },
         {
-          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2001948735127643511",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 13时53分]"
-        },
-        {
           "title": "市场消息：美国法官恢复了被特朗普叫停的沃旭能源纽约海上风电项目。",
           "url": "https://flash.jin10.com/detail/20260203021528114800",
           "source": "金十数据",
@@ -168,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时49分"
+        },
+        {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "美国总统特朗普：除了价值逾5000亿美元的美国能源、科技、农产品、煤炭及其他产品外，印度总理还承诺“购买美国货”。",
