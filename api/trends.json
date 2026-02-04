@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T05:37:07.344956+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-02-05T06:32:16.488517+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时32分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时32分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时32分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -46,11 +46,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时32分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -61,8 +62,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 05时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 06时32分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -70,11 +71,23 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时49分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时49分 ~ 06时32分]"
+        },
+        {
+          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
+          "url": "https://news.ifeng.com/c/8qTDVc9qcbD",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 06时32分]"
         },
         {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
@@ -245,6 +258,17 @@
           "time_info": "[01时49分 ~ 02时55分]"
         },
         {
+          "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E5%B0%86%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BF%BB%E7%AF%87%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 06时32分]"
+        },
+        {
           "title": "特朗普：我提名的美联储主席沃什希望降低利率",
           "url": "https://wallstreetcn.com/livenews/3050075",
           "source": "华尔街见闻-快讯",
@@ -306,7 +330,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
