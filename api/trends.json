@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T18:41:59.247947+08:00",
-  "total_titles_processed": 1670,
+  "generated_at": "2026-02-04T19:35:54.862293+08:00",
+  "total_titles_processed": 1763,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,19 @@
           "time_info": "[12时42分 ~ 18时41分]"
         },
         {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时12分 ~ 19时35分]"
+        },
+        {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
           "url": "https://news.ifeng.com/c/8qT0zrMPdcp",
           "source": "凤凰网",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时51分 ~ 18时41分]"
-        },
-        {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时12分 ~ 18时41分]"
         },
         {
           "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
@@ -76,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时51分 ~ 18时41分]"
+          "appearance_count": 10,
+          "time_info": "[13时51分 ~ 19时35分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -89,17 +90,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 06时33分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
-          "url": "https://flash.jin10.com/detail/20260204181439687800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         },
         {
           "title": "特朗普称同哥伦比亚总统的会晤“非常好” 哥总统：绝不接受胁迫",
@@ -189,6 +179,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204181439687800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 19时35分]"
         },
         {
           "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
@@ -457,7 +459,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
