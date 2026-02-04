@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T21:05:44.356877+08:00",
-  "total_titles_processed": 1888,
+  "generated_at": "2026-02-04T22:43:15.778346+08:00",
+  "total_titles_processed": 2019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 60,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -90,6 +90,50 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 06时33分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://www.toutiao.com/trending/7603003215299149878/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
+          "title": "习近平同特朗普通电话",
+          "url": "https://www.douyin.com/hot/2389904",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
           "title": "特朗普称同哥伦比亚总统的会晤“非常好” 哥总统：绝不接受胁迫",
@@ -293,6 +337,17 @@
           "time_info": "[06时33分 ~ 07时31分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
           "title": "记者问爱泼斯坦案被特朗普怒怼",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E8%80%85%E9%97%AE%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%80%BC",
           "source": "bilibili 热搜",
@@ -453,6 +508,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "美国副总统万斯：确认总统特朗普关于关键矿物“价格地板”的提议。",
+          "url": "https://wallstreetcn.com/livenews/3049943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "据英国《金融时报》：美国参议员推动700亿美元融资协议，以支持美国总统特朗普的关键矿物议程。",
           "url": "https://flash.jin10.com/detail/20260204180151298800",
           "source": "金十数据",
@@ -517,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "美国边境事务负责人霍曼：美国总统特朗普打算实施大规模驱逐出境，移民执法将每天持续进行。",
+          "url": "https://flash.jin10.com/detail/20260204221323459800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "提醒：美国总统特朗普签署法案，结束部分政府的关门状态。",
@@ -682,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3049918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "特朗普签署拨款法案 结束政府部分“停摆”",
