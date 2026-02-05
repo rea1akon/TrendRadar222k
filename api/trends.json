@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T05:33:08.421056+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-02-06T06:31:23.277550+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 06时31分]"
         },
         {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
@@ -57,6 +57,17 @@
           "time_info": "[03时39分 ~ 04时37分]"
         },
         {
+          "title": "贝森特听证“火星四射”：否认关税导致通胀，重申强美元，问责美联储，被喷当特朗普走狗",
+          "url": "https://wallstreetcn.com/articles/3764992",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 06时31分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
           "url": "https://wallstreetcn.com/livenews/3050862",
           "source": "华尔街见闻-快讯",
@@ -91,17 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时37分 ~ 05时33分]"
-        },
-        {
-          "title": "贝森特听证“火星四射”：否认关税导致通胀，重申强美元，问责美联储，被喷当特朗普走狗",
-          "url": "https://wallstreetcn.com/articles/3764992",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 05时33分]"
         },
         {
           "title": "美国白宫：周五与伊朗的会谈将聚焦外交努力上，总统特朗普想看看能否达成协议。",
