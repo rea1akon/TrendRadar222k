@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T13:58:37.590200+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-02-05T15:09:33.538951+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 15时09分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -67,8 +67,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时49分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[01时49分 ~ 15时09分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时09分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -82,17 +93,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时53分 ~ 10时14分]"
-        },
-        {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 13时58分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -121,11 +121,12 @@
           "url": "https://www.cls.cn/detail/2281033",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时50分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 15时09分]"
         },
         {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
