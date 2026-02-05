@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T06:31:23.277550+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-02-06T07:26:47.790098+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 06时31分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 07时26分]"
         },
         {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
@@ -66,6 +66,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 06时31分]"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 07时26分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
@@ -174,18 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时39分]"
-        },
-        {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 02时54分]"
         },
         {
           "title": "美国白宫：（当被问及是否与俄罗斯就新削减战略武器条约达成了临时协议时）据我们所知，并没有。美国总统特朗普希望让我们的核专家着手制定一项全新的、经改进的且现代化的条约。",
