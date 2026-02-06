@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T12:49:31.766847+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-02-06T13:56:34.653161+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时56分]"
+        },
+        {
+          "title": "日本大选前，特朗普发文支持高市",
+          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时14分 ~ 12时49分]"
+          "time_info": "[12时49分 ~ 13时56分]"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
-        },
-        {
-          "title": "日本大选前，特朗普发文支持高市",
-          "url": "https://news.ifeng.com/c/8qWByeKcHHN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
         },
         {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
@@ -88,6 +88,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时37分]"
+        },
+        {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 13时56分]"
         },
         {
           "title": "贝森特听证“火星四射”：否认关税导致通胀，重申强美元，问责美联储，被喷当特朗普走狗",
@@ -172,18 +185,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时51分]"
-        },
-        {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 12时49分]"
         },
         {
           "title": "美国白宫：美国总统特朗普与保险公司的会晤将会举行；暂未确定时间。",
