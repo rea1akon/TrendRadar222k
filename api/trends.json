@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T17:33:58.855271+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-02-08T18:31:44.052613+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "道指突破5万大关！特朗普自夸：提前三年就完成目标，任期结束将站上10万点",
@@ -65,11 +65,12 @@
             8,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 17时33分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 18时31分]"
         },
         {
           "title": "美国联邦通信委员会（FCC）官员Carr谈及总统特朗普力挺Nexstar收购Tegna的交易，宣称：像康卡斯特和迪士尼这样的国家级网络已经聚集了太大的权力。 让我们完成这笔交易，给他们带去真正的竞争。",
@@ -196,6 +197,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 05时29分]"
+        },
+        {
+          "title": "内塔尼亚胡将于下周三与特朗普会面，讨论伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260208174127645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "美国总统特朗普：与洪都拉斯总统在安全问题上建立紧密伙伴关系，携手打击贩毒集团和毒贩，将非法移民和帮派成员驱逐出美国。",
