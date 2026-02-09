@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T04:43:04.872792+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-10T05:41:58.578584+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 05时41分]"
         },
         {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 05时41分]"
         },
         {
           "title": "美联储理事沃勒：特朗普引发的加密货币热潮可能正在消退",
@@ -36,7 +36,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         }
