@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T19:47:51.788024+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-02-09T21:15:08.580705+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "time_info": "[00时35分 ~ 06时31分]"
         },
         {
+          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
+          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时08分 ~ 21时15分]"
+        },
+        {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
           "url": "https://flash.jin10.com/detail/20260208234215396800",
           "source": "金十数据",
@@ -45,6 +57,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 06时31分]"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时03分 ~ 21时15分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -61,18 +87,6 @@
           "time_info": "[00时35分 ~ 06时31分]"
         },
         {
-          "title": "高市早苗“奇葩式获胜”与特朗普二次当选情况相似",
-          "url": "https://news.ifeng.com/c/8qbQFf1tpNt",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 19时47分]"
-        },
-        {
           "title": "唯一能治住特朗普的生物出现了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%94%AF%E4%B8%80%E8%83%BD%E6%B2%BB%E4%BD%8F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%94%9F%E7%89%A9%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -82,19 +96,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        },
-        {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时03分 ~ 19时47分]"
         },
         {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
