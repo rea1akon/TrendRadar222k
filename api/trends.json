@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T16:59:33.848194+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-02-10T18:07:17.904432+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
@@ -67,6 +67,19 @@
           "time_info": "10时37分"
         },
         {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 18时07分]"
+        },
+        {
           "title": "美媒：丹麦另一领地或成特朗普的新目标",
           "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
           "source": "凤凰网",
@@ -103,18 +116,6 @@
           "time_info": "[13时06分 ~ 16时59分]"
         },
         {
-          "title": "谷爱凌回应特朗普大骂冬奥运动员",
-          "url": "https://www.toutiao.com/trending/7605068464549744178/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 16时59分]"
-        },
-        {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
           "url": "https://www.cls.cn/detail/2284508",
           "source": "财联社热门",
@@ -124,6 +125,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时42分 ~ 05时41分]"
+        },
+        {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时06分 ~ 18时07分]"
         },
         {
           "title": "美国众议院共和党人试图继续推迟对特朗普关税的投票",
