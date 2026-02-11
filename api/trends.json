@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T13:06:02.337425+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-02-11T15:05:26.915487+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时06分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 15时05分]"
         },
         {
           "title": "市场消息：美国总统特朗普指示美国国防部购买煤炭，以振兴该行业。",
@@ -58,7 +58,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -85,6 +85,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 15时05分]"
+        },
+        {
           "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
           "url": "https://flash.jin10.com/detail/20260211053946147800",
           "source": "金十数据",
@@ -109,6 +120,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 07时41分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 15时05分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -147,17 +169,6 @@
           "time_info": "[06时42分 ~ 07时41分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时06分]"
-        },
-        {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
           "url": "https://www.cls.cn/detail/2286509",
           "source": "财联社热门",
@@ -170,15 +181,16 @@
           "time_info": "[10时34分 ~ 13时06分]"
         },
         {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
+          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
+          "url": "https://www.cls.cn/detail/2286531",
+          "source": "财联社热门",
           "ranks": [
-            8
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时34分 ~ 13时06分]"
+          "time_info": "[13时05分 ~ 15时05分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望达成协议，不达成协议是愚蠢的。",
@@ -263,17 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时43分]"
-        },
-        {
-          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
-          "url": "https://www.cls.cn/detail/2286531",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时06分]"
         },
         {
           "title": "美国总统特朗普：我认为2026年将会很棒。",
@@ -450,7 +451,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
@@ -516,7 +517,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
