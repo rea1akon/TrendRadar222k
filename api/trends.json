@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T15:51:57.415253+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-02-13T16:48:00.866538+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -59,33 +59,58 @@
           "url": "https://news.ifeng.com/c/8qhfIw9PImo",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 16时48分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
           "url": "https://news.ifeng.com/c/8qhhXKN0MhC",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 16时48分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
           "url": "https://news.ifeng.com/c/8qhwigwSERf",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 16时48分]"
+        },
+        {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "UP主在白宫向特朗普提问",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9C%A8%E7%99%BD%E5%AE%AB%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时47分 ~ 16时48分]"
         },
         {
           "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
@@ -132,6 +157,18 @@
           "time_info": "01时02分"
         },
         {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 16时48分]"
+        },
+        {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://www.douyin.com/hot/2398243",
           "source": "抖音",
@@ -171,16 +208,17 @@
           "time_info": "[10时31分 ~ 15时51分]"
         },
         {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            11
+            13,
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时51分]"
+          "appearance_count": 4,
+          "time_info": "[14时01分 ~ 16时48分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -218,18 +256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时32分]"
-        },
-        {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 15时51分]"
         },
         {
           "title": "美国参议员们质询特朗普的美联储主席提名人凯文·沃什：特朗普是否要求他发誓要效忠。",
