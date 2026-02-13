@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T14:01:59.965919+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-02-13T15:51:57.415253+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 14时01分]"
+          "appearance_count": 11,
+          "time_info": "[01时02分 ~ 15时51分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -62,8 +62,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 15时51分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -73,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 15时51分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -84,8 +84,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时01分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时51分]"
         },
         {
           "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
@@ -167,8 +167,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 15时51分]"
+        },
+        {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时31分 ~ 14时01分]"
+          "time_info": "[12时55分 ~ 15时51分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -208,16 +220,16 @@
           "time_info": "[06时36分 ~ 07时32分]"
         },
         {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            11
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时01分]"
+          "time_info": "[14时01分 ~ 15时51分]"
         },
         {
           "title": "美国参议员们质询特朗普的美联储主席提名人凯文·沃什：特朗普是否要求他发誓要效忠。",
@@ -283,7 +295,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -305,7 +317,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -343,17 +355,6 @@
           "time_info": "04时38分"
         },
         {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时01分"
-        },
-        {
           "title": "特朗普：美国“必须”与伊朗达成协议 否则局势将“非常严重”",
           "url": "https://flash.jin10.com/detail/20260213032049406800",
           "source": "金十数据",
@@ -371,7 +372,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -437,7 +438,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
