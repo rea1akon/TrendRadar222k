@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-14T06:36:50.102505+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-02-14T07:34:02.536690+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
       "match_count": 42,
       "titles": [
+        {
+          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
+          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时41分 ~ 07时34分]"
+        },
         {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
@@ -20,19 +31,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 06时36分]"
-        },
-        {
-          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
-          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时41分 ~ 06时36分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 07时34分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -56,8 +56,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时55分 ~ 06时36分]"
+          "appearance_count": 6,
+          "time_info": "[02时55分 ~ 07时34分]"
         },
         {
           "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
@@ -68,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 06时36分]"
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 07时34分]"
         },
         {
           "title": "美国总统特朗普：通胀报告非常棒。",
@@ -81,8 +81,55 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时55分 ~ 07时34分]"
+        },
+        {
+          "title": "美国总统特朗普：希望与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030526351800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[02时55分 ~ 06时36分]"
+          "time_info": "[03时44分 ~ 07时34分]"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030421669800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 07时34分]"
+        },
+        {
+          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时44分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时41分 ~ 07时34分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -94,30 +141,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 03时44分]"
-        },
-        {
-          "title": "美国总统特朗普：希望与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030526351800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 06时36分]"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030421669800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 06时36分]"
         },
         {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
@@ -145,29 +168,6 @@
           "time_info": "[01时42分 ~ 04时41分]"
         },
         {
-          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时44分 ~ 06时36分]"
-        },
-        {
-          "title": "特朗普将访问委内瑞拉",
-          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时41分 ~ 06时36分]"
-        },
-        {
           "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
           "url": "https://wallstreetcn.com/livenews/3055318",
           "source": "华尔街见闻-快讯",
@@ -192,6 +192,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时42分 ~ 03时44分]"
+        },
+        {
+          "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3055375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时39分 ~ 07时34分]"
         },
         {
           "title": "美国总统特朗普重申：与北约关系良好。",
@@ -230,18 +243,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时39分]"
-        },
-        {
-          "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
-          "url": "https://wallstreetcn.com/livenews/3055375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时36分]"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
