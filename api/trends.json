@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T21:05:51.319073+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2026-02-13T22:43:02.084836+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 19时34分]"
+          "appearance_count": 15,
+          "time_info": "[01时02分 ~ 22时43分]"
+        },
+        {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时47分 ~ 22时43分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -94,18 +106,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时55分 ~ 17时49分]"
-        },
-        {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时47分 ~ 21时05分]"
         },
         {
           "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
@@ -173,7 +173,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -184,7 +184,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -329,7 +329,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -351,7 +351,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -373,7 +373,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
