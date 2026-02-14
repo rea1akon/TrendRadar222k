@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T06:27:36.800382+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-02-15T07:28:16.785471+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时28分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时28分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
@@ -39,19 +39,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 07时28分]"
         },
         {
           "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
           "url": "https://wallstreetcn.com/livenews/3055534",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 07时28分]"
         },
         {
           "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
