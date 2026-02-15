@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T07:28:16.785471+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-02-15T10:31:05.205542+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时31分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时31分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
