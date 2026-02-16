@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T15:07:15.808068+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-02-16T16:53:39.248274+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,18 @@
           "time_info": "[02时40分 ~ 07时30分]"
         },
         {
+          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时06分 ~ 16时53分]"
+        },
+        {
           "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
           "url": "https://flash.jin10.com/detail/20260215212555860800",
           "source": "金十数据",
@@ -87,17 +99,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 06时28分]"
-        },
-        {
-          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时06分 ~ 15时07分]"
         },
         {
           "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
@@ -170,7 +171,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
         }
