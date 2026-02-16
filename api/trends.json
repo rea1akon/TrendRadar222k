@@ -1,23 +1,57 @@
 {
-  "generated_at": "2026-02-17T01:40:45.631609+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2026-02-17T02:48:32.528304+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
+          "url": "https://flash.jin10.com/detail/20260217020218911800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
+          "url": "https://flash.jin10.com/detail/20260217014752278800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20260217014706786800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
           "url": "https://flash.jin10.com/detail/20260217003445113800",
           "source": "金十数据",
           "ranks": [
             4,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时48分]"
         },
         {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
@@ -25,11 +59,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时40分]"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时48分]"
         },
         {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
@@ -37,11 +72,24 @@
           "source": "金十数据",
           "ranks": [
             13,
-            16
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时48分]"
+        },
+        {
+          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3055802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时49分 ~ 01时40分]"
+          "time_info": "[01时40分 ~ 02时48分]"
         },
         {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
@@ -56,15 +104,15 @@
           "time_info": "[00时49分 ~ 01时40分]"
         },
         {
-          "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3055802",
+          "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
+          "url": "https://wallstreetcn.com/livenews/3055815",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时40分"
+          "time_info": "02时48分"
         }
       ]
     }
