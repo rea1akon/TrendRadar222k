@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:00:24.570841+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-02-17T15:12:14.744156+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 14时00分]"
+          "appearance_count": 6,
+          "time_info": "[10时24分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -124,6 +124,46 @@
           "time_info": "[02时48分 ~ 05时32分]"
         },
         {
+          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
+          "url": "https://wallstreetcn.com/livenews/3055862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 15时12分]"
+        },
+        {
+          "title": "特朗普称他将间接参与美国和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3055860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 15时12分]"
+        },
+        {
+          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 15时12分]"
+        },
+        {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3055802",
           "source": "华尔街见闻-快讯",
@@ -150,17 +190,17 @@
           "time_info": "[00时49分 ~ 02时48分]"
         },
         {
-          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3055862",
+          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
+          "url": "https://wallstreetcn.com/livenews/3055873",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            17,
-            25
+            7,
+            15,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时24分 ~ 14时00分]"
+          "time_info": "[12时54分 ~ 15时12分]"
         },
         {
           "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
@@ -175,19 +215,6 @@
           "time_info": "[06时32分 ~ 10时24分]"
         },
         {
-          "title": "特朗普称他将间接参与美国和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3055860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 14时00分]"
-        },
-        {
           "title": "CFTC主席Selig：很荣幸能在特朗普总统的领导下庆祝“总统日”，他为美国金融市场开启了黄金时代，并将美国打造成为世界加密货币之都。",
           "url": "https://flash.jin10.com/detail/20260216235622274800",
           "source": "金十数据",
@@ -199,29 +226,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 02时48分]"
-        },
-        {
-          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
-          "url": "https://wallstreetcn.com/livenews/3055873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时00分]"
-        },
-        {
-          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
