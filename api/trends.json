@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T16:51:26.227376+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-02-18T17:53:01.852390+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -45,6 +45,17 @@
           "time_info": "[01时01分 ~ 07时32分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时51分 ~ 17时53分]"
+        },
+        {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
           "url": "https://news.ifeng.com/c/8qpOucjNxj3",
           "source": "凤凰网",
@@ -56,6 +67,17 @@
           "time_info": "[03时11分 ~ 07时33分]"
         },
         {
+          "title": "特朗普女儿伊万卡中文拜年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 17时53分]"
+        },
+        {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
           "url": "https://flash.jin10.com/detail/20260218005046026800",
           "source": "金十数据",
@@ -65,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         },
         {
           "title": "特朗普称希拉里精神错乱",
@@ -196,6 +207,17 @@
           "time_info": "[04时42分 ~ 05时39分]"
         },
         {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时51分 ~ 17时53分]"
+        },
+        {
           "title": "特朗普女儿伊万卡中文拜年：新年快乐",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
           "source": "百度热搜",
@@ -265,17 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        },
-        {
-          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
-          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
         },
         {
           "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
