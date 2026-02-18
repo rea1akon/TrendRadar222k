@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T21:10:49.051795+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2026-02-18T22:48:25.508129+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时51分 ~ 21时10分]"
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 22时48分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -308,7 +308,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -319,7 +319,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
