@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T17:44:52.802029+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-02-20T18:42:56.254688+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 87,
+      "match_count": 88,
       "titles": [
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时21分 ~ 17时44分]"
+          "appearance_count": 12,
+          "time_info": "[10时21分 ~ 18时42分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时49分 ~ 17时44分]"
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 18时42分]"
         },
         {
           "title": "特朗普开了前所未有的一个会",
@@ -39,19 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时21分 ~ 17时44分]"
-        },
-        {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时21分 ~ 17时44分]"
+          "appearance_count": 12,
+          "time_info": "[10时21分 ~ 18时42分]"
         },
         {
           "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
@@ -61,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时49分 ~ 17时44分]"
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 18时42分]"
         },
         {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
@@ -71,11 +60,23 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时49分 ~ 17时44分]"
+          "appearance_count": 10,
+          "time_info": "[12时49分 ~ 18时42分]"
+        },
+        {
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时21分 ~ 18时42分]"
         },
         {
           "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
@@ -87,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时55分 ~ 17时44分]"
+          "appearance_count": 9,
+          "time_info": "[13时55分 ~ 18时42分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -752,6 +753,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
+        },
+        {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "特朗普：诺华首席执行官告诉我，关税让他建立了新工厂。",
