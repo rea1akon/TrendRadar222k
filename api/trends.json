@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T16:44:16.584447+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-02-20T17:44:52.802029+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时21分 ~ 16时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时21分 ~ 17时44分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 16时44分]"
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 17时44分]"
         },
         {
           "title": "特朗普开了前所未有的一个会",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时21分 ~ 16时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时21分 ~ 17时44分]"
         },
         {
           "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
@@ -50,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时21分 ~ 16时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时21分 ~ 17时44分]"
         },
         {
           "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
@@ -61,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时49分 ~ 16时44分]"
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 17时44分]"
         },
         {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
@@ -74,8 +74,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 17时44分]"
+        },
+        {
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时49分 ~ 16时44分]"
+          "time_info": "[13时55分 ~ 17时44分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -100,19 +113,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时55分 ~ 15时54分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时55分 ~ 16时44分]"
         },
         {
           "title": "特朗普称奥巴马涉外星人言论泄密",
