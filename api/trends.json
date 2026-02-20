@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T15:01:20.771276+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-02-20T15:54:14.920840+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时21分 ~ 15时01分]"
+          "appearance_count": 8,
+          "time_info": "[10时21分 ~ 15时54分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -28,8 +28,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 15时54分]"
+        },
+        {
+          "title": "特朗普开了前所未有的一个会",
+          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时21分 ~ 15时54分]"
         },
         {
           "title": "特朗普被曝考虑军事打击伊朗，细节披露",
@@ -44,26 +55,63 @@
           "time_info": "[10时21分 ~ 12时49分]"
         },
         {
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时21分 ~ 15时54分]"
+        },
+        {
           "title": "特朗普赞叹中国仪仗队",
           "url": "https://www.toutiao.com/trending/7607775152985899059/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 15时54分]"
         },
         {
-          "title": "特朗普开了前所未有的一个会",
-          "url": "https://news.ifeng.com/c/8qtKTnIR6kQ",
+          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
+          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时21分 ~ 15时01分]"
+          "time_info": "[12时49分 ~ 15时54分]"
+        },
+        {
+          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
+          "url": "https://wallstreetcn.com/articles/3765884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 15时54分]"
+        },
+        {
+          "title": "特朗普称奥巴马涉外星人言论泄密",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 15时54分]"
         },
         {
           "title": "特朗普声称：奥巴马泄露了有关外星人的机密信息",
@@ -79,15 +127,16 @@
           "time_info": "[03时00分 ~ 04时37分]"
         },
         {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
-          "source": "凤凰网",
+          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时21分 ~ 15时01分]"
+          "time_info": "[12时49分 ~ 15时54分]"
         },
         {
           "title": "白宫披露美国与印度尼西亚的协议。 白宫称，2月19日与印尼签署了协议。 美国总统特朗普在华盛顿会见印尼领导人普拉博沃·苏比安托（Prabowo Subianto）。 双方同意围绕盟友关系“采取进一步行动”。",
@@ -101,6 +150,19 @@
           "time_info": "01时53分"
         },
         {
+          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
+          "url": "https://wallstreetcn.com/articles/3765874",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 15时54分]"
+        },
+        {
           "title": "法国称欧盟委员会“出人意料”参与特朗普会议，无权代表欧盟成员国",
           "url": "https://flash.jin10.com/detail/20260220021610767800",
           "source": "金十数据",
@@ -112,17 +174,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时00分 ~ 04时37分]"
-        },
-        {
-          "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
-          "url": "https://news.ifeng.com/c/8qtXIx1u77H",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 15时01分]"
         },
         {
           "title": "美国总统特朗普：钢铁关税改变了游戏规则。",
@@ -171,18 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时47分]"
-        },
-        {
-          "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
-          "url": "https://wallstreetcn.com/articles/3765884",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 15时01分]"
         },
         {
           "title": "美国总统特朗普：英国国王查尔斯即将访问美国。",
@@ -249,28 +288,6 @@
           "time_info": "[01时53分 ~ 04时37分]"
         },
         {
-          "title": "特朗普称奥巴马涉外星人言论泄密",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634789",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 15时01分]"
-        },
-        {
-          "title": "特朗普：预计“十天左右”知道能否与伊朗达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32634067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 15时01分]"
-        },
-        {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
           "url": "https://flash.jin10.com/detail/20260220021119038800",
           "source": "金十数据",
@@ -308,18 +325,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时00分 ~ 04时37分]"
-        },
-        {
-          "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
-          "url": "https://wallstreetcn.com/articles/3765874",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时01分]"
         },
         {
           "title": "特朗普签署“和平委员会”财政决议 誓言要整顿加沙",
