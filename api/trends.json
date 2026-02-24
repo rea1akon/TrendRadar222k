@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T19:55:25.102137+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-02-24T21:12:12.976366+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,43 @@
           "time_info": "[01时01分 ~ 12时54分]"
         },
         {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 21时12分]"
+        },
+        {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 21时12分]"
+        },
+        {
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 21时12分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://www.cls.cn/detail/2292753",
           "source": "财联社热门",
@@ -81,28 +118,15 @@
           "time_info": "[10时24分 ~ 14时01分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
           "ranks": [
-            12,
-            7,
-            1
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 19时55分]"
-        },
-        {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 19时55分]"
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 21时12分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
@@ -131,19 +155,6 @@
           "time_info": "[07时36分 ~ 12时54分]"
         },
         {
-          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
-          "url": "https://www.cls.cn/detail/2293302",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 19时55分]"
-        },
-        {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
           "url": "https://www.cls.cn/detail/2293044",
           "source": "财联社热门",
@@ -157,17 +168,6 @@
           "time_info": "[10时24分 ~ 14时01分]"
         },
         {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 19时55分]"
-        },
-        {
           "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
           "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
           "source": "凤凰网",
@@ -179,6 +179,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时01分 ~ 17时56分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 21时12分]"
         },
         {
           "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
@@ -314,6 +328,19 @@
           "time_info": "[02时07分 ~ 04时13分]"
         },
         {
+          "title": "中美就特朗普访华事宜保持沟通",
+          "url": "https://www.toutiao.com/trending/7609338724627234859/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时53分 ~ 21时12分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32645217",
           "source": "澎湃新闻",
@@ -325,19 +352,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时24分 ~ 14时01分]"
-        },
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时56分 ~ 19时55分]"
         },
         {
           "title": "特朗普对垒最高法院上演“关税迷云”，对全球贸易和美国经济意味着什么？",
@@ -421,18 +435,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时44分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持沟通",
-          "url": "https://www.toutiao.com/trending/7609338724627234859/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 19时55分]"
         },
         {
           "title": "美众议院议长：国会不太可能就特朗普关税的立法层面达成共识",
@@ -737,7 +739,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时55分"
         },
