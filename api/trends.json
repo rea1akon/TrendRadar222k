@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T00:06:53.269152+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-26T02:01:35.410371+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时01分]"
         },
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时01分]"
         },
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -37,8 +37,41 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时01分]"
+        },
+        {
+          "title": "市场消息：美国法官驳回了特朗普的一项政策，该政策允许将移民迅速驱逐到其本国以外的国家。",
+          "url": "https://flash.jin10.com/detail/20260226013309691800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "02时01分"
+        },
+        {
+          "title": "欧盟认为特朗普加征关税违反协议",
+          "url": "https://flash.jin10.com/detail/20260226013129534800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
+        },
+        {
+          "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
+          "url": "https://wallstreetcn.com/livenews/3058987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时01分"
         }
       ]
     }
