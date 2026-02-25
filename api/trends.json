@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T19:43:16.273289+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-02-25T21:13:31.518116+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 91,
+      "match_count": 93,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -51,11 +51,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时57分 ~ 19时43分]"
+          "appearance_count": 19,
+          "time_info": "[01时57分 ~ 21时13分]"
         },
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -66,8 +67,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时30分 ~ 19时43分]"
+          "appearance_count": 7,
+          "time_info": "[17时30分 ~ 21时13分]"
         },
         {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
@@ -77,8 +78,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时30分 ~ 19时43分]"
+          "appearance_count": 7,
+          "time_info": "[17时30分 ~ 21时13分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -93,6 +94,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时03分 ~ 07时35分]"
+        },
+        {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时30分 ~ 21时13分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -120,18 +136,17 @@
           "time_info": "[10时25分 ~ 14时04分]"
         },
         {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            6,
-            5
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时30分 ~ 19时43分]"
+          "appearance_count": 7,
+          "time_info": "[17时30分 ~ 21时13分]"
         },
         {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
@@ -143,19 +158,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 14时04分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时30分 ~ 19时43分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -739,6 +741,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "特朗普：我们赢得太多了",
+          "url": "https://www.douyin.com/hot/2411181",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "特朗普国情咨文演讲大骂：这些人疯了",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E6%83%85%E5%92%A8%E6%96%87%E6%BC%94%E8%AE%B2%E5%A4%A7%E9%AA%82%EF%BC%9A%E8%BF%99%E4%BA%9B%E4%BA%BA%E7%96%AF%E4%BA%86",
           "source": "百度热搜",
@@ -827,6 +840,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650673",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "美国总统特朗普：抵押贷款利率处于四年来最低。",
           "url": "https://flash.jin10.com/detail/20260225102008896800",
           "source": "金十数据",
@@ -855,7 +879,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
