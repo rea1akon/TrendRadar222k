@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T18:58:08.030415+08:00",
-  "total_titles_processed": 1496,
+  "generated_at": "2026-02-25T19:43:16.273289+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 90,
+      "match_count": 91,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -54,8 +54,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时57分 ~ 18时58分]"
+          "appearance_count": 18,
+          "time_info": "[01时57分 ~ 19时43分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时30分 ~ 19时43分]"
+        },
+        {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时30分 ~ 19时43分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -85,29 +108,6 @@
           "time_info": "[10时25分 ~ 15时54分]"
         },
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 18时58分]"
-        },
-        {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 18时58分]"
-        },
-        {
           "title": "特朗普打还是不打，只是时间问题了",
           "url": "https://news.ifeng.com/c/8r1bJIeSigy",
           "source": "凤凰网",
@@ -120,6 +120,20 @@
           "time_info": "[10时25分 ~ 14时04分]"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时30分 ~ 19时43分]"
+        },
+        {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -129,6 +143,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 14时04分]"
+        },
+        {
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时30分 ~ 19时43分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -335,31 +362,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 14时04分]"
-        },
-        {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 18时58分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时30分 ~ 18时58分]"
         },
         {
           "title": "弗吉尼亚州州长斯潘伯格：美国总统特朗普的政策只利于他本人及其圈子。",
@@ -845,6 +847,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "市场消息：特朗普政府已下令美国外交官游说反对监管美国科技公司处理外国人数据的行为。",
+          "url": "https://flash.jin10.com/detail/20260225190515560800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "美国总统特朗普：我的政府已将通货膨胀率降至5年来的最低水平。",
