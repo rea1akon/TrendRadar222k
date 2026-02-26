@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T22:51:14.349307+08:00",
-  "total_titles_processed": 1920,
+  "generated_at": "2026-02-26T23:56:21.903748+08:00",
+  "total_titles_processed": 2005,
   "failed_sources": [],
   "trends": [
     {
@@ -75,8 +75,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时01分 ~ 22时51分]"
+          "appearance_count": 13,
+          "time_info": "[14时01分 ~ 23时56分]"
         },
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -87,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时50分 ~ 22时51分]"
+          "appearance_count": 8,
+          "time_info": "[18时50分 ~ 23时56分]"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
@@ -100,8 +100,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时50分 ~ 22时51分]"
+          "appearance_count": 8,
+          "time_info": "[18时50分 ~ 23时56分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -283,7 +283,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
         },
