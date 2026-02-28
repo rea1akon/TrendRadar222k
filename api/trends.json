@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T18:27:26.419542+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2026-02-28T19:22:50.411693+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时02分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[10时02分 ~ 19时22分]"
         },
         {
           "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时02分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[10时02分 ~ 19时22分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时02分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[10时02分 ~ 19时22分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -58,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时02分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[10时02分 ~ 19时22分]"
         },
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -77,17 +77,6 @@
           "time_info": "[00时43分 ~ 07时28分]"
         },
         {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 07时28分]"
-        },
-        {
           "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
           "url": "https://www.cls.cn/detail/2297953",
           "source": "财联社热门",
@@ -97,8 +86,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时35分 ~ 18时27分]"
+          "appearance_count": 9,
+          "time_info": "[13时35分 ~ 19时22分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 07时28分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -152,11 +152,26 @@
           "source": "抖音",
           "ranks": [
             2,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 19时22分]"
+        },
+        {
+          "title": "特朗普宣布打击伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            13,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 19时22分]"
         },
         {
           "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
@@ -245,19 +260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
-        },
-        {
-          "title": "特朗普宣布打击伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 18时27分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：得达成有意义的协议才行。",
@@ -450,6 +452,19 @@
           "time_info": "[06时27分 ~ 07时28分]"
         },
         {
+          "title": "特朗普呼吁伊朗政权更迭，他在打什么主意？能如愿吗？",
+          "url": "https://www.zhihu.com/question/2011106976499724764",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 19时22分]"
+        },
+        {
           "title": "特朗普称美军对伊朗进行军事打击",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%BF%9B%E8%A1%8C%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -512,18 +527,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时48分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普呼吁伊朗政权更迭，他在打什么主意？能如愿吗？",
-          "url": "https://www.zhihu.com/question/2011106976499724764",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 18时27分]"
         },
         {
           "title": "“特朗普的安全芭比”，危险了",
@@ -878,7 +881,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1065,7 +1068,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1131,7 +1134,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -1175,7 +1178,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
