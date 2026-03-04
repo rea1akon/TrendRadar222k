@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T06:35:46.927054+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-03-05T07:33:54.776678+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 07时33分]"
         },
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 07时33分]"
         },
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
@@ -42,17 +43,6 @@
           "time_info": "[00时51分 ~ 06时35分]"
         },
         {
-          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
-          "url": "https://wallstreetcn.com/articles/3766656",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 06时35分]"
-        },
-        {
           "title": "特朗普夫人，“翻车”了",
           "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
           "source": "凤凰网",
@@ -60,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 07时33分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -71,6 +61,17 @@
             17,
             18,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
+          "url": "https://wallstreetcn.com/articles/3766656",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -84,11 +85,12 @@
             12,
             21,
             22,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 05时38分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 07时33分]"
         },
         {
           "title": "美国总统特朗普：谷歌是一家好公司。",
@@ -111,17 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
-        },
-        {
-          "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
-          "url": "https://flash.jin10.com/detail/20260305055643565800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时35分"
         },
         {
           "title": "特朗普政府在文件中确认，如果被命令支付进口商关税退款，美国将支付利息。",
@@ -152,11 +143,24 @@
           "url": "https://wallstreetcn.com/articles/3766690",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时37分 ~ 06时35分]"
+          "appearance_count": 4,
+          "time_info": "[05时37分 ~ 07时33分]"
+        },
+        {
+          "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://flash.jin10.com/detail/20260305055643565800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时33分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什担任美联储主席，以接替杰罗姆·鲍威尔",
@@ -189,7 +193,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
@@ -376,7 +380,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         },
