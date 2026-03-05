@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-05T07:33:54.776678+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-03-05T10:14:33.548443+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
-        {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时33分]"
-        },
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
           "url": "https://www.cls.cn/detail/2302897",
@@ -25,6 +14,17 @@
           "ranks": [
             4,
             3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 10时14分]"
+        },
+        {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
             2
           ],
           "is_new": false,
@@ -47,11 +47,12 @@
           "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 10时14分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -60,11 +61,12 @@
           "ranks": [
             17,
             18,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 10时14分]"
         },
         {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
@@ -91,6 +93,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时51分 ~ 07时33分]"
+        },
+        {
+          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
+          "url": "https://wallstreetcn.com/articles/3766690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时37分 ~ 10时14分]"
+        },
+        {
+          "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
+          "url": "https://www.cls.cn/detail/2303132",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "美国总统特朗普：谷歌是一家好公司。",
@@ -137,18 +163,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时35分]"
-        },
-        {
-          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
-          "url": "https://wallstreetcn.com/articles/3766690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时37分 ~ 07时33分]"
         },
         {
           "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
@@ -198,6 +212,17 @@
           "time_info": "06时35分"
         },
         {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
           "title": "美国总统特朗普：我们将继续前进。",
           "url": "https://flash.jin10.com/detail/20260305042107536800",
           "source": "金十数据",
@@ -240,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
+          "url": "https://www.cls.cn/detail/2303036",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "美国总统特朗普：想当伊朗领导人的人，最后都死了。",
@@ -317,6 +353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "西班牙首相回击特朗普",
+          "url": "https://www.douyin.com/hot/2419161",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "伊朗高级教士贾瓦迪·阿莫利：当今虔诚的什叶派穆斯林所应做的，就是血洗以色列人和美国总统特朗普。",
