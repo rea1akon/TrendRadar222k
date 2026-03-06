@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T12:45:00.962763+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-03-06T13:48:26.003458+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时54分 ~ 12时45分]"
+          "appearance_count": 10,
+          "time_info": "[03时54分 ~ 13时48分]"
+        },
+        {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 13时48分]"
+        },
+        {
+          "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
+          "url": "https://www.cls.cn/detail/2304524",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 13时48分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -42,28 +64,6 @@
           "time_info": "[03时54分 ~ 07时53分]"
         },
         {
-          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
-          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 12时45分]"
-        },
-        {
-          "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
-          "url": "https://www.cls.cn/detail/2304524",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 12时45分]"
-        },
-        {
           "title": "特朗普要求立即赦免以色列总理",
           "url": "https://news.ifeng.com/c/8rGUp5Pqv3s",
           "source": "凤凰网",
@@ -71,8 +71,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 12时45分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 13时48分]"
         },
         {
           "title": "特朗普在白宫接见梅西",
@@ -86,6 +86,29 @@
           "time_info": "[10时12分 ~ 10时13分]"
         },
         {
+          "title": "美以伊战争最新动态｜牧师围着特朗普为他和美军祈祷",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 13时48分]"
+        },
+        {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
           "url": "https://wallstreetcn.com/livenews/3064696",
           "source": "华尔街见闻-快讯",
@@ -97,38 +120,15 @@
           "time_info": "07时53分"
         },
         {
-          "title": "伊朗外长喊话特朗普：美军“速战速决A计划已失败”",
-          "url": "https://wallstreetcn.com/livenews/3064866",
-          "source": "华尔街见闻-快讯",
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
+          "source": "凤凰网",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "特朗普威胁下一个就是古巴",
-          "url": "https://wallstreetcn.com/livenews/3064864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        },
-        {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时53分 ~ 12时45分]"
+          "time_info": "[10时12分 ~ 13时48分]"
         },
         {
           "title": "美国国防部长赫格塞思：（被问及特朗普有关“有权决定伊朗下一任领导人”的言论）美国并未扩大其在伊朗的军事目标。",
@@ -143,6 +143,18 @@
           "time_info": "[06时35分 ~ 07时53分]"
         },
         {
+          "title": "伊朗外长喊话特朗普：美军“速战速决A计划已失败”",
+          "url": "https://wallstreetcn.com/livenews/3064866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 13时48分]"
+        },
+        {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
           "url": "https://wallstreetcn.com/articles/3766752",
           "source": "华尔街见闻",
@@ -154,15 +166,28 @@
           "time_info": "[03时54分 ~ 06时35分]"
         },
         {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
+          "title": "特朗普威胁下一个就是古巴",
+          "url": "https://wallstreetcn.com/livenews/3064864",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 12时45分]"
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 13时48分]"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD24%E5%B7%9E%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时48分]"
         },
         {
           "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
@@ -205,14 +230,14 @@
         },
         {
           "title": "美国24州联合起诉特朗普政府",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD24%E5%B7%9E%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "url": "https://www.toutiao.com/trending/7613919843846897683/",
+          "source": "今日头条",
           "ranks": [
-            7
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时48分]"
         },
         {
           "title": "美国总统特朗普：将采取进一步措施来减轻石油压力。 石油价格似乎已经基本稳定下来了。",
@@ -297,15 +322,15 @@
           "time_info": "[10时12分 ~ 10时13分]"
         },
         {
-          "title": "美国24州联合起诉特朗普政府",
-          "url": "https://www.toutiao.com/trending/7613919843846897683/",
-          "source": "今日头条",
+          "title": "美法官周五举行闭门会议 制定特朗普关税退款流程",
+          "url": "https://flash.jin10.com/detail/20260306132838938800",
+          "source": "金十数据",
           "ranks": [
-            23
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 12时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "特朗普谈油价：涨就涨吧，军事行动重要得多",
@@ -317,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "市场消息：美国法官将于周五就特朗普关税退款案举行闭门“和解会议”，与相关各方会面。",
+          "url": "https://flash.jin10.com/detail/20260306131737023800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "特朗普：美伊冲突比预期提前，伊朗电话来得有点晚",
@@ -369,7 +405,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
@@ -446,7 +482,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
         },
