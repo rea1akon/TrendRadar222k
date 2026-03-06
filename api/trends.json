@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T00:45:18.663752+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-07T01:38:04.346695+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时38分]"
+        },
+        {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时38分]"
+        },
+        {
+          "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
+          "url": "https://news.ifeng.com/c/8rHRuIXQ6KL",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时38分]"
+        },
+        {
+          "title": "特朗普威胁下一个就是古巴",
+          "url": "https://www.douyin.com/hot/2420825",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 01时38分]"
         },
         {
           "title": "特朗普引用纽约邮报文章表示，根据一项民调，叙利亚人对美国和以色列的态度变暖。",
@@ -30,26 +63,15 @@
           "time_info": "00时45分"
         },
         {
-          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
-          "url": "https://wallstreetcn.com/articles/3766889",
-          "source": "华尔街见闻",
+          "title": "特朗普政府将允许在美国出售部分委内瑞拉黄金",
+          "url": "https://wallstreetcn.com/livenews/3065393",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
-          "url": "https://news.ifeng.com/c/8rHRuIXQ6KL",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "01时38分"
         },
         {
           "title": "特朗普约谈承包商巨头 白宫坚称弹药充足",
@@ -63,15 +85,26 @@
           "time_info": "00时45分"
         },
         {
-          "title": "特朗普威胁下一个就是古巴",
-          "url": "https://www.douyin.com/hot/2420825",
-          "source": "抖音",
+          "title": "美股军工股洛克希德·马丁目前涨1.86%，RTX公司涨1.30%，诺斯罗普·格鲁曼涨0.86%，L3Harris涨0.90%。 据媒体报道，特朗普将召集国防承包商高管，强调提升武器产能以应对美伊冲突。",
+          "url": "https://wallstreetcn.com/livenews/3065388",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国海关与边境保护局告知法官，该部门无法遵守（关于总统特朗普的）关税退款命令。 标普跌1%，道指跌1.1%，纳指跌0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3065386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         }
       ]
     }
