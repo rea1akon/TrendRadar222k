@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T19:32:12.938077+08:00",
-  "total_titles_processed": 1570,
+  "generated_at": "2026-03-06T21:02:12.003281+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时54分 ~ 19时32分]"
+          "appearance_count": 20,
+          "time_info": "[03时54分 ~ 21时02分]"
         },
         {
           "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
@@ -49,11 +49,12 @@
           "url": "https://news.ifeng.com/c/8rGDBDdQi38",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时12分 ~ 19时32分]"
+          "appearance_count": 15,
+          "time_info": "[10时12分 ~ 21时02分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -101,17 +102,6 @@
           "time_info": "[07时53分 ~ 15时41分]"
         },
         {
-          "title": "美以伊战争最新动态｜牧师围着特朗普为他和美军祈祷",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时48分 ~ 14时54分]"
-        },
-        {
           "title": "特朗普夸梅西强过贝利，还称C罗也很棒！梅西在一旁表情亮了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32711665",
           "source": "澎湃新闻",
@@ -122,8 +112,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时40分 ~ 19时32分]"
+          "appearance_count": 9,
+          "time_info": "[15时40分 ~ 21时02分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜牧师围着特朗普为他和美军祈祷",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时54分]"
         },
         {
           "title": "特朗普在白宫接见梅西",
@@ -283,6 +284,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时54分 ~ 05时39分]"
+        },
+        {
+          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
+          "url": "https://wallstreetcn.com/articles/3766889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "美国总统特朗普：将采取进一步措施来减轻石油压力。 石油价格似乎已经基本稳定下来了。",
