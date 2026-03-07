@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T14:45:31.690848+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-03-07T15:31:50.384062+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 14时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 15时31分]"
         },
         {
           "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
@@ -63,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 15时31分]"
         },
         {
           "title": "特朗普：不接受哈梅内伊儿子担任伊朗新领导人，“我必须亲自参与任命”，伊朗外长：这完全是伊朗人民的事，任何人都无权干涉",
@@ -158,6 +158,18 @@
           "time_info": "[06时32分 ~ 07时30分]"
         },
         {
+          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
+          "url": "https://wallstreetcn.com/livenews/3065616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 15时31分]"
+        },
+        {
           "title": "美国总统特朗普：我们与国防制造公司进行了一次非常好的会谈。 英国宇航系统（BAE Systems）、波音、霍尼韦尔Honeywell Aerospace、雷神等企业的高管们出席了会议。 他们同意，将部分武器的产量提高三倍。",
           "url": "https://wallstreetcn.com/livenews/3065463",
           "source": "华尔街见闻-快讯",
@@ -168,6 +180,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时32分]"
+        },
+        {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 15时31分]"
+        },
+        {
+          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
+          "url": "https://flash.jin10.com/detail/20260307134808115800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 15时31分]"
         },
         {
           "title": "特朗普和美国大军火商开会",
@@ -191,6 +226,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 13时39分]"
+        },
+        {
+          "title": "美国驻约旦大使馆：保护美国公民的安全始终是特朗普总统、鲁比奥国务卿和国务院的首要任务。官员们正在探索更多选项，以帮助美国人离开中东。",
+          "url": "https://flash.jin10.com/detail/20260307134413447800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 15时31分]"
         },
         {
           "title": "继微软之后，谷歌公司也告诉用户们：在被特朗普政府封杀的领域之外，Anthropic仍然可用。",
@@ -260,50 +307,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
-          "url": "https://wallstreetcn.com/livenews/3065616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
-          "url": "https://flash.jin10.com/detail/20260307134808115800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "美国驻约旦大使馆：保护美国公民的安全始终是特朗普总统、鲁比奥国务卿和国务院的首要任务。官员们正在探索更多选项，以帮助美国人离开中东。",
-          "url": "https://flash.jin10.com/detail/20260307134413447800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
         },
         {
           "title": "特朗普政府将允许在美国出售部分委内瑞拉黄金",
