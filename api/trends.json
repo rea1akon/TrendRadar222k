@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T20:52:55.585325+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2026-03-07T21:41:06.271965+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时06分 ~ 20时52分]"
+          "appearance_count": 13,
+          "time_info": "[10时06分 ~ 21时41分]"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -91,17 +91,6 @@
           "time_info": "10时06分"
         },
         {
-          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
-          "url": "https://wallstreetcn.com/livenews/3065718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "据The Verge：任天堂已起诉美国政府，要求退还特朗普时期征收的关税。",
           "url": "https://flash.jin10.com/detail/20260307034359509800",
           "source": "金十数据",
@@ -135,6 +124,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "特朗普宣称考虑扩大打击范围 伊朗或遭受“非常沉重打击”",
+          "url": "https://wallstreetcn.com/livenews/3065718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时41分]"
         },
         {
           "title": "据法新社：美国燃油价格上涨可能引发特朗普的国内危机。",
@@ -192,6 +193,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "哥伦比亚总统佩特罗：特朗普必须远离内塔尼亚胡和那些向地球上的孩子发射导弹的人。",
+          "url": "https://flash.jin10.com/detail/20260307195848555800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时41分]"
         },
         {
           "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
@@ -301,15 +314,15 @@
           "time_info": "[12时23分 ~ 13时39分]"
         },
         {
-          "title": "哥伦比亚总统佩特罗：特朗普必须远离内塔尼亚胡和那些向地球上的孩子发射导弹的人。",
-          "url": "https://flash.jin10.com/detail/20260307195848555800",
-          "source": "金十数据",
+          "title": "特朗普说伊朗今天将遭极猛烈打击",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E4%BB%8A%E5%A4%A9%E5%B0%86%E9%81%AD%E6%9E%81%E7%8C%9B%E7%83%88%E6%89%93%E5%87%BB%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 21时41分]"
         },
         {
           "title": "特朗普引用纽约邮报文章表示，根据一项民调，叙利亚人对美国和以色列的态度变暖。",
@@ -395,7 +408,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -409,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "黎巴嫩卫生部：在以色列对巴勒贝克Shamshtar地区的空袭中，六名公民遇难，其中包括四名儿童和一名女性。",
+          "url": "https://flash.jin10.com/detail/20260307203748356800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
         },
         {
           "title": "特朗普政府放宽委内瑞拉对美售金，缓解其美元短缺压力",
@@ -428,7 +452,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
