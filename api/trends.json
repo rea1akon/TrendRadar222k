@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T19:36:10.101464+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-03-11T21:06:09.317881+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
@@ -64,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时45分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[12时45分 ~ 21时06分]"
         },
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -123,8 +123,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时09分 ~ 19时36分]"
+          "appearance_count": 15,
+          "time_info": "[10时09分 ~ 21时06分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -133,11 +133,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时09分 ~ 19时36分]"
+          "appearance_count": 15,
+          "time_info": "[10时09分 ~ 21时06分]"
         },
         {
           "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
@@ -149,8 +150,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时31分 ~ 19时36分]"
+          "appearance_count": 13,
+          "time_info": "[07时31分 ~ 21时06分]"
         },
         {
           "title": "美以伊战争｜伊朗在霍尔木兹海峡布雷，特朗普回应",
