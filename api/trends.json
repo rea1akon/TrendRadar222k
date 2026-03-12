@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T01:08:33.306313+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-03-13T02:58:17.363002+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时58分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -27,8 +27,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
+          "url": "https://flash.jin10.com/detail/20260313023939495800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -38,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时58分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -50,8 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时58分]"
         },
         {
           "title": "伊朗称特朗普几条推文结束不了战争",
@@ -60,7 +71,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -71,7 +82,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -82,7 +93,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -93,7 +104,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -104,7 +115,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
