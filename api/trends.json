@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T13:53:52.054616+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-03-12T14:59:53.189143+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 06时31分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
+          "url": "https://wallstreetcn.com/articles/3767268",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时30分 ~ 14时59分]"
         },
         {
           "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
@@ -31,18 +43,6 @@
           "time_info": "[00时56分 ~ 07时29分]"
         },
         {
-          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
-          "url": "https://wallstreetcn.com/articles/3767268",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时30分 ~ 13时53分]"
-        },
-        {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
           "url": "https://wallstreetcn.com/articles/3767189",
           "source": "华尔街见闻",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时56分 ~ 07时29分]"
+        },
+        {
+          "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
+          "url": "https://www.cls.cn/detail/2310250",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 14时59分]"
         },
         {
           "title": "特朗普说对伊行动即将结束",
@@ -71,26 +82,16 @@
           "time_info": "[00时56分 ~ 07时29分]"
         },
         {
-          "title": "【早报】特朗普：对伊朗军事行动“即将结束”；七国集团：原则上支持必要时动用战略储备稳定能源市场",
-          "url": "https://www.cls.cn/detail/2310250",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 13时53分]"
-        },
-        {
           "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
           "url": "https://news.ifeng.com/c/8rQZWpPErKf",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时23分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 14时59分]"
         },
         {
           "title": "美官员称特朗普对伊朗反应有误判",
@@ -129,6 +130,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时44分 ~ 05时36分]"
+        },
+        {
+          "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
+          "url": "https://www.cls.cn/detail/2310196",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 14时59分]"
         },
         {
           "title": "美以伊战争｜特朗普：将动用战略石油储备抑制油价",
@@ -219,19 +233,6 @@
           "time_info": "03时44分"
         },
         {
-          "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
-          "url": "https://www.cls.cn/detail/2310196",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 13时53分]"
-        },
-        {
           "title": "特朗普将援引一项紧急法，为海上石油生产商Sable公司提供援助",
           "url": "https://flash.jin10.com/detail/20260312031026004800",
           "source": "金十数据",
@@ -252,6 +253,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动「即将结束」，如何解读？在另一方誓言将「连环打击」时，战争真能结束吗？",
+          "url": "https://www.zhihu.com/question/2015192608771633980",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 14时59分]"
+        },
+        {
+          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
+          "url": "https://wallstreetcn.com/articles/3767287",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时49分 ~ 14时59分]"
         },
         {
           "title": "标普500指数维持超过0.2%的跌幅，据华尔街日报，美国总统特朗普将宣布新的关税调查。",
@@ -327,27 +351,16 @@
           "time_info": "[06时31分 ~ 07时29分]"
         },
         {
-          "title": "特朗普称对伊朗军事行动「即将结束」，如何解读？在另一方誓言将「连环打击」时，战争真能结束吗？",
-          "url": "https://www.zhihu.com/question/2015192608771633980",
-          "source": "知乎",
+          "title": "特朗普“对等关税”被推翻后 美国2月关税收入降逾10亿美元",
+          "url": "https://www.cls.cn/detail/2310220",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            19
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时23分 ~ 13时53分]"
-        },
-        {
-          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
-          "url": "https://wallstreetcn.com/articles/3767287",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时53分]"
+          "time_info": "[12时49分 ~ 14时59分]"
         },
         {
           "title": "美国总统特朗普：苹果公司CEO库克做得不错。",
@@ -361,18 +374,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时36分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普“对等关税”被推翻后 美国2月关税收入降逾10亿美元",
-          "url": "https://www.cls.cn/detail/2310220",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时49分 ~ 13时53分]"
         },
         {
           "title": "特朗普讲话过程中，一名现场观众晕倒，特朗普讲话中断。",
@@ -632,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "美前国安顾问：特朗普对重开霍尔木兹海峡无对策",
+          "url": "https://news.ifeng.com/c/8rQeaOUqLSU",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         },
         {
           "title": "特朗普谈西班牙：这个国家不配合美国。",
