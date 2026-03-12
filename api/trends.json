@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T00:02:36.190923+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-13T01:08:33.306313+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时08分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时08分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -37,19 +38,75 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时08分]"
         },
         {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.toutiao.com/trending/7615267437721780267/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时08分]"
+        },
+        {
+          "title": "伊朗称特朗普几条推文结束不了战争",
+          "url": "https://flash.jin10.com/detail/20260313004520116800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时08分"
+        },
+        {
+          "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
+          "url": "https://flash.jin10.com/detail/20260313004045966800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "伊朗最高安全官员对特朗普表示：结束战争可不是发几条推特就能做到的。",
+          "url": "https://flash.jin10.com/detail/20260313002551576800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "伊朗最高安全官员对特朗普表示：除非你承认错误并付出代价，否则我们不会放你走。",
+          "url": "https://flash.jin10.com/detail/20260313002535367800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "伊朗最高安全官员对特朗普表示：我们不会退让。",
+          "url": "https://flash.jin10.com/detail/20260313002352464800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
         },
         {
           "title": "报道：特朗普政府拟暂停《琼斯法案》，从而实现平抑油价",
