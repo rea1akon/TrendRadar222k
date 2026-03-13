@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T15:50:51.042790+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-03-13T16:43:26.185888+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 15时50分]"
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 16时43分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -62,11 +62,12 @@
             7,
             6,
             10,
-            28
+            28,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 15时50分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 16时43分]"
         },
         {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
@@ -78,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时13分 ~ 15时50分]"
+          "appearance_count": 8,
+          "time_info": "[10时13分 ~ 16时43分]"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -131,6 +132,19 @@
           "time_info": "[07时31分 ~ 12时47分]"
         },
         {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时52分 ~ 16时43分]"
+        },
+        {
           "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
           "url": "https://flash.jin10.com/detail/20260313023939495800",
           "source": "金十数据",
@@ -140,18 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
-        },
-        {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时52分 ~ 15时50分]"
         },
         {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
