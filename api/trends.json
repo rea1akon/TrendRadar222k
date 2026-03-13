@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T07:31:39.945312+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-03-13T10:13:41.196417+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -49,11 +49,23 @@
           "source": "今日头条",
           "ranks": [
             7,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时13分]"
+        },
+        {
+          "title": "特朗普会晤在即，日本首相高市早苗健康状况引担忧",
+          "url": "https://flash.jin10.com/detail/20260313095635530800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
@@ -65,6 +77,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时13分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -115,6 +139,18 @@
           "time_info": "[03时46分 ~ 04时39分]"
         },
         {
+          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时13分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：几乎每天都会与美国总统特朗普畅谈。",
           "url": "https://flash.jin10.com/detail/20260313031754519800",
           "source": "金十数据",
@@ -150,6 +186,17 @@
           "time_info": "01时08分"
         },
         {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
           "url": "https://flash.jin10.com/detail/20260313004045966800",
           "source": "金十数据",
@@ -161,15 +208,37 @@
           "time_info": "01时08分"
         },
         {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "特朗普：穆杰塔巴可能受伤但活着",
+          "url": "https://www.toutiao.com/trending/7616538009198054950/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "10时13分"
+        },
+        {
+          "title": "国际能源署将释放 4 亿桶战略石油储备，特朗普授权美国能源部释放 1.72 亿桶原油，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2015341795039475528",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "哥伦比亚总统府：哥伦比亚总统与美国总统特朗普于周四通了电话。",
@@ -181,17 +250,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
-        },
-        {
-          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         },
         {
           "title": "美国总统特朗普：已全面听取关于密歇根犹太会堂袭击事件的简报。",
@@ -214,6 +272,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "中方就特朗普访华计划准备进展如何？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32753926",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "伊朗最高安全官员对特朗普表示：除非你承认错误并付出代价，否则我们不会放你走。",
