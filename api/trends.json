@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T14:58:11.232768+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-03-13T15:50:51.042790+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
@@ -44,19 +44,6 @@
           "time_info": "[00时02分 ~ 07时31分]"
         },
         {
-          "title": "中方回应特朗普计划访华",
-          "url": "https://www.toutiao.com/trending/7615267437721780267/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 10时13分]"
-        },
-        {
           "title": "特朗普称穆杰塔巴可能受伤但仍活着",
           "url": "https://news.ifeng.com/c/8rSDrMIby5D",
           "source": "凤凰网",
@@ -64,8 +51,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时46分 ~ 14时58分]"
+          "appearance_count": 6,
+          "time_info": "[12时46分 ~ 15时50分]"
+        },
+        {
+          "title": "中方回应特朗普计划访华",
+          "url": "https://www.toutiao.com/trending/7615267437721780267/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 15时50分]"
         },
         {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
@@ -77,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时13分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时13分 ~ 15时50分]"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -87,11 +88,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时13分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时13分 ~ 15时50分]"
         },
         {
           "title": "特朗普会晤在即，日本首相高市早苗健康状况引担忧",
@@ -140,6 +142,18 @@
           "time_info": "02时58分"
         },
         {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时52分 ~ 15时50分]"
+        },
+        {
           "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
           "source": "澎湃新闻",
@@ -163,17 +177,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时13分 ~ 13时52分]"
-        },
-        {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时52分 ~ 14时58分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -331,7 +334,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
