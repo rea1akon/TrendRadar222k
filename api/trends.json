@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T20:57:21.272644+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2026-03-14T21:51:01.346377+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时11分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[10时11分 ~ 21时51分]"
         },
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时45分 ~ 20时57分]"
+          "appearance_count": 12,
+          "time_info": "[12时45分 ~ 21时51分]"
         },
         {
           "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
@@ -53,19 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时11分 ~ 20时57分]"
-        },
-        {
-          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
-          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 10时11分]"
+          "appearance_count": 13,
+          "time_info": "[10时11分 ~ 21时51分]"
         },
         {
           "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
@@ -77,8 +66,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 20时57分]"
+          "appearance_count": 9,
+          "time_info": "[14时52分 ~ 21时51分]"
+        },
+        {
+          "title": "伊朗早已预判并准备摊牌，特朗普会先眨眼",
+          "url": "https://news.ifeng.com/c/8rUHC0I1TgI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 21时51分]"
+        },
+        {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时11分]"
         },
         {
           "title": "欧盟外长高呼“团结对抗特朗普”，业界先哑火了",
@@ -131,8 +142,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时45分 ~ 20时57分]"
+          "appearance_count": 12,
+          "time_info": "[12时45分 ~ 21时51分]"
+        },
+        {
+          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
+          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时52分 ~ 21时51分]"
         },
         {
           "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
@@ -160,28 +182,6 @@
           "time_info": "[00时43分 ~ 07时31分]"
         },
         {
-          "title": "伊朗早已预判并准备摊牌，特朗普会先眨眼",
-          "url": "https://news.ifeng.com/c/8rUHC0I1TgI",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 20时57分]"
-        },
-        {
-          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
-          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 20时57分]"
-        },
-        {
           "title": "美国总统特朗普拒绝俄罗斯总统普京关于“将伊朗铀转移至俄罗斯”的提议。",
           "url": "https://flash.jin10.com/detail/20260314050202764800",
           "source": "金十数据",
@@ -202,6 +202,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时36分 ~ 18时32分]"
+        },
+        {
+          "title": "美防长不满CNN报道，喊话特朗普盟友赶紧买了它",
+          "url": "https://news.ifeng.com/c/8rUH3IUe3be",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 21时51分]"
         },
         {
           "title": "美以伊战争丨美防长喊话特朗普盟友：赶紧买了CNN",
@@ -226,15 +237,15 @@
           "time_info": "03时33分"
         },
         {
-          "title": "最新民调显示特朗普支持率下滑，分析师：市场应关注中期选举风险",
-          "url": "https://flash.jin10.com/detail/20260314204257827800",
+          "title": "美国总统特朗普：沙特阿拉伯的一个基地几天前遭到了袭击，但飞机并未被“击中”或“摧毁”。",
+          "url": "https://flash.jin10.com/detail/20260314213656454800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时57分"
+          "time_info": "21时51分"
         },
         {
           "title": "据Politico：特朗普政府正在扩大孤立古巴的举措，向其他国家提供“激励措施”，以驱逐古巴医生。",
@@ -274,17 +285,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时31分 ~ 12时45分]"
-        },
-        {
-          "title": "美防长不满CNN报道，喊话特朗普盟友赶紧买了它",
-          "url": "https://news.ifeng.com/c/8rUH3IUe3be",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 20时57分]"
         },
         {
           "title": "美军何时护航油轮通过霍尔木兹海峡？特朗普最新表态：很快",
@@ -336,6 +336,18 @@
           "time_info": "[03时33分 ~ 04时38分]"
         },
         {
+          "title": "最新民调显示特朗普支持率下滑，分析师：市场应关注中期选举风险",
+          "url": "https://flash.jin10.com/detail/20260314204257827800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 21时51分]"
+        },
+        {
           "title": "特朗普被曝拒绝普京提议，反对将伊朗浓缩铀运往俄罗斯",
           "url": "https://news.ifeng.com/c/8rQgMCfEnth",
           "source": "凤凰网",
@@ -370,6 +382,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 10时11分]"
+        },
+        {
+          "title": "找个台阶下吧！特朗普顾问：是时候“宣布胜利并撤出”伊朗了",
+          "url": "https://wallstreetcn.com/articles/3767518",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时51分]"
         },
         {
           "title": "特朗普放松对委内瑞拉石油和化肥的制裁 以缓解美国通胀压力",
@@ -458,16 +483,16 @@
           "time_info": "[04时38分 ~ 05时36分]"
         },
         {
-          "title": "找个台阶下吧！特朗普顾问：是时候“宣布胜利并撤出”伊朗了",
-          "url": "https://wallstreetcn.com/articles/3767518",
-          "source": "华尔街见闻",
+          "title": "特朗普：民主党拒绝履行国会协议致TSA员工停薪",
+          "url": "https://flash.jin10.com/detail/20260314201705454800",
+          "source": "金十数据",
           "ranks": [
             10,
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时26分 ~ 20时57分]"
+          "time_info": "[20时57分 ~ 21时51分]"
         },
         {
           "title": "美国检察官：特朗普政府将对法官的美联储传票判决结果提起上诉",
@@ -573,17 +598,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
-        },
-        {
-          "title": "特朗普：民主党拒绝履行国会协议致TSA员工停薪",
-          "url": "https://flash.jin10.com/detail/20260314201705454800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "美国联邦法官还表示，特朗普政府非法依赖有关资助消费者金融保护局的法律备忘录。",
