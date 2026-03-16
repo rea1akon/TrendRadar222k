@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T06:37:38.485902+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-03-17T07:35:39.963733+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普会投入地面部队吗？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
@@ -25,22 +25,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时37分]"
-        },
-        {
-          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -50,8 +40,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
@@ -73,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -84,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -93,11 +95,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "美以伊战争丨特朗普暗示将袭击哈尔克岛石油设施",
@@ -106,20 +109,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "美国民主党籍各州总检察长表示，特朗普提议提高政府资助的电动汽车充电站美国本土零部件使用比例，此举将导致该计划无法实施。",
-          "url": "https://flash.jin10.com/detail/20260317061813978800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
         },
         {
           "title": "中美就特朗普总统访华事保持着沟通",
@@ -133,17 +125,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时05分 ~ 06时37分]"
-        },
-        {
-          "title": "特朗普称伊朗行动获一位美国前总统称赞 但无人承认通话",
-          "url": "https://flash.jin10.com/detail/20260317061512622800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
         },
         {
           "title": "【特朗普：希望欧洲国家等协助保障霍尔木兹海峡安全】美国总统特朗普16日对媒体表示，希望欧洲国家以及日本、韩国等国协助保障霍尔木兹海峡航行安全。 (新华社)",
@@ -167,6 +148,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时37分]"
+        },
+        {
+          "title": "美国民主党籍各州总检察长表示，特朗普提议提高政府资助的电动汽车充电站美国本土零部件使用比例，此举将导致该计划无法实施。",
+          "url": "https://flash.jin10.com/detail/20260317061813978800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
+        },
+        {
+          "title": "特朗普称伊朗行动获一位美国前总统称赞 但无人承认通话",
+          "url": "https://flash.jin10.com/detail/20260317061512622800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时35分]"
         },
         {
           "title": "特朗普称他将“有幸拿下古巴”",
@@ -311,7 +316,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -355,7 +360,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -432,7 +437,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -457,6 +462,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美国盟友集体回绝特朗普，拒为霍尔木兹海峡“火中取栗”",
+          "url": "https://flash.jin10.com/detail/20260317064507791800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "美国总统特朗普：白宫幕僚长Wiles被诊断出早期乳腺癌。",
@@ -498,7 +514,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -512,6 +528,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普称将“接管”古巴",
+          "url": "https://flash.jin10.com/detail/20260317063435876800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "美国总统特朗普：目前霍尔木兹海峡的状况非常好。",
@@ -534,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "据《纽约时报》：美国总统特朗普政府表示将告知古巴，其总统必须下台。",
+          "url": "https://flash.jin10.com/detail/20260317063201728800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "美国总统特朗普：（谈英国首相斯塔默）我告诉他，我们不需要你的航母。",
