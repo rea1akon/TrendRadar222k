@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T19:02:18.153732+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-03-17T21:17:54.875826+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
@@ -110,6 +110,20 @@
           "time_info": "[01时04分 ~ 04时42分]"
         },
         {
+          "title": "美澄清涉特朗普或推迟访华不实报道",
+          "url": "https://www.cls.cn/detail/2315239",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 21时17分]"
+        },
+        {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
           "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
           "source": "凤凰网",
@@ -119,6 +133,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 07时35分]"
+        },
+        {
+          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时54分 ~ 21时17分]"
         },
         {
           "title": "特朗普“三个很开心”，让全世界脊背发凉",
@@ -133,18 +161,17 @@
           "time_info": "[10时23分 ~ 17时59分]"
         },
         {
-          "title": "美澄清涉特朗普或推迟访华不实报道",
-          "url": "https://www.cls.cn/detail/2315239",
-          "source": "财联社热门",
+          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5,
+            2,
             4,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 21时17分]"
         },
         {
           "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
@@ -172,29 +199,18 @@
           "time_info": "[06时37分 ~ 07时35分]"
         },
         {
-          "title": "中方制裁是否影响鲁比奥随特朗普访华？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32778211",
-          "source": "澎湃新闻",
+          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
+          "url": "https://www.cls.cn/detail/2315375",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            16,
-            15
+            11,
+            6,
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时54分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 21时17分]"
         },
         {
           "title": "特朗普：古巴现在非常脆弱，我可以随心所欲拿下它",
@@ -288,19 +304,6 @@
           "time_info": "10时23分"
         },
         {
-          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
-          "url": "https://www.cls.cn/detail/2315375",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 19时02分]"
-        },
-        {
           "title": "特朗普暗示袭击哈尔克岛石油设施",
           "url": "https://flash.jin10.com/detail/20260317051712836800",
           "source": "金十数据",
@@ -373,6 +376,19 @@
           "time_info": "[05时43分 ~ 06时37分]"
         },
         {
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 21时17分]"
+        },
+        {
           "title": "美国总统特朗普：我认为我可以对古巴做任何事情，无论是让它自由，还是把它拿下。",
           "url": "https://flash.jin10.com/detail/20260317050036634800",
           "source": "金十数据",
@@ -383,18 +399,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时37分]"
-        },
-        {
-          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 19时02分]"
         },
         {
           "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
@@ -867,7 +871,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
