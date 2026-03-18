@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T17:59:11.334217+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-03-18T19:02:20.152464+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普称将接管古巴",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时59分 ~ 17时59分]"
+          "appearance_count": 13,
+          "time_info": "[06时59分 ~ 19时02分]"
         },
         {
           "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
@@ -81,6 +81,20 @@
           "time_info": "[00时16分 ~ 07时36分]"
         },
         {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时59分 ~ 19时02分]"
+        },
+        {
           "title": "国台办回应特朗普或将批准对台军售案",
           "url": "https://www.toutiao.com/trending/7617485967372320822/",
           "source": "今日头条",
@@ -106,19 +120,6 @@
           "time_info": "[15时54分 ~ 16时54分]"
         },
         {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时59分 ~ 17时59分]"
-        },
-        {
           "title": "中方回应特朗普确认推迟访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A1%AE%E8%AE%A4%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
@@ -129,6 +130,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时54分 ~ 16时54分]"
+        },
+        {
+          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
+          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时02分]"
         },
         {
           "title": "中方回应特朗普称推迟访华",
@@ -167,17 +179,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时28分 ~ 16时54分]"
-        },
-        {
-          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
-          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
         },
         {
           "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
@@ -330,6 +331,19 @@
           "time_info": "[10时28分 ~ 14时08分]"
         },
         {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时54分 ~ 19时02分]"
+        },
+        {
           "title": "中方回应特朗普确认推迟访华",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A1%AE%E8%AE%A4%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -353,16 +367,15 @@
           "time_info": "[12时59分 ~ 14时08分]"
         },
         {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
           "ranks": [
-            12,
             9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时54分 ~ 17时59分]"
+          "time_info": "[17时58分 ~ 19时02分]"
         },
         {
           "title": "为何不谴责美以？高市早苗：因为我要见特朗普",
@@ -376,26 +389,27 @@
           "time_info": "[15时54分 ~ 16时54分]"
         },
         {
-          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
-        },
-        {
           "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
           "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时02分]"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：我们很快将重返月球，然后前往火星。",
@@ -420,17 +434,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 07时36分]"
-        },
-        {
-          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 17时59分]"
         },
         {
           "title": "美国总统特朗普：在英国，贸易协议可能没有得到重视。",
@@ -475,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "特朗普确认推迟访华，外交部：中美将继续就此事保持沟通",
@@ -596,6 +610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-18）",
+          "url": "https://flash.jin10.com/detail/20260318182953549800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美国总统特朗普：伊朗这件事其实基本上在两三天内就结束了。",
