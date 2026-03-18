@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T12:59:43.009594+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-03-18T14:08:08.464575+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普称将接管古巴",
@@ -65,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时59分 ~ 12时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时59分 ~ 14时08分]"
         },
         {
           "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
@@ -77,8 +77,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 14时08分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：不担心伊朗会成为另一个越南",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 14时08分]"
         },
         {
           "title": "美国总统特朗普：我还以为欧洲会说他们将派出扫雷舰。",
@@ -170,6 +181,18 @@
           "time_info": "00时16分"
         },
         {
+          "title": "国台办回应特朗普或将批准对台军售案",
+          "url": "https://www.toutiao.com/trending/7617485967372320822/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时08分]"
+        },
+        {
           "title": "美国总统特朗普：斯塔默不是丘吉尔。",
           "url": "https://flash.jin10.com/detail/20260318001108583800",
           "source": "金十数据",
@@ -198,11 +221,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时08分]"
         },
         {
           "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
@@ -213,8 +237,44 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时08分]"
+        },
+        {
+          "title": "特朗普称应考虑美国退出北约的可能性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 14时08分]"
+        },
+        {
+          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
+          "url": "https://news.ifeng.com/c/8radF7mAvMh",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时08分]"
+        },
+        {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 14时08分]"
         },
         {
           "title": "美国总统特朗普：我们很快将重返月球，然后前往火星。",
@@ -241,16 +301,15 @@
           "time_info": "[06时59分 ~ 07时36分]"
         },
         {
-          "title": "特朗普称应考虑美国退出北约的可能性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783811",
           "source": "澎湃新闻",
           "ranks": [
-            20,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时28分 ~ 12时59分]"
+          "time_info": "[14时07分 ~ 14时08分]"
         },
         {
           "title": "美国总统特朗普：在英国，贸易协议可能没有得到重视。",
@@ -286,17 +345,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
-          "url": "https://news.ifeng.com/c/8radF7mAvMh",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
           "title": "美国总统特朗普：我们还没做好撤离伊朗的准备，（但）将在非常不久的将来离开。",
           "url": "https://flash.jin10.com/detail/20260318000926646800",
           "source": "金十数据",
@@ -328,17 +376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
-        },
-        {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
         },
         {
           "title": "美国总统特朗普：我们可以选择摧毁哈尔克岛的石油设施。",
@@ -418,17 +455,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "国台办回应特朗普或将批准对台军售案",
-          "url": "https://www.toutiao.com/trending/7617485967372320822/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
           "title": "美国总统特朗普：伊朗这件事其实基本上在两三天内就结束了。",
           "url": "https://flash.jin10.com/detail/20260318000634545800",
           "source": "金十数据",
@@ -468,7 +494,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
