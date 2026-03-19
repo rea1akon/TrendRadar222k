@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T05:39:23.940200+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-03-20T06:32:29.265036+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时32分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时32分]"
         },
         {
           "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时32分]"
         },
         {
           "title": "被特朗普抱怨不积极，默茨最新表态",
@@ -49,8 +49,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时32分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -61,8 +61,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时32分]"
+        },
+        {
+          "title": "特朗普见高市早苗提偷袭珍珠港",
+          "url": "https://news.ifeng.com/c/8rdFpy1BUv6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时39分]"
+          "time_info": "[03时02分 ~ 06时32分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -77,17 +88,6 @@
           "time_info": "[03时02分 ~ 04时41分]"
         },
         {
-          "title": "特朗普见高市早苗提偷袭珍珠港",
-          "url": "https://news.ifeng.com/c/8rdFpy1BUv6",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时02分 ~ 05时39分]"
-        },
-        {
           "title": "特朗普会晤高市早苗，把美国袭击伊朗比作偷袭珍珠港",
           "url": "https://wallstreetcn.com/livenews/3073556",
           "source": "华尔街见闻-快讯",
@@ -100,6 +100,30 @@
           "time_info": "[04时41分 ~ 05时39分]"
         },
         {
+          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
+          "url": "https://wallstreetcn.com/articles/3767948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时32分]"
+        },
+        {
+          "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3073567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 06时32分]"
+        },
+        {
           "title": "【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。 当被问及是否打算解除对伊朗石油的制裁，以及是否打算在该地区部署美军或更多军队时，特朗普表示，他不会在任何地方部署军队，美国将采取一切必要措施来维持油价稳定。 特朗普还称，美国需要更多资金来资助对伊朗的战争。（央视）",
           "url": "https://wallstreetcn.com/livenews/3073489",
           "source": "华尔街见闻-快讯",
@@ -109,17 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
-          "url": "https://wallstreetcn.com/articles/3767948",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时39分"
         },
         {
           "title": "美国总统特朗普暗示，司法部应该继续调查美联储主席鲍威尔。 这恐怕会让凯文·沃什的美联储主席提名资格在参议院获得确认的前景变得错综复杂。（CNBC）",
@@ -139,20 +152,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
         },
         {
-          "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3073567",
+          "title": "Anthropic PBC周三会见美国白宫的国土安全委员会。 Anthropic高管Jack Clark与特朗普政府的一个委员会讨论出口管制问题。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3073591",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时39分"
+          "time_info": "06时32分"
         },
         {
           "title": "特朗普称已告知以色列勿攻击伊朗境内能源设施",
