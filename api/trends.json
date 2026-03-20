@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T16:44:29.254935+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-03-20T17:44:59.518703+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
@@ -41,6 +41,21 @@
           "time_info": "[01时04分 ~ 12时49分]"
         },
         {
+          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
+          "url": "https://wallstreetcn.com/articles/3767948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[05时39分 ~ 17时44分]"
+        },
+        {
           "title": "美以伊战争丨特朗普最佳王牌下周抵达中东，能做什么",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -50,20 +65,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时54分 ~ 16时44分]"
-        },
-        {
-          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
-          "url": "https://wallstreetcn.com/articles/3767948",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时39分 ~ 16时44分]"
         },
         {
           "title": "特朗普会晤高市早苗 把美国袭击伊朗比作偷袭珍珠港",
@@ -87,8 +88,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时04分 ~ 16时44分]"
+          "appearance_count": 16,
+          "time_info": "[01时04分 ~ 17时44分]"
         },
         {
           "title": "全世界都被特朗普逗笑了，除了高市早苗",
@@ -98,8 +99,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时49分 ~ 17时44分]"
+        },
+        {
+          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
+          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时49分 ~ 16时44分]"
+          "time_info": "[13时54分 ~ 17时44分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
@@ -113,17 +125,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 10时22分]"
-        },
-        {
-          "title": "特朗普指着带口音的记者问高市：这是你们的人，他是好是坏？",
-          "url": "https://v.ifeng.com/c/8rckHP0Ciue",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 16时44分]"
         },
         {
           "title": "特朗普见高市早苗提偷袭珍珠港",
@@ -206,6 +207,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时32分]"
+        },
+        {
+          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时44分 ~ 17时44分]"
         },
         {
           "title": "【特朗普称已告知以色列：勿攻击伊朗境内能源设施】当地时间19日，美国总统特朗普称，已告知以色列总理内塔尼亚胡不要攻击伊朗境内的能源设施。 当被问及是否打算解除对伊朗石油的制裁，以及是否打算在该地区部署美军或更多军队时，特朗普表示，他不会在任何地方部署军队，美国将采取一切必要措施来维持油价稳定。 特朗普还称，美国需要更多资金来资助对伊朗的战争。（央视）",
@@ -340,17 +353,6 @@
           "time_info": "10时22分"
         },
         {
-          "title": "高市早苗秀英语没说几句就“翻车”，特朗普：我们还是用翻译吧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32799795",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
           "title": "美国总统特朗普结束白宫新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260320001923349800",
           "source": "金十数据",
@@ -404,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "行业集体施压奏效！特朗普政府明确放弃石油出口禁令选项",
+          "url": "https://flash.jin10.com/detail/20260320172358241800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "美国参议院少数党领袖舒默：美国人被迫在救命药物和日常必需品之间做出选择，而特朗普却要求为他的战争再拨款2000亿美元，延长《平价医疗法案》税收抵免给超过2000万美国人的成本还不到这个数字的一半。",
