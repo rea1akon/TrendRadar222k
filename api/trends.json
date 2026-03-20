@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T00:49:00.842266+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-21T01:37:54.191566+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 00时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时37分]"
         },
         {
           "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 00时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时37分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -37,19 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 00时49分]"
-        },
-        {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 00时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时37分]"
         },
         {
           "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
@@ -59,8 +48,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 00时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时37分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时37分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -70,8 +71,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 00时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时37分]"
         },
         {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
@@ -81,8 +82,20 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 01时37分]"
+        },
+        {
+          "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
+          "url": "https://wallstreetcn.com/livenews/3074255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时48分 ~ 00时49分]"
+          "time_info": "[00时49分 ~ 01时37分]"
         },
         {
           "title": "特朗普肖像将登美建国250周年纪念币",
@@ -96,24 +109,13 @@
           "time_info": "[00时48分 ~ 00时49分]"
         },
         {
-          "title": "特朗普：泽连斯基提出在伊朗问题上帮助美国是作秀",
-          "url": "https://wallstreetcn.com/livenews/3074255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
           "title": "哈佛大学：我们所做的努力与特朗普政府所谓的指控完全相反，将对该诉讼进行辩护。",
           "url": "https://flash.jin10.com/detail/20260321003326082800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
         },
@@ -124,7 +126,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
         },
@@ -135,7 +137,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
         }
