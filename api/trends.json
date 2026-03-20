@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-21T05:33:37.442840+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-03-21T06:32:40.723391+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2320056",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时32分]"
+        },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
           "url": "https://wallstreetcn.com/articles/3767948",
@@ -19,15 +30,17 @@
           "time_info": "[00时48分 ~ 05时33分]"
         },
         {
-          "title": "特朗普据称考虑占领或封锁哈尔克岛 以迫使伊朗重开霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2320056",
-          "source": "财联社热门",
+          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3768006",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时32分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -37,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时32分]"
         },
         {
           "title": "特朗普点名日本参加霍尔木兹护航，日本去不去都是错误选择？",
@@ -48,42 +61,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时33分]"
-        },
-        {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时32分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
           "url": "https://m.thepaper.cn/newsDetail_forward_32799516",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时32分]"
         },
         {
           "title": "内塔尼亚胡否认以色列将美国拖入战争：真有人觉得能指挥特朗普？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32801066",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 06时32分]"
         },
         {
           "title": "特朗普：目前不想停火 霍尔木兹海峡会自动开放",
@@ -93,8 +96,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时32分]"
         },
         {
           "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
@@ -103,9 +106,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "美以伊战争丨特朗普：正考虑逐步降级对伊朗军事行动",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普仍然侧重于在伊朗（实现）“全面”胜利。 国防部预计，完成任务（还）需要4-6周时间。",
+          "url": "https://wallstreetcn.com/livenews/3074371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "周五（3月20日），降息赢家指数跌2.23%，报84.87点，本周累计下跌2.49%。 “特朗普关税输家”指数跌2.56%，本周累跌2.01%；“特朗普金融指数”涨0.35%，本周累涨1.46%。 散户抱团概念股指数/迷因股（meme stock）指数跌3.65%，本周累跌2.78%。",
@@ -113,11 +138,78 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时32分]"
+        },
+        {
+          "title": "特朗普：我的支持率达到了前所未有的100%",
+          "url": "https://flash.jin10.com/detail/20260321035836986800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时32分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及停火）你知道，当你正在彻底摧毁对方时，是不可能停火的。",
+          "url": "https://flash.jin10.com/detail/20260321035243299800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时32分]"
+        },
+        {
+          "title": "美国总统特朗普：我们在对伊朗的打击上提前了几周。",
+          "url": "https://flash.jin10.com/detail/20260321035131760800",
+          "source": "金十数据",
+          "ranks": [
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时33分]"
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时32分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及油价）我本以为会比现在更糟。",
+          "url": "https://flash.jin10.com/detail/20260321035102201800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时32分]"
+        },
+        {
+          "title": "美国总统特朗普：英国本应行动更快。",
+          "url": "https://flash.jin10.com/detail/20260321034915196800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时32分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及英国的帮助）英国的反应非常迟缓。",
+          "url": "https://flash.jin10.com/detail/20260321034854944800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时36分 ~ 06时32分]"
         },
         {
           "title": "特朗普肖像将登美建国250周年纪念币",
@@ -156,70 +248,16 @@
           "time_info": "[00时49分 ~ 01时37分]"
         },
         {
-          "title": "特朗普：我的支持率达到了前所未有的100%",
-          "url": "https://flash.jin10.com/detail/20260321035836986800",
-          "source": "金十数据",
+          "title": "特朗普：撤出驻西班牙和德国美军是“合理的”",
+          "url": "https://wallstreetcn.com/livenews/3074342",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时33分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及停火）你知道，当你正在彻底摧毁对方时，是不可能停火的。",
-          "url": "https://flash.jin10.com/detail/20260321035243299800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时33分]"
-        },
-        {
-          "title": "美国总统特朗普：我们在对伊朗的打击上提前了几周。",
-          "url": "https://flash.jin10.com/detail/20260321035131760800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时33分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及油价）我本以为会比现在更糟。",
-          "url": "https://flash.jin10.com/detail/20260321035102201800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时33分]"
-        },
-        {
-          "title": "美国总统特朗普：英国本应行动更快。",
-          "url": "https://flash.jin10.com/detail/20260321034915196800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时33分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈及英国的帮助）英国的反应非常迟缓。",
-          "url": "https://flash.jin10.com/detail/20260321034854944800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时36分 ~ 05时33分]"
+          "time_info": "[05时33分 ~ 06时32分]"
         },
         {
           "title": "美国总统特朗普：我们有无限的弹药，还有很多部队。",
@@ -231,6 +269,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时33分]"
+        },
+        {
+          "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3074368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
         },
         {
           "title": "美国内政部长伯古姆：特朗普总统的政策正在全球范围内建立联盟。",
@@ -255,6 +304,39 @@
           "time_info": "03时39分"
         },
         {
+          "title": "特朗普：正考虑逐步降级对伊朗的军事行动",
+          "url": "https://wallstreetcn.com/livenews/3074365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
+          "url": "https://wallstreetcn.com/articles/3768030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "布伦特原油期货在电子交易盘回吐涨幅，美国总统特朗普宣称，美方考虑“逐步缩减”对伊朗的军事行动。",
+          "url": "https://wallstreetcn.com/livenews/3074360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
           "title": "哈佛大学：我们所做的努力与特朗普政府所谓的指控完全相反，将对该诉讼进行辩护。",
           "url": "https://flash.jin10.com/detail/20260321003326082800",
           "source": "金十数据",
@@ -275,17 +357,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "特朗普：撤出驻西班牙和德国美军是“合理的”",
-          "url": "https://wallstreetcn.com/livenews/3074342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时33分"
         },
         {
           "title": "特朗普：如果现在停战，伊朗重建将需要10年",
