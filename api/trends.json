@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-21T19:26:27.952289+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-03-21T20:55:28.698014+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 20时55分]"
+        },
         {
           "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
           "url": "https://www.cls.cn/detail/2320213",
@@ -21,8 +35,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时31分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[07时31分 ~ 20时55分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -52,22 +66,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时32分 ~ 19时26分]"
+          "appearance_count": 14,
+          "time_info": "[06时32分 ~ 20时55分]"
         },
         {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
+          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
+          "source": "澎湃新闻",
           "ranks": [
+            8,
             6,
             4,
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 19时26分]"
+          "appearance_count": 10,
+          "time_info": "[12时28分 ~ 20时55分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -92,8 +106,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时48分 ~ 19时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时48分 ~ 20时55分]"
         },
         {
           "title": "美日领导人会晤，特朗普只想聊伊朗",
@@ -106,19 +120,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时09分 ~ 16时37分]"
-        },
-        {
-          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时28分 ~ 19时26分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -172,8 +173,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时09分 ~ 19时26分]"
+          "appearance_count": 11,
+          "time_info": "[10时09分 ~ 20时55分]"
         },
         {
           "title": "高市早苗抵达白宫，特朗普张开双臂欢迎，两人热情拥抱",
@@ -382,6 +383,17 @@
           "time_info": "[06时32分 ~ 10时09分]"
         },
         {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 20时55分]"
+        },
+        {
           "title": "视频丨美防长声称全世界都应对特朗普说声“谢谢”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32800200",
           "source": "澎湃新闻",
@@ -403,6 +415,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 05时33分]"
+        },
+        {
+          "title": "江学勤教授预警：特朗普或启动全美征兵",
+          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 20时55分]"
         },
         {
           "title": "【特朗普：当美国想结束与伊朗冲突时，以色列也会同步】美国总统特朗普表示，他认为，当美国想结束与伊朗的冲突时，以色列也准备好结束这场冲突。当被问及一旦美国完成军事行动，以色列是否准备结束对伊朗的战争时，特朗普回答说，“我认为是这样”。谈及英国的协助，特朗普称，英国反应迟缓，他们本应行动更快。当地时间20日，英国政府授权美国使用英国境内的军事基地，“对伊朗用于袭击霍尔木兹海峡船只的导弹设施实施打击”。（央视）",
@@ -427,17 +450,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时37分 ~ 17时35分]"
-        },
-        {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时31分]"
         },
         {
           "title": "布伦特原油期货在电子交易盘回吐涨幅，美国总统特朗普宣称，美方考虑“逐步缩减”对伊朗的军事行动。",
@@ -499,17 +511,6 @@
           "time_info": "[04时36分 ~ 05时33分]"
         },
         {
-          "title": "江学勤教授预警：特朗普或启动全美征兵",
-          "url": "https://news.ifeng.com/c/8rg6sjUJDpt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
-        },
-        {
           "title": "“谁是主子，谁是奴才？”特朗普借“珍珠港”给高市早苗上课",
           "url": "https://news.ifeng.com/c/8rfRldwHGa7",
           "source": "凤凰网",
@@ -519,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "捅了马蜂窝却让别人去护航，特朗普为何频频发出矛盾表态？",
+          "url": "https://news.ifeng.com/c/8rgDgdm9Vc6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "美国内政部长伯古姆：特朗普总统的政策正在全球范围内建立联盟。",
@@ -637,7 +649,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
         },
