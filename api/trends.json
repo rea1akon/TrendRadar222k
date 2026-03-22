@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T16:38:34.292983+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-03-22T17:36:46.602423+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 17时36分]"
         },
         {
           "title": "美国或向中东增派数千士兵，特朗普先称不想停火、后称考虑对伊军事行动逐步降级，伊朗威胁毁灭性打击美以“邪恶官员”",
@@ -42,6 +42,18 @@
           "time_info": "[00时33分 ~ 05时29分]"
         },
         {
+          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
+          "url": "https://wallstreetcn.com/articles/3768068",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时29分 ~ 17时36分]"
+        },
+        {
           "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
           "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
           "source": "澎湃新闻",
@@ -52,18 +64,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 07时28分]"
-        },
-        {
-          "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
-          "url": "https://wallstreetcn.com/articles/3768068",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时29分 ~ 16时38分]"
         },
         {
           "title": "江学勤教授预警：特朗普或启动全美征兵",
@@ -98,8 +98,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 17时36分]"
         },
         {
           "title": "美以伊战争丨伊朗：若地面入侵，将给特朗普“惊喜”",
@@ -136,17 +136,6 @@
           "time_info": "[02时39分 ~ 06时28分]"
         },
         {
-          "title": "美以伊战争丨特朗普威胁袭击电厂，伊朗回击",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
           "title": "特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂",
           "url": "https://wallstreetcn.com/livenews/3074479",
           "source": "华尔街见闻-快讯",
@@ -156,11 +145,35 @@
             15,
             18,
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 16时38分]"
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 17时36分]"
+        },
+        {
+          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 17时36分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普威胁袭击电厂，伊朗回击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         },
         {
           "title": "特朗普要求伊朗48小时内开放霍尔木兹海峡，威胁摧毁发电厂",
@@ -204,16 +217,15 @@
           "time_info": "[02时40分 ~ 07时28分]"
         },
         {
-          "title": "伊朗回应特朗普袭击电厂威胁：若遭袭将打击美及其盟友关键设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32809836",
-          "source": "澎湃新闻",
+          "title": "美媒：特朗普团队已密谋与伊朗“和谈”，细节曝光",
+          "url": "https://news.ifeng.com/c/8rhkJWR8tiE",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 16时38分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "美国研究集团（ARG）最新民调显示，特朗普支持率创新低，不支持率高达63%，支持率仅为34%。",
@@ -226,6 +238,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时29分 ~ 12时55分]"
+        },
+        {
+          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
+          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 17时36分]"
         },
         {
           "title": "伊朗回应特朗普袭击电厂威胁",
@@ -241,17 +264,6 @@
           "time_info": "[10时29分 ~ 13时56分]"
         },
         {
-          "title": "美国前FBI局长米勒去世，曾负责特朗普“通俄门”调查",
-          "url": "https://news.ifeng.com/c/8rhPSWAl42N",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时38分]"
-        },
-        {
           "title": "在高市面前提珍珠港，特朗普二儿子夸父亲答得好",
           "url": "https://news.ifeng.com/c/8rhITNvbPgx",
           "source": "凤凰网",
@@ -259,8 +271,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时56分 ~ 16时38分]"
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 17时36分]"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡，威胁摧毁发电厂，为什么选择攻击民用设施而不是军事目标？伊朗会妥协吗？",
@@ -295,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "英国内阁大臣里德：（在被问及英国对美国总统特朗普48小时伊朗最后通牒的立场时）美国总统特朗普只是在代表他自己发言。",
+          "url": "https://flash.jin10.com/detail/20260322164923102800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "特朗普要求伊朗开放霍尔木兹海峡 威胁摧毁发电厂",
