@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T21:13:40.242696+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2026-03-23T22:58:19.567666+08:00",
+  "total_titles_processed": 1674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 64,
+      "match_count": 76,
       "titles": [
         {
           "title": "语气再变！特朗普限伊朗48小时开放霍尔木兹海峡，威胁摧毁其发电厂，伊朗回应：或反击三类设施",
@@ -153,6 +153,21 @@
           "time_info": "[00时34分 ~ 07时32分]"
         },
         {
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时05分 ~ 22时58分]"
+        },
+        {
           "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
           "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
           "source": "凤凰网",
@@ -177,21 +192,6 @@
           "time_info": "[15时14分 ~ 21时13分]"
         },
         {
-          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
-          "url": "https://wallstreetcn.com/articles/3768111",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时05分 ~ 21时13分]"
-        },
-        {
           "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
           "url": "https://wallstreetcn.com/articles/3768110",
           "source": "华尔街见闻",
@@ -210,8 +210,43 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时46分 ~ 22时58分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普称与伊朗对话了，后者否认",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时46分 ~ 21时13分]"
+          "time_info": "[21时13分 ~ 22时58分]"
+        },
+        {
+          "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
+          "url": "https://wallstreetcn.com/articles/3768172",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时58分]"
+        },
+        {
+          "title": "特朗普：美伊过去两天已进行对话",
+          "url": "https://www.cls.cn/detail/2321845",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时46分 ~ 22时58分]"
         },
         {
           "title": "美以伊战争丨特朗普：与伊朗进行了富有成效的对话",
@@ -223,17 +258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
-        },
-        {
-          "title": "美以伊战争丨特朗普称与伊朗对话了，后者否认",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
         },
         {
           "title": "伊朗军方发言人用“特朗普的方式”回应特朗普",
@@ -272,6 +296,20 @@
           "time_info": "[10时31分 ~ 18时12分]"
         },
         {
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时02分 ~ 22时58分]"
+        },
+        {
           "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
           "source": "澎湃新闻",
@@ -299,17 +337,6 @@
           "time_info": "[03时29分 ~ 07时32分]"
         },
         {
-          "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
-          "url": "https://wallstreetcn.com/articles/3768172",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
           "title": "市场消息：在特朗普发表最新言论后，以色列官员尚未对此发表任何评论。",
           "url": "https://flash.jin10.com/detail/20260323194116202800",
           "source": "金十数据",
@@ -319,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "美国能源部长Wright：（美国）“可能会再次释放战略石油储备（SPR）”，但不可能发生这种情况。 如果我们（特朗普政府）想要这样做，将要求（石油/天然气）行业提高产量。",
+          "url": "https://wallstreetcn.com/livenews/3075276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "特朗普最后通牒还剩24小时，贝森特称“先升级再缓和”，亚洲股市重挫、黄金再跌3%",
@@ -373,22 +411,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
-        },
-        {
-          "title": "中方回应特朗普向伊朗发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7620351961246924809/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时02分 ~ 21时13分]"
         },
         {
           "title": "伊朗提出4项措施回应特朗普威胁",
@@ -439,8 +464,8 @@
           "time_info": "[00时35分 ~ 04时32分]"
         },
         {
-          "title": "特朗普：美伊过去两天已进行对话",
-          "url": "https://www.cls.cn/detail/2321845",
+          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
+          "url": "https://www.cls.cn/detail/2321917",
           "source": "财联社热门",
           "ranks": [
             6,
@@ -448,7 +473,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时46分 ~ 21时13分]"
+          "time_info": "[21时13分 ~ 22时58分]"
         },
         {
           "title": "美议员要求特朗普政府官员国会作证",
@@ -471,8 +496,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时46分 ~ 22时58分]"
+        },
+        {
+          "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
+          "url": "https://www.zhihu.com/question/2019499450662348649",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时46分 ~ 21时13分]"
+          "time_info": "[21时13分 ~ 22时58分]"
         },
         {
           "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
@@ -487,6 +523,29 @@
           "time_info": "[05时31分 ~ 06时29分]"
         },
         {
+          "title": "特朗普威胁摧毁伊朗发电设施，外交部回应",
+          "url": "https://www.cls.cn/detail/2321403",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时58分]"
+        },
+        {
+          "title": "特朗普称美伊已对话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%B7%B2%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时58分]"
+        },
+        {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
           "url": "https://wallstreetcn.com/livenews/3074555",
           "source": "华尔街见闻-快讯",
@@ -498,15 +557,15 @@
           "time_info": "[00时35分 ~ 01时29分]"
         },
         {
-          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
-          "url": "https://www.cls.cn/detail/2321917",
-          "source": "财联社热门",
+          "title": "特朗普称同伊朗已形成协议要点",
+          "url": "https://www.toutiao.com/trending/7620316859677786155/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "22时58分"
         },
         {
           "title": "特朗普称推迟5天打击伊朗发电站",
@@ -531,17 +590,6 @@
           "time_info": "19时46分"
         },
         {
-          "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
-          "url": "https://www.zhihu.com/question/2019499450662348649",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
           "title": "突发大逆转！特朗普宣布“延后”对伊打击，原油闪崩、黄金狂飙超百美元！",
           "url": "https://flash.jin10.com/detail/20260323193840402800",
           "source": "金十数据",
@@ -553,6 +601,17 @@
           "time_info": "19时46分"
         },
         {
+          "title": "伊朗称特朗普推迟袭击表态为心理战",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E8%BF%9F%E8%A2%AD%E5%87%BB%E8%A1%A8%E6%80%81%E4%B8%BA%E5%BF%83%E7%90%86%E6%88%98%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "伊朗驻阿富汗大使馆：在伊朗发出坚定警告后，特朗普已从袭击能源基础设施的计划中退却。",
           "url": "https://flash.jin10.com/detail/20260323193743491800",
           "source": "金十数据",
@@ -562,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "芝加哥小麦价格下跌，此前特朗普宣称推迟对伊朗能源设施的打击",
+          "url": "https://wallstreetcn.com/livenews/3075269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "特朗普逐步降级言论会否引发市场反弹？分析师警告：别轻易当真",
@@ -586,13 +656,35 @@
           "time_info": "06时29分"
         },
         {
+          "title": "特朗普称同伊朗已形成协议要点",
+          "url": "https://wallstreetcn.com/articles/3768191",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2321966",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "德国总理默茨：已向美国总统特朗普表达了对袭击伊朗核电站的担忧。",
           "url": "https://flash.jin10.com/detail/20260323210553439800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -603,29 +695,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "特朗普威胁摧毁伊朗发电设施，外交部回应",
-          "url": "https://www.cls.cn/detail/2321403",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "特朗普称美伊已对话",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%B7%B2%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -669,9 +739,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "特朗普称同伊朗已形成协议要点",
+          "url": "https://wallstreetcn.com/livenews/3075260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "逼宫戏码适得其反？特朗普施压下，鲍威尔或成“影子美联储主席”",
@@ -683,6 +764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32815385",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "土耳其主要股指在美国总统特朗普发表评论后收复失地。",
@@ -702,7 +794,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -713,9 +805,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "特朗普宣称：将与阿亚图拉“联合控制”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3075253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "新兴市场货币指数在特朗普就伊朗问题发表最新言论后进一步扩大涨幅。",
@@ -724,7 +827,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -740,6 +843,28 @@
           "time_info": "10时31分"
         },
         {
+          "title": "特朗普：已与伊朗达成15项共识，霍尔木兹海峡或由美伊共同控制",
+          "url": "https://flash.jin10.com/detail/20260323223517200800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
+          "title": "特朗普：已与伊朗在“主要问题上达成共识”很快就能达成协议结束战争",
+          "url": "https://flash.jin10.com/detail/20260323223457739800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "国际能源署署长比罗尔：不会给美国总统特朗普任何建议。",
           "url": "https://flash.jin10.com/detail/20260323095303059800",
           "source": "金十数据",
@@ -749,6 +874,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "美国总统特朗普宣称：希望在（国际石油）系统内维持尽可能多的石油（供应）。",
+          "url": "https://wallstreetcn.com/livenews/3075246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     }
