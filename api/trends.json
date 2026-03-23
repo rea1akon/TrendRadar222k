@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T17:02:23.632633+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-03-23T18:12:05.476972+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 17时02分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 18时12分]"
         },
         {
           "title": "美媒：特朗普团队已密谋与伊朗“和谈” 细节曝光",
@@ -79,6 +79,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时34分 ~ 07时32分]"
+        },
+        {
+          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3768072",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 18时12分]"
         },
         {
           "title": "伊朗议长回应特朗普开放霍尔木兹海峡“最后通牒”",
@@ -140,27 +152,16 @@
           "time_info": "[00时34分 ~ 07时32分]"
         },
         {
-          "title": "本周重磅日程：特朗普对伊发出48小时通牒、博鳌论坛、美团拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3768072",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时31分 ~ 17时02分]"
-        },
-        {
           "title": "凤凰女记者：德黑兰被炸如同地震，特朗普的威胁致民众恐慌",
           "url": "https://news.ifeng.com/c/8rj85g0QAfQ",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 18时12分]"
         },
         {
           "title": "特朗普最后通牒倒计时！全球股债遭遇“黑色星期一”，黄金跌破4100、白银逼近60",
@@ -169,9 +170,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 18时12分]"
+        },
+        {
+          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
+          "url": "https://www.cls.cn/detail/2321109",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时14分 ~ 18时12分]"
         },
         {
           "title": "伊朗军方发言人用“特朗普的方式”回应特朗普",
@@ -196,6 +209,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 05时31分]"
+        },
+        {
+          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
+          "url": "https://www.zhihu.com/question/2019150605713716559",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 18时12分]"
         },
         {
           "title": "德国总理默茨与美国总统特朗普通话，讨论中东及乌克兰局势",
@@ -248,6 +273,19 @@
           "time_info": "10时31分"
         },
         {
+          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
+          "url": "https://wallstreetcn.com/articles/3768111",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 18时12分]"
+        },
+        {
           "title": "伊朗提出4项措施回应特朗普威胁",
           "url": "https://flash.jin10.com/detail/20260322221651841800",
           "source": "金十数据",
@@ -296,28 +334,16 @@
           "time_info": "[00时35分 ~ 04时32分]"
         },
         {
-          "title": "特朗普下最后通牒后双方僵持 中东民用基础设施面临“生死局”",
-          "url": "https://www.cls.cn/detail/2321109",
-          "source": "财联社热门",
+          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 17时02分]"
-        },
-        {
-          "title": "特朗普团队被曝密谋与伊朗「和谈」，伊朗媒体称伊官员提出停战六项条件，双方做好谈判准备了吗？",
-          "url": "https://www.zhihu.com/question/2019150605713716559",
-          "source": "知乎",
-          "ranks": [
-            11,
-            14
+            15,
+            17
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时31分 ~ 17时02分]"
+          "time_info": "[15时14分 ~ 18时12分]"
         },
         {
           "title": "美议员要求特朗普政府官员国会作证",
@@ -332,17 +358,16 @@
           "time_info": "[13时05分 ~ 17时02分]"
         },
         {
-          "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
-          "url": "https://wallstreetcn.com/articles/3768111",
-          "source": "华尔街见闻",
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            7,
-            8
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时05分 ~ 17时02分]"
+          "time_info": "[17时02分 ~ 18时12分]"
         },
         {
           "title": "“害怕接电话” 特朗普发视频嘲讽英首相",
@@ -355,18 +380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时29分]"
-        },
-        {
-          "title": "特朗普骂北约“纸老虎”，吕特不敢回击还说“理解”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32813357",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 17时02分]"
         },
         {
           "title": "美媒：特朗普团队已开始谋划与伊朗“和谈”事宜",
@@ -402,17 +415,6 @@
           "time_info": "06时29分"
         },
         {
-          "title": "中方回应特朗普向伊朗发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7620351961246924809/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
           "title": "48小时最后通牒：特朗普威胁“炸电厂”，伊朗回敬“完全封锁海峡”",
           "url": "https://flash.jin10.com/detail/20260323063950259800",
           "source": "金十数据",
@@ -430,7 +432,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
