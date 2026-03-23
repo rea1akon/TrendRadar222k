@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T01:53:31.282226+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-03-24T02:59:09.386169+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "称伊对话“富有成效”，特朗普“推迟5天”打击伊朗发电站，伊朗断然否认",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
         },
         {
           "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
         },
         {
           "title": "特朗普：美伊过去两天已进行对话",
@@ -49,8 +49,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
+        },
+        {
+          "title": "特朗普：同伊朗对话“完美” 已形成协议要点，正就达成更广泛协议与伊磋商",
+          "url": "https://wallstreetcn.com/articles/3768191",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美” 已形成协议要点，伊斯兰堡会谈遭伊否认",
@@ -65,6 +76,17 @@
           "time_info": "[00时05分 ~ 01时53分]"
         },
         {
+          "title": "美国内政部长伯格姆：阿拉斯加是美国能源安全的关键，液化天然气是高优先级项目；关于伊朗——特朗普会解决这个问题并取得胜利。",
+          "url": "https://flash.jin10.com/detail/20260324023842205800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
           "title": "特朗普称同伊朗已形成协议要点",
           "url": "https://www.toutiao.com/trending/7620316859677786155/",
           "source": "今日头条",
@@ -72,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
         },
         {
           "title": "靠“夺取哈尔克岛”，特朗普能让“霍尔木兹海峡”重开吗？",
@@ -83,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
         },
         {
           "title": "特朗普称同伊朗已形成协议要点",
@@ -94,8 +116,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
         },
         {
           "title": "伊朗否认与美国沟通，此前特朗普称已与伊朗对话，将推迟五天打击伊朗发电站，如何看待此事？战争要结束了吗？",
@@ -105,8 +127,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
         },
         {
           "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
@@ -116,30 +138,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
         },
         {
           "title": "特朗普称美伊进行了富有成效的对话",
           "url": "https://www.toutiao.com/trending/7619517736586821695/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
         },
         {
           "title": "特朗普称已与伊朗对话，将暂停打击其能源设施5天",
           "url": "https://m.thepaper.cn/newsDetail_forward_32815385",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
         },
         {
           "title": "特朗普称美伊已对话",
@@ -147,11 +171,73 @@
           "source": "微博",
           "ranks": [
             26,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 02时59分]"
+        },
+        {
+          "title": "中方回应特朗普向伊朗发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7620351961246924809/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 02时59分]"
+        },
+        {
+          "title": "欧洲天然气期货跌约6%，投资者关注特朗普的“与伊朗谈判”论调",
+          "url": "https://wallstreetcn.com/livenews/3075357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 02时59分]"
+        },
+        {
+          "title": "两年期德债收益率周一跌约10个基点，投资者权衡特朗普抛出的“与伊朗谈判”信息",
+          "url": "https://wallstreetcn.com/livenews/3075354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 02时59分]"
+        },
+        {
+          "title": "特朗普称正就达成更广泛协议与伊朗磋商：伊朗是认真的，他们想要达成和解",
+          "url": "https://wallstreetcn.com/livenews/3075353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
             25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时05分 ~ 01时53分]"
+          "time_info": "[01时53分 ~ 02时59分]"
+        },
+        {
+          "title": "伊朗称特朗普推迟袭击表态为心理战",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A8%E8%BF%9F%E8%A2%AD%E5%87%BB%E8%A1%A8%E6%80%81%E4%B8%BA%E5%BF%83%E7%90%86%E6%88%98%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 02时59分]"
         },
         {
           "title": "据半岛电视台：伊朗高级官员称特朗普无权对谈判施加条件或设定截止日期。",
@@ -160,20 +246,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
         {
-          "title": "欧洲天然气期货跌约6%，投资者关注特朗普的“与伊朗谈判”论调",
-          "url": "https://wallstreetcn.com/livenews/3075357",
-          "source": "华尔街见闻-快讯",
+          "title": "据以色列第12频道：以色列官员表示，特朗普不会签署一个无法实现战争目标的伊朗协议。",
+          "url": "https://flash.jin10.com/detail/20260324023622506800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "02时59分"
         },
         {
           "title": "据英国金融时报：巴基斯坦陆军参谋长Asim Munir于周日与特朗普进行了通话。",
@@ -187,26 +273,26 @@
           "time_info": "00时05分"
         },
         {
-          "title": "两年期德债收益率周一跌约10个基点，投资者权衡特朗普抛出的“与伊朗谈判”信息",
-          "url": "https://wallstreetcn.com/livenews/3075354",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列总理内塔尼亚胡：特朗普认为，可以利用战争成果与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260324023554273800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "02时59分"
         },
         {
-          "title": "特朗普称正就达成更广泛协议与伊朗磋商：伊朗是认真的，他们想要达成和解",
-          "url": "https://wallstreetcn.com/livenews/3075353",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列总理内塔尼亚胡：已与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260324023520768800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "02时59分"
         },
         {
           "title": "特朗普：正就达成更广泛协议与伊朗磋商",
@@ -215,7 +301,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -248,18 +334,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "中方回应特朗普向伊朗发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7620351961246924809/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -270,7 +345,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
@@ -292,7 +367,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
         },
