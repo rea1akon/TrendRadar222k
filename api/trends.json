@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T04:44:34.199179+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-03-25T05:41:05.911485+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,67 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时41分]"
+        },
+        {
+          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时41分]"
+        },
+        {
+          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
+          "url": "https://wallstreetcn.com/articles/3768206",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时41分]"
+        },
+        {
+          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时41分]"
+        },
+        {
+          "title": "特朗普“临阵变卦”有何意图",
+          "url": "https://www.toutiao.com/trending/7619698764027166763/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时41分]"
+        },
+        {
+          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 05时41分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -31,17 +90,6 @@
           "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32817617",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时44分]"
-        },
-        {
           "title": "美国总统特朗普：他们（国会山驴象两党）接近就国土安全部（DHS）预算拨款问题达成共识了。",
           "url": "https://wallstreetcn.com/livenews/3076151",
           "source": "华尔街见闻-快讯",
@@ -51,54 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
-        },
-        {
-          "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
-          "url": "https://wallstreetcn.com/articles/3768206",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时44分]"
-        },
-        {
-          "title": "美伊到底“谈了吗”？特朗普立场突变背后的秘密外交和压力测试",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818612",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时44分]"
-        },
-        {
-          "title": "特朗普“临阵变卦”有何意图",
-          "url": "https://www.toutiao.com/trending/7619698764027166763/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时44分]"
-        },
-        {
-          "title": "开始甩锅？特朗普谈中东点名美防长：是他第一个说要打伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32818073",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 04时44分]"
         },
         {
           "title": "特朗普称伊朗方面“希望达成协议”，美国正与“正确的人”沟通",
@@ -350,7 +350,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         }
