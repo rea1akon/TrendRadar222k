@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T02:59:20.029680+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-03-26T03:55:43.246050+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时55分]"
         },
         {
           "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时55分]"
         },
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -37,8 +37,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时55分]"
+        },
+        {
+          "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
+          "url": "https://flash.jin10.com/detail/20260326032123527800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时55分"
         },
         {
           "title": "据Axios网站记者Barak Ravid：特朗普政府尚未收到伊朗方面拒绝该提议的任何官方消息。",
@@ -59,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时55分]"
         },
         {
           "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
@@ -71,8 +82,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时55分]"
         },
         {
           "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
@@ -83,8 +94,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时55分]"
         },
         {
           "title": "伊朗称不允许特朗普决定停战时间、美国15条提议是“罗列幻想”，美众议长称不会在伊进行地面作战",
@@ -102,11 +113,23 @@
           "url": "https://wallstreetcn.com/livenews/3076845",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时55分]"
+        },
+        {
+          "title": "布伦特原油期货目前跌2.33%，暂报97.89美元。 据纽约时报，伊朗的袭击迫使美军远程行动部，分驻中东美军已迁至酒店和办公室。 另据Axios报道，特朗普拒绝了内塔尼亚胡号召伊朗发动起义的提议。",
+          "url": "https://wallstreetcn.com/livenews/3076867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "03时55分"
         },
         {
           "title": "白宫新闻秘书莱维特：（谈到第82空降师）特朗普更喜欢能有选择。",
@@ -115,7 +138,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -126,7 +149,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
