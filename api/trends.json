@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T21:22:09.978534+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2026-03-26T23:08:01.370290+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 51,
+      "match_count": 80,
       "titles": [
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时42分 ~ 21时22分]"
+          "appearance_count": 15,
+          "time_info": "[05时42分 ~ 23时08分]"
         },
         {
           "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
@@ -68,6 +68,34 @@
           "time_info": "[01时16分 ~ 05时42分]"
         },
         {
+          "title": "传特朗普团队正研究200美元油价影响？白宫矢口否认！",
+          "url": "https://www.cls.cn/detail/2325422",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时02分 ~ 23时08分]"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华保持着沟通",
+          "url": "https://www.cls.cn/detail/2325505",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时02分 ~ 23时08分]"
+        },
+        {
           "title": "中方回应特朗普称5月访华",
           "url": "https://news.ifeng.com/c/8roF6LOhLGd",
           "source": "凤凰网",
@@ -77,6 +105,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时02分 ~ 21时22分]"
+        },
+        {
+          "title": "中方回应特朗普称5月中旬访华",
+          "url": "https://www.toutiao.com/trending/7621462030418972210/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时02分 ~ 23时08分]"
         },
         {
           "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
@@ -117,46 +159,6 @@
           "time_info": "[01时16分 ~ 07时38分]"
         },
         {
-          "title": "传特朗普团队正研究200美元油价影响？白宫矢口否认！",
-          "url": "https://www.cls.cn/detail/2325422",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时02分 ~ 21时22分]"
-        },
-        {
-          "title": "外交部：中美双方就特朗普总统访华保持着沟通",
-          "url": "https://www.cls.cn/detail/2325505",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时02分 ~ 21时22分]"
-        },
-        {
-          "title": "中方回应特朗普称5月中旬访华",
-          "url": "https://www.toutiao.com/trending/7621462030418972210/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时02分 ~ 21时22分]"
-        },
-        {
           "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
           "url": "https://www.zhihu.com/question/2020199361380905442",
           "source": "知乎",
@@ -170,6 +172,17 @@
           "time_info": "[01时16分 ~ 07时38分]"
         },
         {
+          "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
+          "url": "https://news.ifeng.com/c/8roGSbDHfgm",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时21分 ~ 23时08分]"
+        },
+        {
           "title": "白宫：特朗普将于5月中旬访华",
           "url": "https://news.ifeng.com/c/8rnwMTANtGP",
           "source": "凤凰网",
@@ -181,15 +194,29 @@
           "time_info": "[13时09分 ~ 15时13分]"
         },
         {
-          "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
-          "url": "https://news.ifeng.com/c/8roGSbDHfgm",
-          "source": "凤凰网",
+          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            20,
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
+          "appearance_count": 8,
+          "time_info": "[17时02分 ~ 23时08分]"
+        },
+        {
+          "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
+          "url": "https://wallstreetcn.com/articles/3768442",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时10分 ~ 23时08分]"
         },
         {
           "title": "美以伊战争丨特朗普被曝想尽快结束对伊战争",
@@ -203,17 +230,42 @@
           "time_info": "10时34分"
         },
         {
-          "title": "“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32834414",
+          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            19,
-            18
+            15,
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[17时02分 ~ 21时22分]"
+          "time_info": "[19时52分 ~ 23时08分]"
+        },
+        {
+          "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
+          "url": "https://www.zhihu.com/question/2020434705586102279",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时52分 ~ 23时08分]"
+        },
+        {
+          "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/2020523519075710358",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时52分 ~ 23时08分]"
         },
         {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
@@ -249,6 +301,17 @@
           "time_info": "19时53分"
         },
         {
+          "title": "美国总统特朗普：能源价格将会回落，甚至可能更低。",
+          "url": "https://flash.jin10.com/detail/20260326225636172800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "特朗普警告伊朗在和平协议问题上“认真起来”",
           "url": "https://wallstreetcn.com/livenews/3077432",
           "source": "华尔街见闻-快讯",
@@ -271,15 +334,26 @@
           "time_info": "01时17分"
         },
         {
-          "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
-          "url": "https://wallstreetcn.com/articles/3768442",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普：将于周五宣布帮助美国农民的举措。",
+          "url": "https://flash.jin10.com/detail/20260326225604602800",
+          "source": "金十数据",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时10分 ~ 21时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "特朗普：美国将继续打击伊朗，直到达成协议为止",
+          "url": "https://wallstreetcn.com/livenews/3077560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -320,39 +394,16 @@
           "time_info": "[06时39分 ~ 13时09分]"
         },
         {
-          "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32835719",
-          "source": "澎湃新闻",
+          "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
+          "url": "https://www.cls.cn/detail/2325824",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            12
+            13,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时52分 ~ 21时22分]"
-        },
-        {
-          "title": "特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？",
-          "url": "https://www.zhihu.com/question/2020434705586102279",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时52分 ~ 21时22分]"
-        },
-        {
-          "title": "外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/2020523519075710358",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时52分 ~ 21时22分]"
+          "time_info": "[21时21分 ~ 23时08分]"
         },
         {
           "title": "标志性投票！特朗普“后院失火”：民主党赢了“海湖庄园所在地”的佛州选区",
@@ -412,17 +463,6 @@
           "time_info": "[02时59分 ~ 03时55分]"
         },
         {
-          "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
-          "url": "https://www.cls.cn/detail/2325824",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
-        },
-        {
           "title": "布伦特原油期货目前跌2.33%，暂报97.89美元。 据纽约时报，伊朗的袭击迫使美军远程行动部，分驻中东美军已迁至酒店和办公室。 另据Axios报道，特朗普拒绝了内塔尼亚胡号召伊朗发动起义的提议。",
           "url": "https://wallstreetcn.com/livenews/3076867",
           "source": "华尔街见闻-快讯",
@@ -433,6 +473,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时42分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗很快就会结束，不会太久。",
+          "url": "https://flash.jin10.com/detail/20260326225445093800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "特朗普10年来将首次缺席美国保守派政治行动会议",
@@ -457,6 +508,28 @@
           "time_info": "19时53分"
         },
         {
+          "title": "美国总统特朗普：油价和股市下跌并没有那么“严重”。",
+          "url": "https://flash.jin10.com/detail/20260326225402436800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及美股）原以为会跌得更厉害。",
+          "url": "https://flash.jin10.com/detail/20260326225354237800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "特朗普被曝希望“快速”结束对伊朗战争",
           "url": "https://wallstreetcn.com/livenews/3077113",
           "source": "华尔街见闻-快讯",
@@ -468,6 +541,17 @@
           "time_info": "13时09分"
         },
         {
+          "title": "纳指跌超1%，特朗普称：如果达成正确的协议，（霍尔木兹）海峡就会重新开放",
+          "url": "https://wallstreetcn.com/livenews/3077555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "CNBC名嘴：华尔街弥漫“否认特朗普”情绪，该停止了",
           "url": "https://flash.jin10.com/detail/20260326102448580800",
           "source": "金十数据",
@@ -477,6 +561,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "美国总统特朗普：将对马杜罗提出其他指控。",
+          "url": "https://flash.jin10.com/detail/20260326225257553800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普上重申：对北约感到失望。 （美国和以色列发动）伊朗战争是对北约的一次考验。",
+          "url": "https://wallstreetcn.com/livenews/3077553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "美方坚称和谈“仍在进行”，伊朗公开回绝特朗普外交倡议",
@@ -496,9 +602,53 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗战争是对北约的考验，但我对他们太失望了。",
+          "url": "https://flash.jin10.com/detail/20260326225227727800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：我们将在伊朗将继续做我们一直在做的事。",
+          "url": "https://flash.jin10.com/detail/20260326225208505800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：马杜罗将受到公正审判。",
+          "url": "https://flash.jin10.com/detail/20260326225143478800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美股跌幅扩大，布油涨幅扩大，特朗普称“不知道我们是否愿意与伊朗达成协议”",
+          "url": "https://wallstreetcn.com/livenews/3077550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "特朗普10年来将首次缺席美国保守派政治行动会议",
@@ -510,6 +660,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗必须达成协议，否则将面临美国的持续打击。",
+          "url": "https://flash.jin10.com/detail/20260326225134692800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗有机会放弃核野心。在此期间，我们将继续‘彻底摧毁’他们。",
+          "url": "https://flash.jin10.com/detail/20260326225121051800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：如果（国土安全部DHS）停摆问题持续下去，将动用“非常极端的”手段。",
+          "url": "https://wallstreetcn.com/livenews/3077547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：经海路入境的毒品减少了98%。",
+          "url": "https://flash.jin10.com/detail/20260326225054513800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "特朗普：对伊战争“已胜利”，伊朗已准备“达成协议”",
@@ -534,6 +728,28 @@
           "time_info": "02时59分"
         },
         {
+          "title": "美国总统特朗普：伊朗已经没有布雷舰了。",
+          "url": "https://flash.jin10.com/detail/20260326225027151800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗达成正确协议，海峡将重新开放。",
+          "url": "https://flash.jin10.com/detail/20260326224912919800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "特朗普政府发布紧急豁免令，放宽夏季燃料限制以平抑战争高油价",
           "url": "https://wallstreetcn.com/livenews/3076835",
           "source": "华尔街见闻-快讯",
@@ -556,6 +772,17 @@
           "time_info": "01时17分"
         },
         {
+          "title": "美国总统特朗普：伊朗有机会达成协议。让我们看看能否达成正确的协议。",
+          "url": "https://flash.jin10.com/detail/20260326224847685800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "中美双方就特朗普访华事保持着沟通",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BA%8B%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A",
           "source": "百度热搜",
@@ -565,6 +792,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国真的可以‘自由出入’伊朗的城镇。",
+          "url": "https://flash.jin10.com/detail/20260326224833683800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：154艘伊朗船只被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260326224820481800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗正在与我们对话。伊朗之所以同我们谈判，是因为他们已被打败。",
+          "url": "https://flash.jin10.com/detail/20260326224751659800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗战争进展极其迅速，大大超前于计划。伊朗战争的时间表为4到6周。",
+          "url": "https://flash.jin10.com/detail/20260326224747699800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "特朗普：伊朗正乞求达成协议",
+          "url": "https://flash.jin10.com/detail/20260326224734736800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "特朗普高喊“我们是热门政党”，共和党却在后院接连失守",
@@ -589,6 +871,39 @@
           "time_info": "19时53分"
         },
         {
+          "title": "美国总统特朗普对英国航母提出批评，称其为“玩具”（TOYS）。",
+          "url": "https://flash.jin10.com/detail/20260326224723169800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：盟友应在战争之前或期间参与，而非之后。",
+          "url": "https://flash.jin10.com/detail/20260326224653566800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗本会对以色列、地区内其他国家以及美国使用核武器。",
+          "url": "https://flash.jin10.com/detail/20260326224644592800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "美伊谈判延期周末？立场鸿沟难弥合，特朗普时间紧迫丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260326174111908800",
           "source": "金十数据",
@@ -598,6 +913,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时10分"
+        },
+        {
+          "title": "美国总统特朗普：对北约感到失望。",
+          "url": "https://flash.jin10.com/detail/20260326224555263800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         }
       ]
     }
