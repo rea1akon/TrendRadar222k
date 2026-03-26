@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T10:34:36.582182+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-03-26T13:09:34.247247+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -87,8 +87,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时42分 ~ 10时34分]"
+          "appearance_count": 5,
+          "time_info": "[05时42分 ~ 13时09分]"
+        },
+        {
+          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
+          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时34分 ~ 13时09分]"
         },
         {
           "title": "美以伊战争丨特朗普被曝想尽快结束对伊战争",
@@ -97,9 +109,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "白宫：特朗普将于5月中旬访华",
+          "url": "https://news.ifeng.com/c/8rnwMTANtGP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
@@ -124,15 +147,17 @@
           "time_info": "01时17分"
         },
         {
-          "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
-          "url": "https://news.ifeng.com/c/8rnmpUhhTBm",
-          "source": "凤凰网",
+          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            18,
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时34分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时38分 ~ 13时09分]"
         },
         {
           "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
@@ -140,11 +165,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时39分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[06时39分 ~ 13时09分]"
         },
         {
           "title": "伊朗称不允许特朗普决定停战时间、美国15条提议是“罗列幻想”，美众议长称不会在伊进行地面作战",
@@ -156,18 +182,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 01时17分]"
-        },
-        {
-          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 10时34分]"
         },
         {
           "title": "美国佛罗里达州共和党人提出法案，拟将棕榈滩机场更名为特朗普机场。",
@@ -206,13 +220,35 @@
           "time_info": "[03时55分 ~ 04时42分]"
         },
         {
+          "title": "特朗普10年来将首次缺席美国保守派政治行动会议",
+          "url": "https://wallstreetcn.com/livenews/3077116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "特朗普被曝希望“快速”结束对伊朗战争",
+          "url": "https://wallstreetcn.com/livenews/3077113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "CNBC名嘴：华尔街弥漫“否认特朗普”情绪，该停止了",
           "url": "https://flash.jin10.com/detail/20260326102448580800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -228,13 +264,24 @@
           "time_info": "07时38分"
         },
         {
+          "title": "特朗普10年来将首次缺席美国保守派政治行动会议",
+          "url": "https://flash.jin10.com/detail/20260326125200511800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "特朗普：对伊战争“已胜利”，伊朗已准备“达成协议”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32827071",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -278,7 +325,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         }
