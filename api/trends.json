@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T17:58:47.695219+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-03-27T18:58:03.819459+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时39分 ~ 17时58分]"
+          "appearance_count": 14,
+          "time_info": "[04时39分 ~ 18时58分]"
         },
         {
           "title": "特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通",
@@ -60,6 +60,20 @@
           "time_info": "[01时05分 ~ 15时12分]"
         },
         {
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时35分 ~ 18时58分]"
+        },
+        {
           "title": "特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%",
           "url": "https://wallstreetcn.com/articles/3768442",
           "source": "华尔街见闻",
@@ -73,6 +87,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时05分 ~ 15时12分]"
+        },
+        {
+          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
+          "url": "https://www.cls.cn/detail/2326560",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时09分 ~ 18时58分]"
         },
         {
           "title": "中方回应特朗普称5月中旬访华",
@@ -99,20 +127,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时36分 ~ 15时12分]"
-        },
-        {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 17时58分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -163,17 +177,17 @@
           "time_info": "[01时05分 ~ 10时35分]"
         },
         {
-          "title": "大摩数据印证特朗普口中“大礼” ：霍尔木兹海峡流量正明显增加",
-          "url": "https://www.cls.cn/detail/2326560",
-          "source": "财联社热门",
+          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
+          "url": "https://wallstreetcn.com/articles/3768510",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            4,
-            1
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时09分 ~ 17时58分]"
+          "appearance_count": 8,
+          "time_info": "[10时35分 ~ 18时58分]"
         },
         {
           "title": "伊朗消息人士：特朗普“大礼”言论系政治作秀",
@@ -187,6 +201,18 @@
           "time_info": "[10时35分 ~ 13时10分]"
         },
         {
+          "title": "美元纸币将印上特朗普签名",
+          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时09分 ~ 18时58分]"
+        },
+        {
           "title": "美以伊战争丨英首相回击特朗普：我不会任人摆布",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -196,19 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时12分 ~ 16时57分]"
-        },
-        {
-          "title": "特朗普推迟十天打击伊朗能源设施，最后期限延至4月6日，称美伊谈判“非常顺利”",
-          "url": "https://wallstreetcn.com/articles/3768510",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 17时58分]"
         },
         {
           "title": "美以伊战争丨特朗普：再推迟10天打击伊朗发电厂",
@@ -286,7 +299,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -302,16 +315,32 @@
           "time_info": "03时11分"
         },
         {
-          "title": "美元纸币将印上特朗普签名",
-          "url": "https://news.ifeng.com/c/8rpZSKNA39N",
-          "source": "凤凰网",
+          "title": "打破165年传统 美钞将印特朗普签名",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
+          "source": "百度热搜",
           "ranks": [
-            8,
-            9
+            18,
+            13,
+            14,
+            23
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时09分 ~ 17时58分]"
+          "time_info": "[15时12分 ~ 18时58分]"
+        },
+        {
+          "title": "特朗普再次就停战谈判威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时12分 ~ 18时58分]"
         },
         {
           "title": "特朗普称再推迟10天打击伊朗发电厂",
@@ -350,30 +379,16 @@
           "time_info": "[13时09分 ~ 16时57分]"
         },
         {
-          "title": "打破165年传统 美钞将印特朗普签名",
-          "url": "https://www.baidu.com/s?wd=%E6%89%93%E7%A0%B4165%E5%B9%B4%E4%BC%A0%E7%BB%9F+%E7%BE%8E%E9%92%9E%E5%B0%86%E5%8D%B0%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E5%90%8D",
-          "source": "百度热搜",
+          "title": "美钞将印上特朗普签名，打破165年来的传统",
+          "url": "https://www.cls.cn/detail/2326823",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            13,
-            14
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时12分 ~ 17时58分]"
-        },
-        {
-          "title": "特朗普再次就停战谈判威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32837558",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 17时58分]"
+          "time_info": "[17时58分 ~ 18时58分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗“大礼”",
@@ -453,17 +468,6 @@
           "time_info": "07时36分"
         },
         {
-          "title": "美钞将印上特朗普签名，打破165年来的传统",
-          "url": "https://www.cls.cn/detail/2326823",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
           "title": "美国总统特朗普：你不能让一个疯子或疯狂的意识形态拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260327053813277800",
           "source": "金十数据",
@@ -539,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "美国前国务卿布林肯否认支持特朗普打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3078147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         },
         {
           "title": "美国总统特朗普：伊朗请求给多七天时间，我给了他们十天。",
