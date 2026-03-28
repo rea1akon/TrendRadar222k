@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T15:10:57.871442+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-03-28T16:42:54.463988+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -51,11 +51,12 @@
             12,
             10,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时55分 ~ 15时10分]"
+          "appearance_count": 15,
+          "time_info": "[01时55分 ~ 16时42分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -108,6 +109,18 @@
           "time_info": "[05时37分 ~ 15时10分]"
         },
         {
+          "title": "特朗普发出威胁：下一个是古巴",
+          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 16时42分]"
+        },
+        {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -119,15 +132,15 @@
           "time_info": "[05时37分 ~ 06时36分]"
         },
         {
-          "title": "特朗普发出威胁：下一个是古巴",
-          "url": "https://news.ifeng.com/c/8rrDwUJUTQk",
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
           "source": "凤凰网",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时10分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 16时42分]"
         },
         {
           "title": "美国总统特朗普签署备忘录，授意对TSA工作人员拨款。",
@@ -141,6 +154,21 @@
           "time_info": "03时00分"
         },
         {
+          "title": "特朗普称霍尔木兹为特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3078525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            17,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 16时42分]"
+        },
+        {
           "title": "美国总统特朗普：我想我们不必出席北约会议了，不需要再支持北约。",
           "url": "https://flash.jin10.com/detail/20260328064652534800",
           "source": "金十数据",
@@ -152,15 +180,17 @@
           "time_info": "07时36分"
         },
         {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
-          "source": "凤凰网",
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
           "ranks": [
-            6
+            8,
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 16时42分]"
         },
         {
           "title": "美国总统特朗普：共和党应该终止阻挠议事，开始投票！难道他们还没厌倦这些来自激进左派疯子们的胡闹吗？让美国再次伟大！",
@@ -245,20 +275,6 @@
           "time_info": "[06时36分 ~ 10时27分]"
         },
         {
-          "title": "特朗普称霍尔木兹为特朗普海峡",
-          "url": "https://wallstreetcn.com/livenews/3078525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 15时10分]"
-        },
-        {
           "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3078502",
           "source": "华尔街见闻-快讯",
@@ -269,19 +285,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时36分 ~ 10时27分]"
-        },
-        {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时10分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -387,11 +390,12 @@
           "ranks": [
             9,
             13,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 16时42分]"
         },
         {
           "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
@@ -400,11 +404,25 @@
           "ranks": [
             10,
             14,
-            18
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时10分]"
+          "time_info": "[13时59分 ~ 16时42分]"
         },
         {
           "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
@@ -480,16 +498,15 @@
           "time_info": "[06时36分 ~ 07时36分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时59分 ~ 15时10分]"
+          "time_info": "[15时10分 ~ 16时42分]"
         },
         {
           "title": "美国总统特朗普：（谈英国航空母舰） 它们不太好。它们速度慢，而且性能也不太好。",
@@ -610,6 +627,17 @@
           "time_info": "[13时59分 ~ 15时10分]"
         },
         {
+          "title": "特朗普夸中国制造业",
+          "url": "https://www.toutiao.com/trending/7622136360951021622/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "美国众议院议长约翰逊：几分钟前与美国总统特朗普通了话。",
           "url": "https://flash.jin10.com/detail/20260328022158948800",
           "source": "金十数据",
@@ -621,17 +649,6 @@
           "time_info": "03时00分"
         },
         {
-          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
-          "url": "https://wallstreetcn.com/articles/3768631",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
           "title": "德国总理默茨：（谈伊朗问题）特朗普目前的做法是一次后果不堪设想的大规模升级行动。",
           "url": "https://flash.jin10.com/detail/20260328004456633800",
           "source": "金十数据",
@@ -641,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "据纽约时报：美国总统特朗普与印度总理莫迪就伊朗局势通了电话，埃隆·马斯克也加入了通话。",
@@ -696,6 +724,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "特朗普发表最新讲话：将霍尔木兹海峡称为“特朗普海峡”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32847965",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "美国总统特朗普：正寻求国会采取行动，允许E15乙醇汽油全年销售使用。",
