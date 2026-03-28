@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T01:32:34.244158+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-03-29T02:44:21.248026+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时44分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时44分]"
         },
         {
           "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时44分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -57,11 +57,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时44分]"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -71,8 +72,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时44分]"
         },
         {
           "title": "“末日博士”鲁比尼：特朗普更有可能升级伊朗局势而非选择退让",
@@ -82,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时44分]"
         },
         {
           "title": "泽连斯基：我希望特朗普不会忘记乌克兰冲突。",
@@ -93,8 +94,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时38分 ~ 02时44分]"
         }
       ]
     }
