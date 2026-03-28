@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T13:59:40.237274+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-03-28T15:10:57.871442+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -54,8 +54,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时55分 ~ 13时59分]"
+          "appearance_count": 14,
+          "time_info": "[01时55分 ~ 15时10分]"
         },
         {
           "title": "特朗普：乌克兰曾试图干预美大选",
@@ -67,8 +67,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时55分 ~ 10时27分]"
+          "appearance_count": 12,
+          "time_info": "[01时55分 ~ 15时10分]"
         },
         {
           "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
@@ -104,8 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时37分 ~ 13时59分]"
+          "appearance_count": 9,
+          "time_info": "[05时37分 ~ 15时10分]"
         },
         {
           "title": "美以伊战争丨特朗普与莫迪讨论中东局势，马斯克参与",
@@ -126,8 +126,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时10分]"
         },
         {
           "title": "美国总统特朗普签署备忘录，授意对TSA工作人员拨款。",
@@ -152,6 +152,17 @@
           "time_info": "07时36分"
         },
         {
+          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
+          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 15时10分]"
+        },
+        {
           "title": "美国总统特朗普：共和党应该终止阻挠议事，开始投票！难道他们还没厌倦这些来自激进左派疯子们的胡闹吗？让美国再次伟大！",
           "url": "https://flash.jin10.com/detail/20260328032202123800",
           "source": "金十数据",
@@ -161,17 +172,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "特朗普在内阁会议上东拉西扯 时而称赞贝森特的眼镜 时而称要竞选委内瑞拉总统",
-          "url": "https://flash.jin10.com/detail/20260328132848473800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
         },
         {
           "title": "美国总统特朗普：古巴是下一个。",
@@ -245,6 +245,20 @@
           "time_info": "[06时36分 ~ 10时27分]"
         },
         {
+          "title": "特朗普称霍尔木兹为特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3078525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 15时10分]"
+        },
+        {
           "title": "美国总统特朗普再次呼吁伊朗开放霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3078502",
           "source": "华尔街见闻-快讯",
@@ -257,15 +271,17 @@
           "time_info": "[06时36分 ~ 10时27分]"
         },
         {
-          "title": "特朗普吹嘘：中国又下单大豆了，老乡快买拖拉机",
-          "url": "https://news.ifeng.com/c/8rr9Q5dkmnZ",
-          "source": "凤凰网",
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://www.cls.cn/detail/2327781",
+          "source": "财联社热门",
           "ranks": [
-            6
+            8,
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时10分]"
         },
         {
           "title": "美国中东问题特使威特科夫：认为本周将与伊朗举行会谈，特朗普希望达成和平协议。",
@@ -279,19 +295,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时42分 ~ 06时36分]"
-        },
-        {
-          "title": "特朗普称霍尔木兹为特朗普海峡",
-          "url": "https://wallstreetcn.com/livenews/3078525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时59分]"
         },
         {
           "title": "白宫备忘录：美国总统特朗普指示国土安全部部长和美国行政管理和预算局局长补偿美国运输安全管理局员工。",
@@ -342,6 +345,18 @@
           "time_info": "[06时36分 ~ 07时36分]"
         },
         {
+          "title": "特朗普在内阁会议上东拉西扯 时而称赞贝森特的眼镜 时而称要竞选委内瑞拉总统",
+          "url": "https://flash.jin10.com/detail/20260328132848473800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时10分]"
+        },
+        {
           "title": "美国总统特朗普：我们想要低利率，无通胀。",
           "url": "https://flash.jin10.com/detail/20260328060310031800",
           "source": "金十数据",
@@ -364,6 +379,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时36分]"
+        },
+        {
+          "title": "特朗普发出威胁：“下一个是古巴”",
+          "url": "https://wallstreetcn.com/livenews/3078530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时10分]"
+        },
+        {
+          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
+          "url": "https://wallstreetcn.com/livenews/3078529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时10分]"
         },
         {
           "title": "美国总统特朗普：仍然希望与伊朗达成协议。",
@@ -403,18 +444,6 @@
           "time_info": "[10时27分 ~ 13时59分]"
         },
         {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://www.cls.cn/detail/2327781",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时59分]"
-        },
-        {
           "title": "美国总统特朗普谈伊朗：我们还有另外3554个目标要完成，这些目标将很快就会被完成。",
           "url": "https://flash.jin10.com/detail/20260328055758587800",
           "source": "金十数据",
@@ -451,6 +480,18 @@
           "time_info": "[06时36分 ~ 07时36分]"
         },
         {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时10分]"
+        },
+        {
           "title": "美国总统特朗普：（谈英国航空母舰） 它们不太好。它们速度慢，而且性能也不太好。",
           "url": "https://flash.jin10.com/detail/20260328055428270800",
           "source": "金十数据",
@@ -475,18 +516,6 @@
           "time_info": "[03时00分 ~ 03时46分]"
         },
         {
-          "title": "特朗普发出威胁：“下一个是古巴”",
-          "url": "https://wallstreetcn.com/livenews/3078530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时59分]"
-        },
-        {
           "title": "特朗普将霍尔木兹海峡说成特朗普海峡",
           "url": "https://flash.jin10.com/detail/20260328055355915800",
           "source": "金十数据",
@@ -497,18 +526,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时36分]"
-        },
-        {
-          "title": "特朗普又批北约，威胁缩减对北约的“保护”开支",
-          "url": "https://wallstreetcn.com/livenews/3078529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时59分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：伊朗必须开放霍尔木兹海峡。",
@@ -582,6 +599,17 @@
           "time_info": "[10时26分 ~ 10时27分]"
         },
         {
+          "title": "特朗普吹嘘委内瑞拉伊朗军事行动成功，扬言“古巴是下一个”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32847580",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 15时10分]"
+        },
+        {
           "title": "美国众议院议长约翰逊：几分钟前与美国总统特朗普通了话。",
           "url": "https://flash.jin10.com/detail/20260328022158948800",
           "source": "金十数据",
@@ -593,15 +621,15 @@
           "time_info": "03时00分"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
+          "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
+          "url": "https://wallstreetcn.com/articles/3768631",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "15时10分"
         },
         {
           "title": "德国总理默茨：（谈伊朗问题）特朗普目前的做法是一次后果不堪设想的大规模升级行动。",
@@ -679,17 +707,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "特朗普吹嘘委内瑞拉伊朗军事行动成功，扬言“古巴是下一个”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32847580",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
         },
         {
           "title": "特朗普与莫迪通话讨论中东局势 马斯克参与",
