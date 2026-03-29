@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T05:35:59.956261+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-03-30T06:35:03.241661+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时35分]"
         },
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -26,30 +26,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时35分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
           "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时35分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
           "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时38分 ~ 05时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 06时35分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -57,11 +59,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时35分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 06时35分]"
         },
         {
           "title": "美国一民主党参议员敦促特朗普不要向伊朗部署地面部队",
