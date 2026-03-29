@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T15:08:10.403963+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-03-29T16:44:06.898026+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 15时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时38分 ~ 16时44分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -54,6 +54,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时38分 ~ 13时13分]"
+        },
+        {
+          "title": "全美超900万人举行抗议反对特朗普",
+          "url": "https://www.toutiao.com/trending/7621824327100940294/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 16时44分]"
+        },
+        {
+          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
+          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时32分 ~ 16时44分]"
         },
         {
           "title": "特朗普总在周末出手，华尔街已经不敢持仓过周末了",
@@ -103,28 +125,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时38分 ~ 07时35分]"
-        },
-        {
-          "title": "全美超900万人举行抗议反对特朗普",
-          "url": "https://www.toutiao.com/trending/7621824327100940294/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时08分]"
-        },
-        {
-          "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
-          "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时32分 ~ 15时08分]"
         },
         {
           "title": "美媒：美国各地掀起“拒绝君王”集会 反对特朗普",
@@ -182,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "美国各地爆发反对特朗普的抗议活动 一半发生在共和党票仓",
