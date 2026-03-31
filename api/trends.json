@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T21:25:04.408019+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2026-03-31T23:05:38.328894+08:00",
+  "total_titles_processed": 1771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时11分 ~ 21时25分]"
+          "appearance_count": 12,
+          "time_info": "[13时11分 ~ 23时05分]"
         },
         {
           "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时35分 ~ 21时25分]"
+          "appearance_count": 14,
+          "time_info": "[10时35分 ~ 23时05分]"
         },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
@@ -80,8 +80,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[05时44分 ~ 21时25分]"
+          "appearance_count": 17,
+          "time_info": "[05时44分 ~ 23时05分]"
         },
         {
           "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -108,8 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时35分 ~ 21时25分]"
+          "appearance_count": 14,
+          "time_info": "[10时35分 ~ 23时05分]"
         },
         {
           "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
@@ -136,8 +136,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时35分 ~ 21时25分]"
+          "appearance_count": 14,
+          "time_info": "[10时35分 ~ 23时05分]"
         },
         {
           "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
@@ -163,8 +163,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 21时25分]"
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 23时05分]"
         },
         {
           "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
@@ -178,6 +178,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时35分 ~ 17时04分]"
+        },
+        {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://www.cls.cn/detail/2330869",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时05分]"
+        },
+        {
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时05分]"
         },
         {
           "title": "美以伊战争丨特朗普：美国正与伊朗议长卡利巴夫对话",
@@ -202,22 +225,22 @@
           "time_info": "[03时13分 ~ 04时50分]"
         },
         {
+          "title": "特朗普围伊“救”俄",
+          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时55分 ~ 23时05分]"
+        },
+        {
           "title": "特朗普释放停战信号，美股期指涨幅扩大，金银油齐涨，伦铝月内涨近10%",
           "url": "https://wallstreetcn.com/articles/3768819",
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 21时25分]"
-        },
-        {
-          "title": "美国为何爆发反特朗普抗议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -245,17 +268,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时52分 ~ 19时53分]"
-        },
-        {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://www.cls.cn/detail/2330869",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "美以伊战争丨特朗普想让阿拉伯国家为美国打伊朗买单",
@@ -293,15 +305,15 @@
           "time_info": "[07时38分 ~ 15时19分]"
         },
         {
-          "title": "特朗普围伊“救”俄",
-          "url": "https://news.ifeng.com/c/8rwfG2fN0oV",
-          "source": "凤凰网",
+          "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时55分 ~ 21时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "特朗普称暂不放弃施压伊朗开放霍尔木兹海峡",
@@ -310,7 +322,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -321,7 +333,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -395,6 +407,18 @@
           "time_info": "[13时11分 ~ 15时19分]"
         },
         {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/articles/3768886",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时05分]"
+        },
+        {
           "title": "标普500指数涨0.3%，道指涨340点、涨幅0.75%，纳指持平。 美国总统特朗普在接受《纽约邮报》采访时称，伊朗议会议长卡利巴夫是与美国就结束战争事宜进行沟通的伊朗官员之一。当被问及在与华盛顿合作方面能否信任卡利巴夫时，特朗普回答说：“我们会拭目以待的。”",
           "url": "https://wallstreetcn.com/livenews/3079510",
           "source": "华尔街见闻-快讯",
@@ -420,15 +444,15 @@
           "time_info": "[13时11分 ~ 15时19分]"
         },
         {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://wallstreetcn.com/articles/3768886",
-          "source": "华尔街见闻",
+          "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 21时25分]"
+          "appearance_count": 3,
+          "time_info": "[21时24分 ~ 23时05分]"
         },
         {
           "title": "白宫：特朗普有意呼吁阿拉伯国家为战争“买单”",
@@ -500,17 +524,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时44分]"
-        },
-        {
-          "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "美国白宫：特朗普表示，伊朗最好的选择是达成协议。美国军队将始终在国际法的框架内行动。",
@@ -600,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时36分"
+        },
+        {
+          "title": "特朗普前顾问班农：应该让内塔尼亚胡的儿子奔赴前线",
+          "url": "https://v.ifeng.com/c/8rwqUhcgozK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "特朗普证实，美国正与伊朗议会议长卡利巴夫进行对话",
@@ -696,7 +720,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -729,7 +753,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
@@ -795,7 +819,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时25分"
         },
