@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T19:58:56.718156+08:00",
-  "total_titles_processed": 1580,
+  "generated_at": "2026-04-01T21:57:08.041561+08:00",
+  "total_titles_processed": 1727,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 80,
+      "match_count": 92,
       "titles": [
         {
           "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时37分 ~ 19时58分]"
+          "appearance_count": 12,
+          "time_info": "[06时37分 ~ 21时57分]"
         },
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -80,6 +80,46 @@
           "time_info": "[01时01分 ~ 06时37分]"
         },
         {
+          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
+          "url": "https://wallstreetcn.com/articles/3768931",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时47分 ~ 21时57分]"
+        },
+        {
+          "title": "马克龙访日暗讽特朗普",
+          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时01分 ~ 21时57分]"
+        },
+        {
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            27,
+            28,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 21时57分]"
+        },
+        {
           "title": "明早9点！白宫重磅预告：特朗普将就伊朗问题发表全国讲话",
           "url": "https://www.cls.cn/detail/2331621",
           "source": "财联社热门",
@@ -102,30 +142,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时47分 ~ 15时25分]"
-        },
-        {
-          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
-          "url": "https://wallstreetcn.com/articles/3768931",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时47分 ~ 19时58分]"
-        },
-        {
-          "title": "马克龙访日暗讽特朗普",
-          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时01分 ~ 19时58分]"
         },
         {
           "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -164,6 +180,17 @@
           "time_info": "[06时37分 ~ 07时37分]"
         },
         {
+          "title": "美以伊战争丨特朗普：伊朗新政权总统向美国请求停火",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
+        },
+        {
           "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
           "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
           "source": "澎湃新闻",
@@ -175,20 +202,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 07时37分]"
-        },
-        {
-          "title": "美国为何爆发反特朗普抗议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            27,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时37分 ~ 19时58分]"
         },
         {
           "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
@@ -237,6 +250,19 @@
           "time_info": "06时37分"
         },
         {
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时08分 ~ 21时57分]"
+        },
+        {
           "title": "特朗普将签署行政令限制邮寄选票",
           "url": "https://flash.jin10.com/detail/20260401052146266800",
           "source": "金十数据",
@@ -248,6 +274,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "美国总统特朗普抵达美国最高法院，出席出生地公民身份案的口头辩论。",
+          "url": "https://flash.jin10.com/detail/20260401214028794800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "特朗普称将在“两到三周”内结束伊朗战事",
           "url": "https://wallstreetcn.com/livenews/3080402",
           "source": "华尔街见闻-快讯",
@@ -257,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "马克龙“暗批”特朗普：有的国家善变还伤害盟友",
+          "url": "https://wallstreetcn.com/livenews/3080952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "特朗普给伊朗“划红线”",
@@ -409,16 +457,16 @@
           "time_info": "[10时47分 ~ 15时25分]"
         },
         {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            16
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时08分 ~ 19时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时58分 ~ 21时57分]"
         },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
@@ -442,6 +490,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时19分 ~ 06时37分]"
+        },
+        {
+          "title": "特朗普称伊朗请求美国停火",
+          "url": "https://www.toutiao.com/trending/7623249911446224902/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
+        },
+        {
+          "title": "特朗普称伊朗“请求美国停火”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E2%80%9C%E8%AF%B7%E6%B1%82%E7%BE%8E%E5%9B%BD%E5%81%9C%E7%81%AB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
         },
         {
           "title": "美国联邦法官裁定：特朗普政府终止移民身份行为违法",
@@ -480,6 +550,17 @@
           "time_info": "[06时37分 ~ 07时37分]"
         },
         {
+          "title": "特朗普：伊朗已向美国请求停火",
+          "url": "https://www.douyin.com/hot/2451793",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
+        },
+        {
           "title": "美国白宫：特朗普总统将签署新的行政命令打击邮寄投票。",
           "url": "https://flash.jin10.com/detail/20260401044100511800",
           "source": "金十数据",
@@ -490,6 +571,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时41分]"
+        },
+        {
+          "title": "英国首相回应特朗普要退出北约",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E9%80%80%E5%87%BA%E5%8C%97%E7%BA%A6%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
         },
         {
           "title": "特朗普谴责保险公司在加州火灾后拒赔，称政府已介入调查",
@@ -513,6 +605,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普称伊朗新政权总统请求停火",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%96%B0%E6%94%BF%E6%9D%83%E6%80%BB%E7%BB%9F%E8%AF%B7%E6%B1%82%E5%81%9C%E7%81%AB%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
         },
         {
           "title": "白宫称特朗普将就伊朗问题发表讲话",
@@ -557,6 +660,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "特朗普称将很快撤出伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3080957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "特朗普邮寄投票限制令恐引司法大战，中期选举前或难落地",
@@ -713,6 +827,17 @@
           "time_info": "10时47分"
         },
         {
+          "title": "金十数据整理：盟友集体玩失踪 特朗普一个月内八次拿北约撒气",
+          "url": "https://flash.jin10.com/detail/20260401213244119800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "美国总统特朗普：伊朗政权更迭并不是这次行动的目标。",
           "url": "https://flash.jin10.com/detail/20260401055805584800",
           "source": "金十数据",
@@ -722,17 +847,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
-        },
-        {
-          "title": "外媒：特朗普正“认真考虑”让美国退出北约",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
         },
         {
           "title": "美国总统特朗普：美联储主席鲍威尔必须尽快离职。",
@@ -867,6 +981,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "特朗普称伊朗新政权总统请求停火",
+          "url": "https://wallstreetcn.com/livenews/3080930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "美国总统特朗普：我不需要国会批准建设这个舞厅，法官错了。",
           "url": "https://flash.jin10.com/detail/20260401054746054800",
           "source": "金十数据",
@@ -898,6 +1023,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "【油价短线走低，特朗普称霍尔木兹海峡开放后，将考虑停火】布伦特原油5分钟内下跌1.25美元/桶，报100.65美元/桶；WTI原油5分钟内下跌1.11美元/桶，报98.88美元/桶。特朗普称霍尔木兹海峡开放后，将考虑停火。",
+          "url": "https://wallstreetcn.com/livenews/3080925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "美国总统特朗普：认为没有人能够从法律上挑战关于邮寄投票的行政命令。",
