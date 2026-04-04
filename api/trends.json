@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T21:02:13.076707+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-04-04T21:58:38.362280+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -21,8 +21,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时52分 ~ 21时02分]"
+          "appearance_count": 20,
+          "time_info": "[02时52分 ~ 21时58分]"
         },
         {
           "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
@@ -74,17 +74,6 @@
           "time_info": "[00时43分 ~ 07时37分]"
         },
         {
-          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
-          "url": "https://www.cls.cn/detail/2334381",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时52分]"
-        },
-        {
           "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
           "url": "https://wallstreetcn.com/articles/3769222",
           "source": "华尔街见闻",
@@ -94,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 21时02分]"
+          "appearance_count": 8,
+          "time_info": "[16时44分 ~ 21时58分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
@@ -105,11 +94,12 @@
             17,
             16,
             15,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时44分 ~ 21时02分]"
+          "appearance_count": 8,
+          "time_info": "[16时44分 ~ 21时58分]"
         },
         {
           "title": "胡锡进：特朗普想在停战前再捞一笔，遭伊朗沉重打击",
@@ -119,8 +109,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时41分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[17时41分 ~ 21时58分]"
+        },
+        {
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时52分]"
         },
         {
           "title": "美国总统特朗普最新发文称，保留石油，有人一起吗？",
@@ -135,6 +136,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时40分 ~ 07时37分]"
+        },
+        {
+          "title": "美国总统特朗普：昨天不仅就业数据非常好，新增了17.8万个工作岗位，而且贸易逆差下降了55%，创下历史最大降幅。感谢关税先生！与此同时，我们还在消除一个拥有核武的伊朗。",
+          "url": "https://flash.jin10.com/detail/20260404213415488800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
+        },
+        {
+          "title": "特朗普：纽约时报信誉扫地 把北约称为“北美条约组织”",
+          "url": "https://flash.jin10.com/detail/20260404212809199800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时58分"
         },
         {
           "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
@@ -323,11 +346,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 21时58分]"
         },
         {
           "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
@@ -342,6 +366,18 @@
           "time_info": "[13时59分 ~ 15时13分]"
         },
         {
+          "title": "伊朗高官：与其撤换美国将领，不如罢免特朗普",
+          "url": "https://flash.jin10.com/detail/20260404202353358800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时58分]"
+        },
+        {
           "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
           "url": "https://wallstreetcn.com/articles/3769139",
           "source": "华尔街见闻",
@@ -351,6 +387,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 05时37分]"
+        },
+        {
+          "title": "一周展望：战争第六周特朗普的剧本要崩、CPI将爆，金价又要出大戏？",
+          "url": "https://flash.jin10.com/detail/20260404201515638800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时58分]"
         },
         {
           "title": "特朗普非常生气",
@@ -412,17 +460,6 @@
           "time_info": "[00时43分 ~ 01时37分]"
         },
         {
-          "title": "伊朗高官：与其撤换美国将领，不如罢免特朗普",
-          "url": "https://flash.jin10.com/detail/20260404202353358800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "特朗普政府人事大换血",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%BA%BA%E4%BA%8B%E5%A4%A7%E6%8D%A2%E8%A1%80",
           "source": "bilibili 热搜",
@@ -443,17 +480,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        },
-        {
-          "title": "一周展望：战争第六周特朗普的剧本要崩、CPI将爆，金价又要出大戏？",
-          "url": "https://flash.jin10.com/detail/20260404201515638800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "奥地利副总理：不想卷入特朗普发动的战争",
