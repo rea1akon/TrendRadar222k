@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T01:33:57.488783+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-04-05T02:47:11.138560+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美以伊战争丨特朗普发通牒：地狱将降临到伊朗头上",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时47分]"
         },
         {
           "title": "特朗普再警告伊朗：“48小时内”可能采取进一步行动",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时47分]"
         },
         {
           "title": "杰富瑞集团：特朗普在伊朗问题上发出的自相矛盾的信号正在损害美国的全球地位。",
@@ -46,11 +46,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时33分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时47分]"
         },
         {
           "title": "奥地利副总理：不想卷入特朗普发动的战争",
@@ -60,8 +61,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 01时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时39分 ~ 02时47分]"
+        },
+        {
+          "title": "伊朗媒体：特朗普深陷战争泥潭",
+          "url": "https://flash.jin10.com/detail/20260405011320855800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         },
         {
           "title": "特朗普再次向伊朗发出48小时最后通牒",
