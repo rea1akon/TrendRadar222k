@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T05:01:35.334903+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-04-10T05:48:27.408327+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时48分]"
         },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时48分]"
         },
         {
           "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时48分]"
         },
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时48分]"
         },
         {
           "title": "特朗普称美媒披露的 10 项停战条款是假新闻，是为了诋毁事件相关人员，如何解读？双方讨论的框架到底是什么？",
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时48分]"
         },
         {
           "title": "伊朗战争丨特朗普要求内塔尼亚胡减少打击黎巴嫩",
@@ -75,26 +75,15 @@
           "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "美国总统特朗普发表长文，猛烈抨击美国知名主持人塔克·卡尔森、梅根·凯利和坎迪斯·欧文斯对伊朗战争的批评。",
-          "url": "https://flash.jin10.com/detail/20260410043455975800",
+          "title": "美国总统特朗普：《华尔街日报》，世界上最糟糕和最不准确的“社论委员会”之一，声称我“在伊朗宣布了过早的胜利”。实际上，这是一场胜利，根本没有什么“过早”！",
+          "url": "https://flash.jin10.com/detail/20260410052922603800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "唐宁街：英国首相斯塔默与美国总统特朗普通电话，讨论了关于开放霍尔木兹海峡的计划。",
-          "url": "https://wallstreetcn.com/livenews/3085325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "05时48分"
         },
         {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
@@ -104,8 +93,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时48分]"
         },
         {
           "title": "白宫称特朗普考虑“退群”：北约背弃美国人民，没能通过考验",
@@ -115,8 +104,43 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时48分]"
+        },
+        {
+          "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
+          "url": "https://wallstreetcn.com/livenews/3085351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
+          "title": "美国总统特朗普发表长文，猛烈抨击美国知名主持人塔克·卡尔森、梅根·凯利和坎迪斯·欧文斯对伊朗战争的批评。",
+          "url": "https://flash.jin10.com/detail/20260410043455975800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时48分]"
+        },
+        {
+          "title": "唐宁街：英国首相斯塔默与美国总统特朗普通电话，讨论了关于开放霍尔木兹海峡的计划。",
+          "url": "https://wallstreetcn.com/livenews/3085325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 05时48分]"
         },
         {
           "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
@@ -136,9 +160,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费",
+          "url": "https://wallstreetcn.com/livenews/3085348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "英国首相府：英国首相斯塔默今晚在卡塔尔与美国总统特朗普通了电话。",
@@ -147,7 +182,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -180,7 +215,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -194,6 +229,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "特朗普：伊朗最好不要对霍尔木兹海峡收通行费",
+          "url": "https://wallstreetcn.com/livenews/3085341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         },
         {
           "title": "白宫官员称，美国总统特朗普正考虑从欧洲撤出部分美军。",
@@ -218,6 +264,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "周四（4月9日），美股降息赢家指数涨1.10%，报91.25点。 “特朗普关税输家”指数涨1.50%，“特朗普金融指数”涨0.95%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3085334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
+        },
+        {
           "title": "特朗普夫人梅拉尼娅：把我与爱泼斯坦扯上关系的谎言今天就必须停止。",
           "url": "https://flash.jin10.com/detail/20260410023231639800",
           "source": "金十数据",
@@ -227,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "特朗普：伊朗最好别收海峡“过路费”",
+          "url": "https://flash.jin10.com/detail/20260410050940840800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时48分"
         }
       ]
     }
