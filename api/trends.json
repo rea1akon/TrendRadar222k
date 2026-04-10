@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-10T07:39:48.667653+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-04-10T10:44:15.813320+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://wallstreetcn.com/articles/3769556",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 10时44分]"
+        },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
           "url": "https://wallstreetcn.com/articles/3769537",
@@ -26,18 +39,6 @@
           "ranks": [
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时10分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
-          "url": "https://wallstreetcn.com/articles/3769556",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -102,6 +103,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时11分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：若伊朗不达成协议，将极其痛苦",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
+          "url": "https://www.cls.cn/detail/2339900",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
           "title": "美国总统特朗普：《华尔街日报》，世界上最糟糕和最不准确的“社论委员会”之一，声称我“在伊朗宣布了过早的胜利”。实际上，这是一场胜利，根本没有什么“过早”！",
@@ -186,6 +220,28 @@
           "time_info": "[03时10分 ~ 05时01分]"
         },
         {
+          "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
+          "url": "https://www.cls.cn/detail/2339842",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
+          "title": "伊朗提出和谈前提：黎巴嫩实现停火！特朗普：已要求以色列“低调”",
+          "url": "https://www.cls.cn/detail/2339892",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
+        },
+        {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费",
           "url": "https://wallstreetcn.com/livenews/3085348",
           "source": "华尔街见闻-快讯",
@@ -220,6 +276,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
+          "url": "https://www.cls.cn/detail/2339829",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
           "title": "特朗普：伊朗最好不要对霍尔木兹海峡收通行费",
@@ -262,7 +329,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -317,7 +384,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
