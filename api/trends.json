@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T21:17:04.124228+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2026-04-10T22:51:23.689849+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时43分 ~ 21时17分]"
+          "appearance_count": 12,
+          "time_info": "[10时43分 ~ 22时51分]"
         },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -177,6 +177,18 @@
           "time_info": "[17时23分 ~ 17时24分]"
         },
         {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 22时51分]"
+        },
+        {
           "title": "伊朗战争丨美前众议员怼特朗普：发动战争，简直疯了",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -210,6 +222,17 @@
           "time_info": "13时28分"
         },
         {
+          "title": "美国总统特朗普：Palantir Technologies已证明具备出色的作战能力和装备。问问我们的敌人就知道了！！",
+          "url": "https://flash.jin10.com/detail/20260410223332476800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时51分"
+        },
+        {
           "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
           "url": "https://www.cls.cn/detail/2339842",
           "source": "财联社热门",
@@ -233,29 +256,6 @@
           "time_info": "13时28分"
         },
         {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 21时17分]"
-        },
-        {
-          "title": "分析师：美民主党人将利用能源商品价格上涨攻击特朗普",
-          "url": "https://flash.jin10.com/detail/20260410210653904800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
-        },
-        {
           "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
           "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
           "source": "凤凰网",
@@ -264,8 +264,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 21时17分]"
+          "appearance_count": 5,
+          "time_info": "[18时58分 ~ 22时51分]"
+        },
+        {
+          "title": "分析师：美民主党人将利用能源商品价格上涨攻击特朗普",
+          "url": "https://flash.jin10.com/detail/20260410210653904800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "美国总统特朗普发表长文，猛烈抨击美国知名主持人塔克·卡尔森、梅根·凯利和坎迪斯·欧文斯对伊朗战争的批评。",
@@ -328,6 +339,18 @@
           "time_info": "[06时43分 ~ 07时39分]"
         },
         {
+          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 22时51分]"
+        },
+        {
           "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
           "url": "https://news.ifeng.com/c/8sCrezhn1o8",
           "source": "凤凰网",
@@ -337,6 +360,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时28分 ~ 15时46分]"
+        },
+        {
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 22时51分]"
         },
         {
           "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
@@ -360,17 +395,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时43分 ~ 13时28分]"
-        },
-        {
-          "title": "美媒称特朗普要求以色列总理内塔尼亚胡减少对黎巴嫩的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32936449",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 18时58分]"
         },
         {
           "title": "特朗普，对鲤鱼宣战？",
@@ -418,17 +442,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时39分]"
-        },
-        {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 21时17分]"
         },
         {
           "title": "格陵兰岛总理回应特朗普：我们不是一块冰",
