@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T03:37:37.101057+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-04-12T04:37:42.862743+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -59,8 +59,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "一再遭特朗普嘲讽 英首相：我受够了",
@@ -70,8 +70,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
@@ -81,8 +81,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
@@ -90,11 +90,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 03时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时50分 ~ 04时37分]"
         },
         {
           "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
