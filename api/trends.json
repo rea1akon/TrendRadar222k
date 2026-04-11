@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T16:49:53.103295+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-04-11T17:43:23.249528+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时28分 ~ 16时49分]"
+          "appearance_count": 8,
+          "time_info": "[10时28分 ~ 17时43分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时28分 ~ 16时49分]"
+          "appearance_count": 8,
+          "time_info": "[10时28分 ~ 17时43分]"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -76,11 +76,12 @@
             7,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时38分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[07时38分 ~ 17时43分]"
         },
         {
           "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
@@ -89,11 +90,23 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时38分 ~ 17时43分]"
+        },
+        {
+          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
+          "url": "https://www.zhihu.com/question/2026203195517477584",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时38分 ~ 16时49分]"
+          "time_info": "[10时28分 ~ 17时43分]"
         },
         {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
@@ -105,17 +118,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
-          "url": "https://www.zhihu.com/question/2026203195517477584",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时28分 ~ 16时49分]"
         },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
