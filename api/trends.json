@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-14T04:08:24.730789+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-04-14T05:53:51.754539+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
-        {
-          "title": "伊朗战争丨特朗普威胁击沉靠近封锁线的伊朗船只",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时08分]"
-        },
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
           "url": "https://wallstreetcn.com/articles/3769785",
@@ -25,6 +14,17 @@
           "ranks": [
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时53分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普威胁击沉靠近封锁线的伊朗船只",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -42,6 +42,39 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
+          "url": "https://wallstreetcn.com/livenews/3087172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "特朗普：伊朗致电美方说希望达成协议",
+          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "4月13日，欧盟围绕将钢铁进口压缩将近一半达成初步共识。 由于美国总统特朗普实施50%的进口关税、且欧洲进口增长，欧盟辖区内钢铁制造业运作率只有产能的65%。 最新措施有望让产能利用率达到80%。",
+          "url": "https://wallstreetcn.com/livenews/3087171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
           "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
           "url": "https://www.cls.cn/detail/2342732",
           "source": "财联社热门",
@@ -51,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时53分]"
         },
         {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
@@ -63,8 +96,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 04时08分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 05时53分]"
+        },
+        {
+          "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
+          "url": "https://flash.jin10.com/detail/20260414052030287800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
@@ -74,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时53分]"
         },
         {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
@@ -85,8 +129,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时53分]"
         },
         {
           "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
@@ -96,8 +140,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时53分]"
         },
         {
           "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
@@ -107,8 +151,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时53分]"
         },
         {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
@@ -118,8 +162,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时53分]"
         },
         {
           "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
@@ -131,8 +175,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时53分]"
         },
         {
           "title": "中方回应特朗普重申将封锁伊朗港口",
@@ -140,11 +184,12 @@
           "source": "今日头条",
           "ranks": [
             15,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时53分]"
         },
         {
           "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
@@ -154,8 +199,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 04时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时53分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -170,6 +215,18 @@
           "time_info": "[00时15分 ~ 02时05分]"
         },
         {
+          "title": "伊朗强硬回应特朗普封锁威胁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E9%94%81%E5%A8%81%E8%83%81%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时08分 ~ 05时53分]"
+        },
+        {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
           "url": "https://www.cls.cn/detail/2342207",
           "source": "财联社热门",
@@ -181,6 +238,17 @@
           "time_info": "[00时15分 ~ 02时05分]"
         },
         {
+          "title": "舒默列举特朗普五大“史诗级失败”",
+          "url": "https://flash.jin10.com/detail/20260414052009214800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
           "title": "伊朗国防部发言人：美国总统特朗普任何干涉霍尔木兹海峡和阿曼海的军事企图都将失败。",
           "url": "https://flash.jin10.com/detail/20260413234507827800",
           "source": "金十数据",
@@ -190,17 +258,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "伊朗强硬回应特朗普封锁威胁",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E9%94%81%E5%A8%81%E8%83%81%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时08分"
         },
         {
           "title": "连封锁霍尔木兹这招都用上了，特朗普在伊朗问题上已无牌可打？",
@@ -247,6 +304,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "美国白宫：特朗普提名共和党前众议员Michelle Steel出任驻韩国大使。",
+          "url": "https://flash.jin10.com/detail/20260414050141708800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
           "title": "特朗普：前一天有34艘船只通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3087098",
           "source": "华尔街见闻-快讯",
@@ -256,6 +324,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "特朗普抨击纽约时报是假新闻。",
+          "url": "https://flash.jin10.com/detail/20260414045620948800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "特朗普：“其他国家”愿意帮助封锁伊朗港口",
@@ -311,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
+          "url": "https://flash.jin10.com/detail/20260414041925108800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "特朗普：不会接受任何允许伊朗拥有核武器的协议",
