@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T19:06:30.006965+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-04-14T21:46:56.076266+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
@@ -33,6 +33,19 @@
           "time_info": "[05时53分 ~ 15时50分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时45分 ~ 21时46分]"
+        },
+        {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
           "url": "https://wallstreetcn.com/articles/3769785",
           "source": "华尔街见闻",
@@ -43,19 +56,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 07时45分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时45分 ~ 19时06分]"
         },
         {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
@@ -131,6 +131,22 @@
           "time_info": "[00时15分 ~ 04时08分]"
         },
         {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            17,
+            16,
+            7,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 21时46分]"
+        },
+        {
           "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
           "url": "https://www.cls.cn/detail/2342938",
           "source": "财联社热门",
@@ -185,9 +201,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
+        },
+        {
+          "title": "伊朗战争丨希拉里批评特朗普",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         },
         {
           "title": "意大利总理梅洛尼：特朗普关于教皇的言论不可接受。",
@@ -212,19 +239,17 @@
           "time_info": "05时53分"
         },
         {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
           "ranks": [
-            19,
-            17,
-            16,
-            7,
-            15
+            13,
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时45分 ~ 19时06分]"
+          "time_info": "[13时26分 ~ 21时46分]"
         },
         {
           "title": "中方回应特朗普重申将封锁伊朗港口",
@@ -272,19 +297,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 19时06分]"
         },
         {
           "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
@@ -350,6 +362,17 @@
           "time_info": "[00时15分 ~ 05时53分]"
         },
         {
+          "title": "特朗普赐两杯“毒酒”，万斯干了",
+          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 21时46分]"
+        },
+        {
           "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
           "source": "澎湃新闻",
@@ -360,17 +383,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时45分 ~ 13时27分]"
-        },
-        {
-          "title": "特朗普赐两杯“毒酒”，万斯干了",
-          "url": "https://news.ifeng.com/c/8sJrQz1Ewfw",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 19时06分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
