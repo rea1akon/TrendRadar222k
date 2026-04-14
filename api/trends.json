@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-04-14T10:45:25.492142+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2026-04-14T13:27:15.329127+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
+          "url": "https://wallstreetcn.com/articles/3769823",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普：伊朗致电美方说希望达成协议",
+          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时53分 ~ 13时27分]"
+        },
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
           "url": "https://wallstreetcn.com/articles/3769785",
@@ -32,6 +57,18 @@
           "time_info": "[00时15分 ~ 10时45分]"
         },
         {
+          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
+          "url": "https://wallstreetcn.com/articles/3769804",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 13时27分]"
+        },
+        {
           "title": "特朗普呼吁中国购买美国和委内瑞拉石油，中方回应",
           "url": "https://www.cls.cn/detail/2342732",
           "source": "财联社热门",
@@ -44,31 +81,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 10时45分]"
-        },
-        {
-          "title": "一个颠覆性观点：制造能源危机，特朗普蓄谋已久！",
-          "url": "https://wallstreetcn.com/articles/3769823",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 10时45分]"
-        },
-        {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时53分 ~ 10时45分]"
         },
         {
           "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
@@ -94,16 +106,16 @@
           "time_info": "[00时15分 ~ 04时08分]"
         },
         {
-          "title": "特朗普宣布：今晚10点就封锁！霍尔木兹海峡再次完全中断，两艘船紧急掉头",
-          "url": "https://wallstreetcn.com/articles/3769804",
-          "source": "华尔街见闻",
+          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
+          "url": "https://www.cls.cn/detail/2342892",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 10时45分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 13时27分]"
         },
         {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
@@ -117,6 +129,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时05分 ~ 07时45分]"
+        },
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 13时27分]"
         },
         {
           "title": "布林肯阴阳特朗普：他选择退让或是因为厌倦了“胜利”",
@@ -136,7 +160,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -188,18 +212,6 @@
           "time_info": "05时53分"
         },
         {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 10时45分]"
-        },
-        {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
           "url": "https://flash.jin10.com/detail/20260414052030287800",
           "source": "金十数据",
@@ -209,18 +221,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 10时45分]"
         },
         {
           "title": "伊朗强硬回应特朗普封锁威胁",
@@ -259,6 +259,53 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 05时53分]"
+        },
+        {
+          "title": "特朗普发了一张图，让西方大吃一惊",
+          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时27分]"
+        },
+        {
+          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时27分]"
+        },
+        {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 13时27分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -306,6 +353,17 @@
           "time_info": "[07时24分 ~ 07时45分]"
         },
         {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
+        },
+        {
           "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
           "url": "https://flash.jin10.com/detail/20260414064137451800",
           "source": "金十数据",
@@ -342,15 +400,15 @@
           "time_info": "[07时24分 ~ 07时45分]"
         },
         {
-          "title": "特朗普发了一张图，让西方大吃一惊",
-          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
-          "source": "凤凰网",
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "舒默列举特朗普五大“史诗级失败”",
@@ -362,17 +420,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
-        },
-        {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
         },
         {
           "title": "伊朗国防部发言人：美国总统特朗普任何干涉霍尔木兹海峡和阿曼海的军事企图都将失败。",
@@ -452,17 +499,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
           "title": "特朗普抨击纽约时报是假新闻。",
           "url": "https://flash.jin10.com/detail/20260414045620948800",
           "source": "金十数据",
@@ -472,17 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
-        },
-        {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时45分"
         },
         {
           "title": "特朗普：“其他国家”愿意帮助封锁伊朗港口",
@@ -601,7 +626,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
