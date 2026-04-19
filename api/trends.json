@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T16:57:56.974452+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-04-19T17:54:11.394083+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 16时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 17时54分]"
         },
         {
           "title": "前白宫律师爆料：特朗普表现出典型的痴呆症状",
@@ -95,11 +95,26 @@
           "ranks": [
             8,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 16时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 17时54分]"
+        },
+        {
+          "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
+          "url": "https://wallstreetcn.com/articles/3770334",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 17时54分]"
         },
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -111,6 +126,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时44分 ~ 06时38分]"
+        },
+        {
+          "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 17时54分]"
         },
         {
           "title": "特朗普：美伊正对话 “今天结束前会有消息”",
@@ -149,29 +175,16 @@
           "time_info": "[00时44分 ~ 07时38分]"
         },
         {
-          "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
-          "url": "https://wallstreetcn.com/articles/3770334",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 16时57分]"
-        },
-        {
-          "title": "伊朗战争丨哈里斯：特朗普意图“转移焦点”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
+          "url": "https://news.ifeng.com/c/8sR74oZ1935",
           "source": "凤凰网",
           "ranks": [
-            1
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 17时54分]"
         },
         {
           "title": "美媒说特朗普召开会议讨论与伊朗谈判的问题",
@@ -181,22 +194,12 @@
             1,
             6,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 16时57分]"
-        },
-        {
-          "title": "伊朗总统：特朗普没有任何理由剥夺伊朗的核权利",
-          "url": "https://flash.jin10.com/detail/20260419161437232800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "appearance_count": 5,
+          "time_info": "[10时53分 ~ 17时54分]"
         },
         {
           "title": "特朗普集团将在格鲁吉亚首都合建摩天大楼",
@@ -237,16 +240,52 @@
           "time_info": "[02时55分 ~ 05时39分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队宣布封锁海峡：特朗普言论不可信",
-          "url": "https://news.ifeng.com/c/8sR74oZ1935",
+          "title": "特朗普召开白宫战情室会议，美官员：战争可能几天内重新爆发",
+          "url": "https://news.ifeng.com/c/8sRhTpk8W0g",
           "source": "凤凰网",
           "ranks": [
-            8,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时53分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 17时54分]"
+        },
+        {
+          "title": "记者还没问完，就被特朗普打断：你出去",
+          "url": "https://v.ifeng.com/c/8sRkCC6DpKL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 17时54分]"
+        },
+        {
+          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 17时54分]"
+        },
+        {
+          "title": "伊朗总统：特朗普没有任何理由剥夺伊朗的核权利",
+          "url": "https://flash.jin10.com/detail/20260419161437232800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时54分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -271,17 +310,6 @@
           "time_info": "[00时44分 ~ 03时43分]"
         },
         {
-          "title": "特朗普召开白宫战情室会议，美官员：战争可能几天内重新爆发",
-          "url": "https://news.ifeng.com/c/8sRhTpk8W0g",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 16时57分]"
-        },
-        {
           "title": "美媒：特朗普召开白宫战情室会议，商讨霍尔木兹海峡危机及美伊谈判",
           "url": "https://flash.jin10.com/detail/20260419013804388800",
           "source": "金十数据",
@@ -295,30 +323,6 @@
           "time_info": "[02时55分 ~ 04时40分]"
         },
         {
-          "title": "记者还没问完，就被特朗普打断：你出去",
-          "url": "https://v.ifeng.com/c/8sRkCC6DpKL",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 16时57分]"
-        },
-        {
-          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 16时57分]"
-        },
-        {
           "title": "美媒：特朗普公开表现得趾高气扬，但内心却充满恐惧",
           "url": "https://flash.jin10.com/detail/20260419125203447800",
           "source": "金十数据",
@@ -329,6 +333,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时32分 ~ 15时23分]"
+        },
+        {
+          "title": "白俄罗斯总统卢卡申科：一旦“大协议”准备就绪，与美国总统特朗普的会晤是可能的。",
+          "url": "https://flash.jin10.com/detail/20260419152943357800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时54分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：美国总统特朗普没有任何理由剥夺伊朗的核权利。",
+          "url": "https://flash.jin10.com/detail/20260419152838627800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时54分]"
+        },
+        {
+          "title": "哈里斯：美国人不想打伊朗 特朗普意图“转移焦点”",
+          "url": "https://flash.jin10.com/detail/20260419151707226800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时54分]"
         },
         {
           "title": "市场消息：美国总统特朗普与巴基斯坦陆军参谋长穆尼尔讨论了霍尔木兹海峡局势以及与伊朗的协议的细节。",
@@ -364,28 +404,6 @@
           "time_info": "15时23分"
         },
         {
-          "title": "白俄罗斯总统卢卡申科：一旦“大协议”准备就绪，与美国总统特朗普的会晤是可能的。",
-          "url": "https://flash.jin10.com/detail/20260419152943357800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：美国总统特朗普没有任何理由剥夺伊朗的核权利。",
-          "url": "https://flash.jin10.com/detail/20260419152838627800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "也门胡塞武装威胁称，如果特朗普阻挠和平进程，他们将关闭曼德海峡。",
           "url": "https://flash.jin10.com/detail/20260419115241854800",
           "source": "金十数据",
@@ -406,17 +424,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
-        },
-        {
-          "title": "哈里斯：美国人不想打伊朗 特朗普意图“转移焦点”",
-          "url": "https://flash.jin10.com/detail/20260419151707226800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
         },
         {
           "title": "美国总统特朗普：无论人们是否喜欢以色列，他们都证明了自己是美国的伟大盟友。",
