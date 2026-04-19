@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T06:39:29.898607+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-04-20T07:40:15.242309+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "特朗普称若伊不达成停火或发动打击",
@@ -37,11 +37,48 @@
             13,
             11,
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
+        },
+        {
+          "title": "哈里斯：美国人不想打伊朗，特朗普意图“转移焦点”",
+          "url": "https://news.ifeng.com/c/8sS3Yag0vCf",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
+        },
+        {
+          "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
+          "url": "https://wallstreetcn.com/articles/3770356",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
+        },
+        {
+          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "特朗普：若美伊达成协议，“很可能”前往伊斯兰堡",
@@ -53,42 +90,6 @@
             17,
             19,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时39分]"
-        },
-        {
-          "title": "哈里斯：美国人不想打伊朗，特朗普意图“转移焦点”",
-          "url": "https://news.ifeng.com/c/8sS3Yag0vCf",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时39分]"
-        },
-        {
-          "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
-          "url": "https://wallstreetcn.com/articles/3770356",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时39分]"
-        },
-        {
-          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            10
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -134,6 +135,18 @@
           "time_info": "04时41分"
         },
         {
+          "title": "特朗普说若达成协议很可能去伊斯兰堡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%8B%A5%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%BE%88%E5%8F%AF%E8%83%BD%E5%8E%BB%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时41分 ~ 07时40分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
           "url": "https://flash.jin10.com/detail/20260420000334425800",
           "source": "金十数据",
@@ -152,11 +165,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            11
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时39分]"
+          "appearance_count": 3,
+          "time_info": "[05时39分 ~ 07时40分]"
         },
         {
           "title": "美国总统特朗普：伊朗内部温和派与强硬派之间存在持续冲突。",
@@ -192,17 +206,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时44分 ~ 02时55分]"
-        },
-        {
-          "title": "特朗普说若达成协议很可能去伊斯兰堡",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%8B%A5%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%BE%88%E5%8F%AF%E8%83%BD%E5%8E%BB%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时41分 ~ 06时39分]"
         },
         {
           "title": "临时停火周三到期 特朗普称美伊将复谈 伊媒称拒谈",
