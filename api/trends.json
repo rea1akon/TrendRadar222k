@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T05:51:17.785045+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-04-21T06:47:00.602071+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时47分]"
         },
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时47分]"
         },
         {
           "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 05时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 06时47分]"
         },
         {
           "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
@@ -63,39 +63,6 @@
           "time_info": "02时01分"
         },
         {
-          "title": "特朗普将于北京时间21日晚8:30参加CNBC的一档财经节目。",
-          "url": "https://flash.jin10.com/detail/20260421053556015800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
-          "url": "https://flash.jin10.com/detail/20260421052808846800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "伊朗顶级谈判员：我们不会在面临威胁时接受谈判。 美国总统特朗普企图将谈判桌变为“投降桌”。",
-          "url": "https://wallstreetcn.com/livenews/3091343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
           "title": "美国总统特朗普：如果在特朗普的领导下达成协议，将确保和平、安全和保障，不仅惠及以色列和中东，也惠及欧洲、美国及其他所有地区。",
           "url": "https://flash.jin10.com/detail/20260421014051934800",
           "source": "金十数据",
@@ -106,6 +73,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时01分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普将于北京时间21日晚8:30参加CNBC的一档财经节目。",
+          "url": "https://flash.jin10.com/detail/20260421053556015800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时47分]"
         },
         {
           "title": "美国总统特朗普：与伊朗潜在达成的协议将远优于（奥巴马任期内达成的）伊朗核协议（JCPOA）。 如果在我任期内达成伊朗协议，（我）将担保和平。",
@@ -132,6 +111,30 @@
           "time_info": "[04时52分 ~ 05时51分]"
         },
         {
+          "title": "伊朗首席谈判代表：美国总统特朗普正试图将谈判桌变成“投降桌”。",
+          "url": "https://flash.jin10.com/detail/20260421052808846800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时47分]"
+        },
+        {
+          "title": "伊朗顶级谈判员：我们不会在面临威胁时接受谈判。 美国总统特朗普企图将谈判桌变为“投降桌”。",
+          "url": "https://wallstreetcn.com/livenews/3091343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时47分]"
+        },
+        {
           "title": "特朗普：在达成“协议”前不会解除对伊朗的封锁",
           "url": "https://wallstreetcn.com/livenews/3091293",
           "source": "华尔街见闻-快讯",
@@ -156,6 +159,18 @@
           "time_info": "[04时52分 ~ 05时51分]"
         },
         {
+          "title": "万斯将推迟与伊朗的谈判至周二，与特朗普所言相悖",
+          "url": "https://wallstreetcn.com/livenews/3091342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时47分]"
+        },
+        {
           "title": "美国总统特朗普：感谢伊朗迫使船只从美国运输石油。 伊朗领导人迫使数以百计船只驶向美国，来获取石油。",
           "url": "https://wallstreetcn.com/livenews/3091291",
           "source": "华尔街见闻-快讯",
@@ -168,6 +183,29 @@
           "time_info": "[03时21分 ~ 04时52分]"
         },
         {
+          "title": "美国国务院官员：美国总统特朗普致力于寻求外交解决方案（如果可能），但不会让该岛屿（古巴）陷入重大国家安全威胁。",
+          "url": "https://flash.jin10.com/detail/20260421051756276800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 06时47分]"
+        },
+        {
+          "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
+          "url": "https://www.cls.cn/detail/2350029",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 06时47分]"
+        },
+        {
           "title": "特朗普威胁停火到期将开炸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E5%BC%80%E7%82%B8%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -177,28 +215,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时52分]"
-        },
-        {
-          "title": "万斯将推迟与伊朗的谈判至周二，与特朗普所言相悖",
-          "url": "https://wallstreetcn.com/livenews/3091342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
-        },
-        {
-          "title": "美国国务院官员：美国总统特朗普致力于寻求外交解决方案（如果可能），但不会让该岛屿（古巴）陷入重大国家安全威胁。",
-          "url": "https://flash.jin10.com/detail/20260421051756276800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时51分"
         },
         {
           "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
