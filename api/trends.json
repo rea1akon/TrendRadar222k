@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T00:55:15.000499+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-04-29T02:20:18.418829+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
@@ -15,30 +15,76 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时20分]"
         },
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
           "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时20分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
           "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 02时20分]"
+        },
+        {
+          "title": "据美媒Bulwark和福克斯新闻报道，美国国务院正在敲定将特朗普的头像印在美国护照上的计划。",
+          "url": "https://flash.jin10.com/detail/20260429013410217800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "路透社/益普索调查：22%的美国人认可美国总统特朗普对生活成本问题的处理，较此前调查中的25%下降。",
+          "url": "https://flash.jin10.com/detail/20260429010845585800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "路透社/益普索调查：34%的美国人对美国总统特朗普的工作表现表示认可，较4月中旬的36%下降。",
+          "url": "https://flash.jin10.com/detail/20260429010823654800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "路透社/益普索调查：因生活成本担忧和伊朗战争，美国总统特朗普的支持率持续下滑，降至其任期内最低水平。",
+          "url": "https://flash.jin10.com/detail/20260429010805616800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时20分"
         }
       ]
     }
