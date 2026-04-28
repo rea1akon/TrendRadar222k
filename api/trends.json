@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-29T04:19:32.118380+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-29T06:01:44.405452+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "Robinhood预警特朗普账户相关支出，股价盘后下跌",
+          "url": "https://wallstreetcn.com/livenews/3096034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
           "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
@@ -16,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 06时01分]"
         },
         {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
@@ -29,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 06时01分]"
         },
         {
           "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
@@ -50,7 +61,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -72,7 +83,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         },
@@ -97,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
+          "url": "https://wallstreetcn.com/livenews/3096010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "路透社/益普索调查：因生活成本担忧和伊朗战争，美国总统特朗普的支持率持续下滑，降至其任期内最低水平。",
