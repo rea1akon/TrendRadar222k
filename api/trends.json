@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T19:39:59.600565+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-04-29T22:02:59.063578+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
@@ -57,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时10分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[17时10分 ~ 22时02分]"
         },
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -69,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 22时02分]"
         },
         {
           "title": "美国参议院否决限制特朗普对古巴动武的决议",
@@ -110,13 +110,24 @@
           "time_info": "[11时24分 ~ 17时11分]"
         },
         {
+          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
+          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "查尔斯国王给特朗普送了口钟",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -237,6 +248,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "伊朗战争丨特朗普：可能延长对伊封锁，迫使其达成协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美最新民调显示特朗普支持率跌至任内新低",
           "url": "https://wallstreetcn.com/livenews/3096055",
           "source": "华尔街见闻-快讯",
@@ -268,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "特朗普称可能延长对伊朗封锁以迫使其达成协议",
+          "url": "https://wallstreetcn.com/livenews/3096731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
@@ -314,6 +347,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美国情报机构研判伊朗将如何回应特朗普单方面宣布胜利",
           "url": "https://flash.jin10.com/detail/20260429031029178800",
           "source": "金十数据",
@@ -356,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "白宫官员：特朗普与石油公司讨论了在必要时将伊朗封锁措施持续数月的计划。",
+          "url": "https://wallstreetcn.com/livenews/3096715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "特朗普威胁伊朗“放聪明点”",
