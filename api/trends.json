@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-29T17:11:15.451074+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-04-29T19:39:59.600565+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
+          "url": "https://www.cls.cn/detail/2359134",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 19时39分]"
+        },
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
           "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
@@ -37,18 +50,6 @@
           "time_info": "[00时54分 ~ 14时26分]"
         },
         {
-          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
-          "url": "https://www.cls.cn/detail/2359134",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 17时11分]"
-        },
-        {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
           "url": "https://news.ifeng.com/c/8sijEznYe70",
           "source": "凤凰网",
@@ -56,8 +57,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时10分 ~ 19时39分]"
+        },
+        {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
+          "time_info": "[17时11分 ~ 19时39分]"
         },
         {
           "title": "美国参议院否决限制特朗普对古巴动武的决议",
@@ -71,15 +84,18 @@
           "time_info": "07时05分"
         },
         {
-          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
-          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
-          "source": "凤凰网",
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.cls.cn/detail/2358979",
+          "source": "财联社热门",
           "ranks": [
-            2
+            9,
+            12,
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时11分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 19时39分]"
         },
         {
           "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
@@ -94,6 +110,17 @@
           "time_info": "[11时24分 ~ 17时11分]"
         },
         {
+          "title": "查尔斯国王给特朗普送了口钟",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E5%9B%BD%E7%8E%8B%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E4%BA%86%E5%8F%A3%E9%92%9F%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
           "title": "民调：特朗普支持率跌至任内新低",
           "url": "https://www.toutiao.com/trending/7633688125021634602/",
           "source": "今日头条",
@@ -104,19 +131,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 14时26分]"
-        },
-        {
-          "title": "特朗普：美国准备长期封锁伊朗",
-          "url": "https://www.cls.cn/detail/2358979",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 17时11分]"
         },
         {
           "title": "特朗普再次无视英国王室规矩",
@@ -350,7 +364,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
