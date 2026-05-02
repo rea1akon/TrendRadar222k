@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-02T15:48:29.420204+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-05-02T17:10:00.003180+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
+        {
+          "title": "德副总理：不需要特朗普指点，他该先关注自己捅出的篓子",
+          "url": "https://news.ifeng.com/c/8smXkOIlSF7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时40分 ~ 17时09分]"
+        },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
           "url": "https://www.cls.cn/detail/2361654",
@@ -15,11 +26,24 @@
             8,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 10时52分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 17时09分]"
+        },
+        {
+          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
+          "url": "https://wallstreetcn.com/articles/3771465",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时09分]"
         },
         {
           "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
@@ -44,28 +68,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 10时52分]"
-        },
-        {
-          "title": "德副总理：不需要特朗普指点，他该先关注自己捅出的篓子",
-          "url": "https://news.ifeng.com/c/8smXkOIlSF7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时40分 ~ 15时48分]"
-        },
-        {
-          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
-          "url": "https://wallstreetcn.com/articles/3771465",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 15时48分]"
         },
         {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
@@ -148,6 +150,31 @@
           "time_info": "00时02分"
         },
         {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时40分 ~ 17时09分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
+          "url": "https://www.cls.cn/detail/2362040",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 17时09分]"
+        },
+        {
           "title": "郑丽文希望去美国见特朗普，黄国昌回应",
           "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
           "source": "凤凰网",
@@ -214,6 +241,17 @@
           "time_info": "[02时01分 ~ 05时55分]"
         },
         {
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 17时09分]"
+        },
+        {
           "title": "美国总统特朗普：将提高对进入美国的欧盟汽车和卡车的关税。关税将提高至25%。",
           "url": "https://flash.jin10.com/detail/20260501235134014800",
           "source": "金十数据",
@@ -234,17 +272,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
-        },
-        {
-          "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
-          "url": "https://flash.jin10.com/detail/20260502152451401800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
         },
         {
           "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
@@ -280,29 +307,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时01分 ~ 05时55分]"
-        },
-        {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时40分 ~ 15时48分]"
-        },
-        {
-          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
-          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 15时48分]"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
@@ -392,16 +396,16 @@
           "time_info": "[13时40分 ~ 15时48分]"
         },
         {
-          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
-          "url": "https://www.cls.cn/detail/2362040",
-          "source": "财联社热门",
+          "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
+          "url": "https://flash.jin10.com/detail/20260502152451401800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            5
+            4,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时40分 ~ 15时48分]"
+          "time_info": "[15时48分 ~ 17时09分]"
         },
         {
           "title": "特朗普暗示不会就持续对伊朗军事行动寻求国会批准",
@@ -452,6 +456,31 @@
           "time_info": "[04时56分 ~ 08时40分]"
         },
         {
+          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
+          "url": "https://wallstreetcn.com/articles/3771461",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 17时09分]"
+        },
+        {
+          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时40分 ~ 17时09分]"
+        },
+        {
           "title": "美国总统特朗普：将会对那些想要拥有核武器的国家采取措施。",
           "url": "https://wallstreetcn.com/livenews/3098044",
           "source": "华尔街见闻-快讯",
@@ -476,15 +505,16 @@
           "time_info": "[05时55分 ~ 08时40分]"
         },
         {
-          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
-          "url": "https://wallstreetcn.com/articles/3771461",
-          "source": "华尔街见闻",
+          "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
+          "url": "https://wallstreetcn.com/livenews/3098122",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时40分 ~ 15时48分]"
+          "time_info": "[15时48分 ~ 17时09分]"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”，美军最大航母“福特”号离开中东",
@@ -543,18 +573,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 13时40分]"
-        },
-        {
-          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 15时48分]"
         },
         {
           "title": "特朗普称美国“几乎能立即接管”古巴",
@@ -649,6 +667,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "特朗普支持率低迷，共和党冲刺“重划选区”",
+          "url": "https://news.ifeng.com/c/8snecDmwXXq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "特朗普称伊朗拥核“不会发生”",
           "url": "https://flash.jin10.com/detail/20260502011046902800",
           "source": "金十数据",
@@ -660,15 +689,15 @@
           "time_info": "02时01分"
         },
         {
-          "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
-          "url": "https://wallstreetcn.com/livenews/3098122",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "17时09分"
         },
         {
           "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
