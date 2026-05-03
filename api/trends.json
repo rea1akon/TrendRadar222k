@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T19:45:05.892502+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-05-03T21:16:38.327345+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 19时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 21时16分]"
         },
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -48,11 +48,25 @@
           "url": "https://news.ifeng.com/c/8sovlG2f5ZT",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 19时45分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 21时16分]"
+        },
+        {
+          "title": "特朗普：美国有可能重启对伊朗空袭",
+          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时48分 ~ 21时16分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -67,21 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 19时45分]"
-        },
-        {
-          "title": "特朗普：美国有可能重启对伊朗空袭",
-          "url": "https://news.ifeng.com/c/8soZ3usJcy6",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时48分 ~ 19时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 21时16分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -94,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 19时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 21时16分]"
         },
         {
           "title": "特朗普签署新制裁令，称「几乎能立即」接管古巴，当前美古双边谈判情况如何，古巴能顶住美国的经济封锁吗？",
@@ -133,6 +134,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 11时27分]"
+        },
+        {
+          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
+          "url": "https://wallstreetcn.com/articles/3771499",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 21时16分]"
         },
         {
           "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
@@ -174,6 +188,18 @@
           "time_info": "[04时44分 ~ 11时27分]"
         },
         {
+          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
+          "url": "https://www.zhihu.com/question/2034052667509621790",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 21时16分]"
+        },
+        {
           "title": "特朗普政府加速推进向中东出售86亿美元武器",
           "url": "https://flash.jin10.com/detail/20260503011447935800",
           "source": "金十数据",
@@ -189,19 +215,6 @@
           "time_info": "[01时46分 ~ 07时48分]"
         },
         {
-          "title": "伊方最新谈判方案“14点提议，30天期限，聚焦终战”，特朗普称“难以想象该方案能被接受”",
-          "url": "https://wallstreetcn.com/articles/3771499",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 19时45分]"
-        },
-        {
           "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
           "source": "澎湃新闻",
@@ -213,18 +226,6 @@
           "time_info": "[00时52分 ~ 05时43分]"
         },
         {
-          "title": "特朗普炫耀从委内瑞拉获得 2 亿桶石油，已赚回出兵成本的 37 倍，数据可信吗？这一表态背后有何意图？",
-          "url": "https://www.zhihu.com/question/2034052667509621790",
-          "source": "知乎",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 19时45分]"
-        },
-        {
           "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
           "source": "澎湃新闻",
@@ -232,11 +233,34 @@
             16,
             13,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 19时45分]"
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 21时16分]"
+        },
+        {
+          "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
+          "url": "https://news.ifeng.com/c/8spXIq8Nsuz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——美国非农；中国贸易帐、成品油开启调价窗口；特朗普威胁提高欧盟输美汽车关税",
+          "url": "https://flash.jin10.com/detail/20260503205843084800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "白宫发“魔性”视频 特朗普循环1小时说“赢了赢了赢了”",
@@ -277,6 +301,30 @@
           "time_info": "[04时44分 ~ 07时48分]"
         },
         {
+          "title": "伊朗批特朗普厚颜无耻吹嘘行事如海盗",
+          "url": "https://www.toutiao.com/trending/7635573338844433930/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 21时16分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗革命卫队：特朗普的决策空间已经缩小",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时44分 ~ 21时16分]"
+        },
+        {
           "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
           "url": "https://wallstreetcn.com/articles/3771467",
           "source": "华尔街见闻",
@@ -288,16 +336,16 @@
           "time_info": "[00时52分 ~ 01时46分]"
         },
         {
-          "title": "伊朗批特朗普厚颜无耻吹嘘行事如海盗",
-          "url": "https://www.toutiao.com/trending/7635573338844433930/",
-          "source": "今日头条",
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            26
+            11,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时07分 ~ 19时45分]"
+          "time_info": "[19时44分 ~ 21时16分]"
         },
         {
           "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
@@ -324,17 +372,6 @@
           "time_info": "[00时53分 ~ 03时03分]"
         },
         {
-          "title": "伊朗战争丨伊朗革命卫队：特朗普的决策空间已经缩小",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 19时45分]"
-        },
-        {
           "title": "伊朗外交部发言人：特朗普吹嘘行事如“海盗”是对犯罪的直接承认",
           "url": "https://flash.jin10.com/detail/20260503094347765800",
           "source": "金十数据",
@@ -352,17 +389,6 @@
           "source": "今日头条",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时44分 ~ 19时45分]"
-        },
-        {
-          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
-          "url": "https://www.cls.cn/detail/2362213",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -404,6 +430,28 @@
           "time_info": "07时48分"
         },
         {
+          "title": "特朗普政府叫停风电审批 约165个项目受影响",
+          "url": "https://flash.jin10.com/detail/20260503204718955800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "据英国金融时报：特朗普政府以国家安全为由扩大对风电场的打压。",
+          "url": "https://flash.jin10.com/detail/20260503204206573800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "特朗普说有可能重启对伊朗空袭",
           "url": "https://flash.jin10.com/detail/20260503081040091800",
           "source": "金十数据",
@@ -424,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "最新ABC/华盛顿邮报/Ipsos民调：特朗普的不支持率达到62%，创下他两个任期内的最高纪录。",
+          "url": "https://flash.jin10.com/detail/20260503193547923800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "特朗普发赤裸上身和万斯等人泡澡AI照",
