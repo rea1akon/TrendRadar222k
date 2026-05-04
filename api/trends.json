@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T19:51:42.432101+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-05-04T22:06:49.940637+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -96,6 +96,33 @@
           "time_info": "[00时55分 ~ 11时26分]"
         },
         {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 22时06分]"
+        },
+        {
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 22时06分]"
+        },
+        {
           "title": "特朗普谈及美军扣押伊朗油轮，称这是一笔非常赚钱的买卖，我们就像海盗，如何看待此事？",
           "url": "https://www.zhihu.com/question/2033940567420319293",
           "source": "知乎",
@@ -137,30 +164,38 @@
           "time_info": "[00时55分 ~ 07时51分]"
         },
         {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
-          "source": "凤凰网",
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            3
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 19时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 22时06分]"
         },
         {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
+          "title": "特朗普又有新绰号：NACHO",
+          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 22时06分]"
+        },
+        {
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
             4,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 19时51分]"
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 22时06分]"
         },
         {
           "title": "特朗普：美国将从周一开始帮助一些船只离开霍尔木兹海峡",
@@ -188,15 +223,18 @@
           "time_info": "[11时25分 ~ 17时22分]"
         },
         {
-          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
-          "url": "https://www.cls.cn/detail/2362213",
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
           "source": "财联社热门",
           "ranks": [
-            13
+            11,
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时55分 ~ 05时44分]"
+          "time_info": "[11时25分 ~ 22时06分]"
         },
         {
           "title": "美财长保证特朗普访华不会再推迟",
@@ -204,22 +242,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 19时51分]"
-        },
-        {
-          "title": "特朗普又有新绰号：NACHO",
-          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 22时06分]"
         },
         {
           "title": "特朗普谈及伊朗时表示：进展非常顺利。",
@@ -231,17 +259,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
-        },
-        {
-          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
-          "url": "https://wallstreetcn.com/articles/3771543",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时51分"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -267,19 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 19时51分]"
         },
         {
           "title": "美国代理司法部长：如果美联储监察官发现犯罪行为的证据，特朗普将调查美联储",
@@ -557,7 +561,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -604,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "美国总统特朗普发图称，美国的海军、空军以及导弹系统100%正常运作，而伊朗的军事系统完全被摧毁，伊朗的领导人也遭到了打击。",
+          "url": "https://flash.jin10.com/detail/20260504215303923800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时06分"
         },
         {
           "title": "特朗普承诺护航霍尔木兹海峡 亚洲科技股引领股市创纪录上涨",
