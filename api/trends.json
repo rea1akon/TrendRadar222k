@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T16:14:05.904499+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-05-05T18:49:14.330560+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 47,
+      "match_count": 54,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 16时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 18时49分]"
         },
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 16时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 18时49分]"
         },
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -62,11 +62,12 @@
           "ranks": [
             9,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时56分 ~ 16时14分]"
+          "appearance_count": 7,
+          "time_info": "[07时56分 ~ 18时49分]"
         },
         {
           "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
@@ -78,6 +79,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时03分 ~ 07时56分]"
+        },
+        {
+          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
+          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 18时49分]"
         },
         {
           "title": "美财长保证特朗普访华不会再推迟",
@@ -100,6 +113,54 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时50分 ~ 07时56分]"
+        },
+        {
+          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
+          "url": "https://wallstreetcn.com/articles/3771561",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 18时49分]"
+        },
+        {
+          "title": "特朗普关税退款引质疑，“简直令人抓狂”",
+          "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
+        },
+        {
+          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
+          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 18时49分]"
         },
         {
           "title": "伊朗革命卫队政治副司令：特朗普当前面临的挑战是重开霍尔木兹海峡。在整个40天的战争期间及之后，他尝试了所有可能的选项，却未能取得任何成果。特朗普无力将局势倒退回2月28日之前，也无力改变当前局势。",
@@ -125,17 +186,16 @@
           "time_info": "[00时50分 ~ 06时04分]"
         },
         {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
+          "title": "特朗普称从德国撤军规模将远超 5000 人，欧盟称美军从德撤出时机令人意外，呼吁加强北约支柱，如何解读？",
+          "url": "https://www.zhihu.com/question/2034655355435749696",
+          "source": "知乎",
           "ranks": [
-            10,
-            9,
-            8
+            17,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时53分 ~ 16时14分]"
+          "time_info": "[16时13分 ~ 18时49分]"
         },
         {
           "title": "日本怂恿特朗普访华途中访日",
@@ -151,29 +211,6 @@
           "time_info": "[10时53分 ~ 16时14分]"
         },
         {
-          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
-          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 16时14分]"
-        },
-        {
-          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
-          "url": "https://wallstreetcn.com/articles/3771561",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 16时14分]"
-        },
-        {
           "title": "西媒：特朗普反复威胁让欧洲厌倦",
           "url": "https://www.toutiao.com/trending/7635632412416671798/",
           "source": "今日头条",
@@ -183,6 +220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时13分 ~ 16时14分]"
+        },
+        {
+          "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
+          "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         },
         {
           "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
@@ -219,17 +267,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 10时53分]"
-        },
-        {
-          "title": "特朗普称从德国撤军规模将远超 5000 人，欧盟称美军从德撤出时机令人意外，呼吁加强北约支柱，如何解读？",
-          "url": "https://www.zhihu.com/question/2034655355435749696",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时13分 ~ 16时14分]"
         },
         {
           "title": "美国中央司令部司令布拉德·库珀上将：我们将根据特朗普总统的指示应对伊朗的攻击。",
@@ -342,6 +379,28 @@
           "time_info": "06时04分"
         },
         {
+          "title": "突撤驻德美军惹众怒！北约盟友彻底慌了：特朗普真要抛弃欧洲？",
+          "url": "https://flash.jin10.com/detail/20260505183358705800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "美媒：众议院民主党人敦促特朗普打破沉默 就以色列核武库问题表态",
+          "url": "https://flash.jin10.com/detail/20260505183249959800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "美国总统特朗普：我已经在采取其他关税措施了。",
           "url": "https://flash.jin10.com/detail/20260505042903484800",
           "source": "金十数据",
@@ -351,6 +410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-05）",
+          "url": "https://flash.jin10.com/detail/20260505182740150800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "特朗普：提议韩国加入在霍尔木兹海峡的护航行动",
@@ -505,6 +575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美国二十多位众议院民主党人正敦促特朗普政府承认以色列长期以来备受怀疑的核武器计划，此举将打破美国数十年的既定政策，并证实一个自20世纪60年代以来便已众所周知的“公开秘密”。",
+          "url": "https://flash.jin10.com/detail/20260505181228060800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
