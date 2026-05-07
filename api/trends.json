@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T19:51:02.832921+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-05-07T22:22:10.054431+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时56分 ~ 19时51分]"
+          "appearance_count": 8,
+          "time_info": "[11时56分 ~ 22时22分]"
         },
         {
           "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
@@ -38,8 +38,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 19时51分]"
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 22时22分]"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 22时22分]"
         },
         {
           "title": "为什么特朗普“不得不”常买中国货",
@@ -116,19 +130,6 @@
           "time_info": "[11时56分 ~ 14时38分]"
         },
         {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 19时51分]"
-        },
-        {
           "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
           "url": "https://flash.jin10.com/detail/20260507014044956800",
           "source": "金十数据",
@@ -138,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "纽约准备批准一揽子广泛的移民保护措施，以反击特朗普。",
+          "url": "https://flash.jin10.com/detail/20260507215355912800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "特朗普：对伊行动“进展顺利”，强调封锁与谈判并行",
@@ -157,7 +169,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -212,11 +224,12 @@
           "url": "https://wallstreetcn.com/articles/3771704",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 22时22分]"
         },
         {
           "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
@@ -306,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：与美国总统特朗普保持着“几乎每日”的联系，在美方就对伊和平问题展开谈判时，将“不会有任何意外”。",
+          "url": "https://flash.jin10.com/detail/20260507214625285800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "【巴基斯坦消息人士：美伊接近达成停战谅解备忘录】据美国方面消息，一名巴基斯坦消息人士6日表示，美国和伊朗正接近达成一份旨在结束战争的谅解备忘录。同一天，据披露，两名美国官员及另外两名知情人士透露，特朗普政府认为，与伊朗接近达成一份一页的谅解备忘录。该备忘录旨在结束战争，并为更详细的核问题谈判设定框架。（央视）",
