@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:47:40.760779+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-05-10T06:50:43.050543+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 05时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 06时50分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -27,11 +27,12 @@
             23,
             4,
             19,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 06时50分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
@@ -39,11 +40,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时47分]"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时50分]"
         },
         {
           "title": "特朗普：预计“很快”收到伊朗对美方最新和平方案的回应",
