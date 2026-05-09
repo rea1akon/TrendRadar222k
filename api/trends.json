@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T21:23:08.740946+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-05-09T22:54:19.501214+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "time_info": "[01时20分 ~ 08时02分]"
         },
         {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时49分 ~ 22时54分]"
+        },
+        {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
           "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
           "source": "澎湃新闻",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时20分 ~ 14时18分]"
-        },
-        {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 21时23分]"
         },
         {
           "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
@@ -136,6 +136,31 @@
           "time_info": "03时22分"
         },
         {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时07分 ~ 22时54分]"
+        },
+        {
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 22时54分]"
+        },
+        {
           "title": "美国总统特朗普打算罢免食品药品管理局（FDA）官员Makary。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3100860",
           "source": "华尔街见闻-快讯",
@@ -160,18 +185,6 @@
           "time_info": "[05时04分 ~ 06时58分]"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时07分 ~ 21时23分]"
-        },
-        {
           "title": "戴尔股价涨幅扩大至9.1%，特朗普推销该公司产品",
           "url": "https://wallstreetcn.com/livenews/3100857",
           "source": "华尔街见闻-快讯",
@@ -182,17 +195,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 03时22分]"
-        },
-        {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 18时07分]"
         },
         {
           "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
