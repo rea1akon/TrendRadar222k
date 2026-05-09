@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T19:53:54.787089+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-05-09T21:23:08.740946+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时49分 ~ 19时53分]"
+          "appearance_count": 9,
+          "time_info": "[11时49分 ~ 21时23分]"
+        },
+        {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时49分 ~ 21时23分]"
         },
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -90,17 +101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时49分 ~ 11时50分]"
-        },
-        {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时49分 ~ 19时53分]"
         },
         {
           "title": "特朗普再遭司法重拳，全面关税政策走到尽头？丨Hi，今天怎么看？",
@@ -160,6 +160,18 @@
           "time_info": "[05时04分 ~ 06时58分]"
         },
         {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 21时23分]"
+        },
+        {
           "title": "戴尔股价涨幅扩大至9.1%，特朗普推销该公司产品",
           "url": "https://wallstreetcn.com/livenews/3100857",
           "source": "华尔街见闻-快讯",
@@ -216,18 +228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时29分 ~ 18时07分]"
-        },
-        {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 19时53分]"
         },
         {
           "title": "伊朗外交部发言人强烈谴责特朗普近期就美国对伊朗油轮发动袭击所发表的淡化言论。",
@@ -469,7 +469,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
