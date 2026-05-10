@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T14:35:28.224288+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-05-10T16:56:39.317489+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             5,
             6,
             13,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时48分 ~ 14时35分]"
+          "appearance_count": 7,
+          "time_info": "[04时48分 ~ 16时56分]"
         },
         {
           "title": "俄方同意特朗普提出的停火方案",
@@ -49,6 +50,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 06时50分]"
+        },
+        {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时52分 ~ 16时56分]"
         },
         {
           "title": "特朗普：预计“很快”收到伊朗对美方最新和平方案的回应",
@@ -73,18 +86,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时06分]"
-        },
-        {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 14时35分]"
         },
         {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
@@ -151,7 +152,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
         }
