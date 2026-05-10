@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T07:53:10.469398+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-05-10T11:31:50.761339+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时48分 ~ 07时53分]"
+          "appearance_count": 5,
+          "time_info": "[04时48分 ~ 11时31分]"
         },
         {
           "title": "特朗普：预计“很快”收到伊朗对美方最新和平方案的回应",
@@ -84,6 +85,18 @@
           "time_info": "[00时58分 ~ 03时06分]"
         },
         {
+          "title": "特朗普还有一场硬仗",
+          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 11时31分]"
+        },
+        {
           "title": "美国总统特朗普接受法国LCJ频道采访时表示：伊朗确实希望达成协议。",
           "url": "https://flash.jin10.com/detail/20260510011547572800",
           "source": "金十数据",
@@ -94,17 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时06分]"
-        },
-        {
-          "title": "特朗普还有一场硬仗",
-          "url": "https://news.ifeng.com/c/8szUPi5xnTB",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
           "title": "俄罗斯总统普京：我们当即同意了特朗普关于延长停火并交换囚犯的提议。",
