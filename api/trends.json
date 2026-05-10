@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T21:23:33.948212+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-05-10T22:56:10.097003+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
@@ -64,6 +64,28 @@
           "time_info": "[00时58分 ~ 06时50分]"
         },
         {
+          "title": "特朗普：美方一直在监控伊朗埋在废墟下的浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260510222748266800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国总统特朗普：我并没有说针对伊朗的敌对行动已经结束，但我说过他们被击败了。",
+          "url": "https://flash.jin10.com/detail/20260510221423480800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "特朗普：预计“很快”收到伊朗对美方最新和平方案的回应",
           "url": "https://flash.jin10.com/detail/20260510013801926800",
           "source": "金十数据",
@@ -109,6 +131,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时06分]"
+        },
+        {
+          "title": "特朗普级战列舰能建成吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%83%BD%E5%BB%BA%E6%88%90%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时55分 ~ 22时56分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
@@ -157,6 +190,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时54分 ~ 21时23分]"
+        },
+        {
+          "title": "美国总统特朗普：如果有人靠近伊朗掩埋在废墟下的浓缩铀，我们会知道，并且会将其炸毁。",
+          "url": "https://flash.jin10.com/detail/20260510221333169800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在监测伊朗掩埋在废墟下的浓缩铀，美国太空部队将接管相关任务。",
+          "url": "https://flash.jin10.com/detail/20260510221311512800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "据以色列第13频道援引一名以色列官员的话报道称，美国总统特朗普向内塔尼亚胡承诺不会放弃浓缩铀问题。",
