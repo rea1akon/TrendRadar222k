@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T04:49:00.266528+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-05-14T06:15:23.967489+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "特朗普抵达北京",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -48,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -59,8 +59,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "特朗普乘专机抵达中国",
@@ -70,8 +70,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "特朗普抵京",
@@ -81,8 +81,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -92,8 +92,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普抵达北京，如何理解时隔近十年中美又一次元首会晤的特殊性？",
@@ -103,8 +103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普抵达北京",
@@ -115,8 +115,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
@@ -126,8 +126,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "央视现场报道特朗普抵京",
@@ -137,8 +137,45 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 06时15分]"
+        },
+        {
+          "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33172029",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
+        },
+        {
+          "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
+          "url": "https://wallstreetcn.com/articles/3772146",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
+        },
+        {
+          "title": "美国总统特朗普抵达北京开始访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33173644",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "美国副总统万斯：特朗普总统的核心目标是让世界和美国人民免受伊朗拥有核武器的威胁。",
@@ -152,43 +189,6 @@
           "time_info": "02时58分"
         },
         {
-          "title": "商界巨头、政府高官、儿子儿媳：哪些人即将随特朗普同机抵达中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33172029",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
-        },
-        {
-          "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
-          "url": "https://wallstreetcn.com/articles/3772146",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
-        },
-        {
-          "title": "美国总统特朗普抵达北京开始访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33173644",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
-        },
-        {
           "title": "特朗普抵京 韩正前往机场迎接",
           "url": "https://www.toutiao.com/trending/7638727600952577542/",
           "source": "今日头条",
@@ -196,8 +196,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普将抵达北京",
@@ -209,8 +209,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "特朗普团队抵达下榻酒店",
@@ -220,8 +220,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "欢迎特朗普访问中国",
@@ -232,8 +232,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "特朗普访问中国现场画面",
@@ -242,11 +242,12 @@
           "ranks": [
             12,
             18,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "十余位商界代表随特朗普访华",
@@ -254,11 +255,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "外交部：欢迎特朗普访问中国",
@@ -266,11 +268,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "特朗普走出机舱",
@@ -278,11 +281,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "十余位商界代表随特朗普访华",
@@ -290,11 +294,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "美国总统特朗普抵京，韩正前往机场迎接",
@@ -306,8 +311,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "特朗普走出机舱",
@@ -316,11 +321,12 @@
           "ranks": [
             17,
             28,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "特朗普公布访华团高管名单",
@@ -330,8 +336,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "欢迎特朗普访问中国",
@@ -339,11 +345,12 @@
           "source": "微博",
           "ranks": [
             29,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "随特朗普访华的商界代表有谁",
@@ -354,8 +361,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 06时15分]"
         },
         {
           "title": "美国副总统万斯：特朗普总统面临多种外交和军事选择。",
@@ -397,7 +404,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
