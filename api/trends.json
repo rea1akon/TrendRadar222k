@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T16:02:39.318011+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-05-13T18:32:54.349528+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 64,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普访华",
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             1,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 18时32分]"
         },
         {
           "title": "马斯克库克随特朗普访华",
@@ -59,6 +60,17 @@
           "time_info": "[00时20分 ~ 08时02分]"
         },
         {
+          "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
+          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 18时32分]"
+        },
+        {
           "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
           "url": "https://www.cls.cn/detail/2369623",
           "source": "财联社热门",
@@ -82,28 +94,6 @@
           "time_info": "[00时20分 ~ 06时13分]"
         },
         {
-          "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
-          "url": "https://www.zhihu.com/question/2037099280243102645",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 16时02分]"
-        },
-        {
-          "title": "特朗普期待与中方会晤",
-          "url": "https://www.toutiao.com/trending/7638420198126829594/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
           "title": "特朗普访华",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
@@ -111,30 +101,42 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时32分]"
         },
         {
           "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
           "url": "https://www.cls.cn/detail/2369985",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时32分]"
         },
         {
-          "title": "国台办回应特朗普访华或讨论台湾问题",
-          "url": "https://www.toutiao.com/trending/7638441986101559359/",
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.toutiao.com/trending/7638540672749125641/",
           "source": "今日头条",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.douyin.com/hot/2497697",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "伊朗设谈判门槛，特朗普称“不着急”",
@@ -146,6 +148,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "特朗普期待与中方会晤",
+          "url": "https://www.toutiao.com/trending/7638420198126829594/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时32分]"
         },
         {
           "title": "特朗普启程访华",
@@ -160,6 +174,18 @@
           "time_info": "[12时46分 ~ 16时02分]"
         },
         {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普启程赴华",
           "url": "https://www.toutiao.com/trending/7638727600944287268/",
           "source": "今日头条",
@@ -169,6 +195,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
+          "url": "https://www.cls.cn/detail/2370077",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
+          "url": "https://news.ifeng.com/c/8t5xvo1H7JW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "国台办回应特朗普访华或讨论台湾问题",
+          "url": "https://www.toutiao.com/trending/7638441986101559359/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时32分]"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
@@ -218,6 +279,31 @@
           "time_info": "[04时43分 ~ 06时13分]"
         },
         {
+          "title": "16位美国商界领袖随特朗普访华",
+          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普访华随行人员名单",
+          "url": "https://www.douyin.com/hot/2496992",
+          "source": "抖音",
+          "ranks": [
+            11,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 18时32分]"
+        },
+        {
           "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
           "url": "https://wallstreetcn.com/articles/3772030",
           "source": "华尔街见闻",
@@ -230,28 +316,52 @@
           "time_info": "[04时43分 ~ 08时02分]"
         },
         {
-          "title": "16位美国商界领袖随特朗普访华",
-          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "title": "特朗普时隔9年再访华 几点值得关注",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%B6%E9%9A%949%E5%B9%B4%E5%86%8D%E8%AE%BF%E5%8D%8E+%E5%87%A0%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8",
           "source": "百度热搜",
           "ranks": [
             11,
-            24
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时46分 ~ 16时02分]"
+          "time_info": "[16时01分 ~ 18时32分]"
         },
         {
-          "title": "特朗普访华随行人员名单",
-          "url": "https://www.douyin.com/hot/2496992",
-          "source": "抖音",
+          "title": "外交部：中方欢迎特朗普总统访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            17
+            19,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时46分 ~ 16时02分]"
+          "time_info": "[16时01分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普回应访华团高管名单",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普期待与中方会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%9F%E5%BE%85%E4%B8%8E%E4%B8%AD%E6%96%B9%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时32分]"
         },
         {
           "title": "特朗普来了 中美关系能否一锤定音",
@@ -264,6 +374,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时46分 ~ 16时02分]"
+        },
+        {
+          "title": "白宫公布名单：美国16位商业巨头与特朗普一同访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33166126",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时01分 ~ 18时32分]"
         },
         {
           "title": "白宫经济顾问哈塞特：（在美国CPI通胀报告发布当天宣称）这是一场暂时性的能源冲击。 美国总统特朗普相信，很快就能开放霍尔木兹海峡。 我们正尽可能迅速地释放战略石油储备（SPR）。 特朗普认为，我们应该推进汽油税的现代化。（福克斯商业新闻）",
@@ -300,50 +422,6 @@
           "time_info": "[16时01分 ~ 16时02分]"
         },
         {
-          "title": "特朗普时隔9年再访华 几点值得关注",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%B6%E9%9A%949%E5%B9%B4%E5%86%8D%E8%AE%BF%E5%8D%8E+%E5%87%A0%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
-          "url": "https://www.cls.cn/detail/2370077",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "特朗普回应访华团高管名单",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
-          "title": "特朗普期待与中方会晤",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%9F%E5%BE%85%E4%B8%8E%E4%B8%AD%E6%96%B9%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
           "title": "特朗普启程访华：相信会有好事发生，中美有深厚的合作",
           "url": "https://m.thepaper.cn/newsDetail_forward_33170447",
           "source": "澎湃新闻",
@@ -355,37 +433,37 @@
           "time_info": "[16时01分 ~ 16时02分]"
         },
         {
-          "title": "外交部：中方欢迎特朗普总统访华",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
+          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://wallstreetcn.com/articles/3772164",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
-          "title": "白宫公布名单：美国16位商业巨头与特朗普一同访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33166126",
-          "source": "澎湃新闻",
+          "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
+          "url": "https://wallstreetcn.com/articles/3772146",
+          "source": "华尔街见闻",
           "ranks": [
-            19
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
-          "title": "欢迎特朗普访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-13）",
+          "url": "https://flash.jin10.com/detail/20260513180126766800",
+          "source": "金十数据",
           "ranks": [
-            20
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
@@ -394,7 +472,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -463,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "媒体称黄仁勋半路加入特朗普的访华专机中，他为什么能「压哨登机」？",
+          "url": "https://www.zhihu.com/question/2037919154393408436",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "特朗普：美国人民理解股市波动",
