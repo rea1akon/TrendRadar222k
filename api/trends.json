@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T18:18:53.262262+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-05-16T19:54:00.809693+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
@@ -52,6 +52,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时41分 ~ 07时57分]"
+        },
+        {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            15,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时41分 ~ 19时54分]"
         },
         {
           "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
@@ -129,19 +143,6 @@
           "time_info": "[01时41分 ~ 14时24分]"
         },
         {
-          "title": "外交部就特朗普访华情况答记者问",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时41分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普称中方同意购买200架波音飞机，外交部回应",
           "url": "https://news.ifeng.com/c/8t9GTpf4N3w",
           "source": "凤凰网",
@@ -151,6 +152,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时41分 ~ 06时56分]"
+        },
+        {
+          "title": "特朗普在空军一号受访，释放大量信号",
+          "url": "https://news.ifeng.com/c/8tAtho08BXE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时50分 ~ 19时54分]"
         },
         {
           "title": "美国总统特朗普结束访华离京",
@@ -205,6 +217,17 @@
           "time_info": "[01时41分 ~ 05时04分]"
         },
         {
+          "title": "听到特朗普这句话，台湾当局该醒了",
+          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时54分]"
+        },
+        {
           "title": "美国总统特朗普结束访华",
           "url": "https://wallstreetcn.com/articles/3772343",
           "source": "华尔街见闻",
@@ -216,6 +239,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时41分 ~ 14时24分]"
+        },
+        {
+          "title": "特朗普称美伊停火系“应其他国家要求”",
+          "url": "https://wallstreetcn.com/articles/3772383",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 19时54分]"
         },
         {
           "title": "特朗普政府拟设17亿美元“赔偿基金” 补偿遭拜登调查盟友",
@@ -244,17 +280,6 @@
           "time_info": "[01时41分 ~ 07时57分]"
         },
         {
-          "title": "特朗普在空军一号受访，释放大量信号",
-          "url": "https://news.ifeng.com/c/8tAtho08BXE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普与高市早苗通电话，讨论访华细节",
           "url": "https://news.ifeng.com/c/8tALgMrD7Pg",
           "source": "凤凰网",
@@ -279,6 +304,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时41分 ~ 11时32分]"
+        },
+        {
+          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
+          "url": "https://www.zhihu.com/question/2038603109828486376",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时32分 ~ 19时54分]"
         },
         {
           "title": "外交部介绍美国总统特朗普访华情况，称「两国元首达成一系列新共识」，哪些信息值得关注？",
@@ -317,28 +354,15 @@
           "time_info": "[14时24分 ~ 18时18分]"
         },
         {
-          "title": "听到特朗普这句话，台湾当局该醒了",
-          "url": "https://news.ifeng.com/c/8tB1vsSsITh",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-16）",
+          "url": "https://flash.jin10.com/detail/20260516185024363800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "特朗普称美伊停火系“应其他国家要求”",
-          "url": "https://wallstreetcn.com/articles/3772383",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 18时18分]"
+          "time_info": "19时54分"
         },
         {
           "title": "特朗普：热情期待在华盛顿接待习主席",
@@ -353,6 +377,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时41分 ~ 07时57分]"
+        },
+        {
+          "title": "特朗普抵达美国现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时24分 ~ 19时54分]"
         },
         {
           "title": "特朗普结束访华 乘专机离开北京",
@@ -402,16 +438,27 @@
           "time_info": "[06时56分 ~ 07时57分]"
         },
         {
-          "title": "为什么特朗普访华晚宴上有字节梁汝波，但没有腾讯阿里高管？",
-          "url": "https://www.zhihu.com/question/2038603109828486376",
-          "source": "知乎",
+          "title": "特朗普谈中国行：巨大成功 非常精彩",
+          "url": "https://www.toutiao.com/trending/7639309598792663066/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            8
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时32分 ~ 18时18分]"
+          "time_info": "[16时50分 ~ 19时54分]"
+        },
+        {
+          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
+          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时54分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
@@ -427,16 +474,16 @@
           "time_info": "[14时24分 ~ 18时18分]"
         },
         {
-          "title": "特朗普抵达美国现场画面",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=11&Refer=top",
+          "title": "特朗普回国后谈中国行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            11,
-            14
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时24分 ~ 18时18分]"
+          "time_info": "[16时50分 ~ 19时54分]"
         },
         {
           "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
@@ -523,17 +570,6 @@
           "time_info": "[11时32分 ~ 14时24分]"
         },
         {
-          "title": "特朗普谈中国行：巨大成功 非常精彩",
-          "url": "https://www.toutiao.com/trending/7639309598792663066/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 18时18分]"
-        },
-        {
           "title": "特朗普结束访华，大赞中南海景致：若待得惯都不想走",
           "url": "https://m.thepaper.cn/newsDetail_forward_33182927",
           "source": "澎湃新闻",
@@ -580,17 +616,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 06时56分]"
-        },
-        {
-          "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
-          "url": "https://news.ifeng.com/c/8tAvchdzOd1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         },
         {
           "title": "特朗普儿媳妇发布打卡长城照",
@@ -701,17 +726,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
-        },
-        {
-          "title": "特朗普回国后谈中国行",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%9B%BD%E5%90%8E%E8%B0%88%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时50分"
         },
         {
           "title": "美国总统特朗普说极端组织“伊斯兰国”二号头目被“清除”。（新华社）",
