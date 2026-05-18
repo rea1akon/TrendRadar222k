@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T08:03:58.577596+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-05-18T13:07:52.841807+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             15,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时04分 ~ 08时03分]"
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 13时07分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -36,6 +37,17 @@
           "time_info": "[00时04分 ~ 06时59分]"
         },
         {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 13时07分]"
+        },
+        {
           "title": "特朗普访华后续观察",
           "url": "https://www.douyin.com/hot/2502108",
           "source": "抖音",
@@ -49,15 +61,16 @@
           "time_info": "[00时04分 ~ 05时58分]"
         },
         {
-          "title": "特朗普威胁伊朗，又开始倒计时了",
-          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
           "source": "凤凰网",
           "ranks": [
-            1
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 13时07分]"
         },
         {
           "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
@@ -74,15 +87,26 @@
           "time_info": "[04时55分 ~ 08时03分]"
         },
         {
-          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
-          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "13时07分"
         },
         {
           "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
@@ -245,9 +269,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
+          "url": "https://www.zhihu.com/question/2038948707844846917",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时07分"
         },
         {
           "title": "据AXIOS：两名美国官员透露，美国总统特朗普预计将于周二在战情室与他的高级国家安全团队举行会议，讨论（伊朗）军事行动的选项。",
