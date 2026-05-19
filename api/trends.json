@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T19:21:10.731990+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-05-19T23:30:33.612458+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 62,
+      "match_count": 85,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -42,6 +42,19 @@
           "time_info": "[01时31分 ~ 07时05分]"
         },
         {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时43分 ~ 23时30分]"
+        },
+        {
           "title": "特朗普敲打“台独” 日本被美撤梯子",
           "url": "https://www.toutiao.com/trending/7640786941127196678/",
           "source": "今日头条",
@@ -53,19 +66,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时31分 ~ 07时05分]"
-        },
-        {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 19时21分]"
         },
         {
           "title": "特朗普访华整晚都在谈台湾问题",
@@ -157,6 +157,39 @@
           "time_info": "[19时20分 ~ 19时21分]"
         },
         {
+          "title": "美国总统特朗普：无论是通过军事手段还是达成协议，情况很快就会开始好转。",
+          "url": "https://flash.jin10.com/detail/20260519230514214800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "美国总统特朗普：我们还没有撤离伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3106147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗这次学到了教训，霍尔木兹海峡是国际水域，不是他们的私有领土。",
+          "url": "https://flash.jin10.com/detail/20260519230341382800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "特朗普：取消原定于明天的对伊军事打击",
           "url": "https://flash.jin10.com/detail/20260519031017684800",
           "source": "金十数据",
@@ -166,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及伊朗和高油价）都不会再持续太久。",
+          "url": "https://flash.jin10.com/detail/20260519230244917800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
@@ -180,6 +224,17 @@
           "time_info": "[15时49分 ~ 19时21分]"
         },
         {
+          "title": "美国总统特朗普：可能会出台其他举措来压低汽油价格。",
+          "url": "https://flash.jin10.com/detail/20260519230201591800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
           "url": "https://flash.jin10.com/detail/20260519030540752800",
           "source": "金十数据",
@@ -191,6 +246,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "美国总统特朗普：我们目前还不会离开伊朗，要把正确的事情做完。",
+          "url": "https://flash.jin10.com/detail/20260519230146891800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3105539",
           "source": "华尔街见闻-快讯",
@@ -200,6 +266,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
+          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 23时30分]"
+        },
+        {
+          "title": "特朗普称不考虑向伊朗作任何让步，美官员称美同意暂时豁免对伊石油制裁是假消息",
+          "url": "https://wallstreetcn.com/articles/3772567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 23时30分]"
         },
         {
           "title": "外交部回应特朗普涉台表态",
@@ -225,15 +313,15 @@
           "time_info": "[11时43分 ~ 15时49分]"
         },
         {
-          "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
-          "url": "https://news.ifeng.com/c/8tG27n1FK2V",
+          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
+          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
           "source": "凤凰网",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
@@ -246,17 +334,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 15时49分]"
-        },
-        {
-          "title": "特朗普称不考虑向伊朗作任何让步，美官员称美同意暂时豁免对伊石油制裁是假消息",
-          "url": "https://wallstreetcn.com/articles/3772567",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "为何特朗普抛涉台“四不”说法",
@@ -279,6 +356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗仍有一定的报复能力，但不多。",
+          "url": "https://flash.jin10.com/detail/20260519230101989800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "美国总统特朗普：（对伊朗的）袭击原定于明天进行。",
@@ -325,6 +413,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "特朗普称美方可能不得不对伊朗“再予以一击”",
+          "url": "https://wallstreetcn.com/livenews/3106137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "美国总统特朗普将于12月14日至15日在迈阿密召开领导人峰会。",
           "url": "https://flash.jin10.com/detail/20260519044155118800",
           "source": "金十数据",
@@ -347,6 +446,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "美国总统特朗普：将为得州参议院竞选进行背书。",
+          "url": "https://flash.jin10.com/detail/20260519225703881800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "特朗普：取消原定明天对伊朗发动袭击的计划",
           "url": "https://wallstreetcn.com/livenews/3105568",
           "source": "华尔街见闻-快讯",
@@ -356,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "美国总统特朗普：无论对伊朗的军事行动是否获得民众支持，我都不会允许世界在我眼前被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260519225652252800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
@@ -391,6 +512,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "特朗普：伊朗时间有限 美国可能会再次对伊朗采取行动",
+          "url": "https://flash.jin10.com/detail/20260519225638359800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "特朗普强硬表态：拒绝对伊朗做出任何让步 暗示行动将至",
           "url": "https://flash.jin10.com/detail/20260519010540137800",
           "source": "金十数据",
@@ -411,6 +543,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "伊朗议会国家安全与外交政策委员会主席Azizi：特朗普显然不在乎波斯湾国家元首之间的调解，他唯一听得懂的语言是实力。",
+          "url": "https://flash.jin10.com/detail/20260519225631068800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "美国总统特朗普谈与伊朗接近达成协议，宣称：我以前就听过这种说法。 （谈伊朗问题时间表）可能是两三天，也可能到下周初。 正在有限的时间（窗口期）内等待伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3106132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "据纽约邮报：美国总统特朗普称，不会对伊朗做出让步。",
@@ -444,6 +598,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "伊朗议会国家安全与外交政策委员会主席Azizi：特朗普现在的犹豫源于一个现实，他知道对伊朗的任何行动都将面临果断的军事回击和团结一致的民族。",
+          "url": "https://flash.jin10.com/detail/20260519225554539800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "WTI原油期货7月跌2.1%，特朗普暂缓袭击伊朗的计划。",
@@ -523,6 +688,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "美国总统特朗普：很快你们就会知道我们是否需要再来一次重拳出击。",
+          "url": "https://wallstreetcn.com/livenews/3106127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "美国总统特朗普：（关于埃博拉病毒）我感到担忧。",
           "url": "https://flash.jin10.com/detail/20260519054127078800",
           "source": "金十数据",
@@ -554,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "美国总统特朗普：我没有时间向人民解释这场战争，因为我正忙于结束它。",
+          "url": "https://flash.jin10.com/detail/20260519225059552800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "美国总统特朗普谈及推迟对伊朗发动袭击的决定，称：希望也许永远如此。 各国问我们是否可以短暂地推迟对伊朗的袭击。 （谈及暂停对伊朗发动袭击）这是一个积极的进展。",
@@ -600,6 +787,28 @@
           "time_info": "07时05分"
         },
         {
+          "title": "美国总统特朗普：我认为宗教对一个国家非常重要。",
+          "url": "https://flash.jin10.com/detail/20260519224951582800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "美国总统特朗普：我毫不怀疑，如果伊朗获得核武器，他们会使用它。",
+          "url": "https://flash.jin10.com/detail/20260519224724697800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "据福克斯商业：美联储主席提名人沃什将于周五在白宫宣誓就职，宣誓仪式将由特朗普主持。",
           "url": "https://flash.jin10.com/detail/20260519004412480800",
           "source": "金十数据",
@@ -611,6 +820,28 @@
           "time_info": "01时32分"
         },
         {
+          "title": "美国总统特朗普：（关于伊朗战争）每个人都告诉我这不受欢迎，但我认为它非常受欢迎。",
+          "url": "https://flash.jin10.com/detail/20260519224638436800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗人获得核武器，他们将会摧毁以色列。",
+          "url": "https://flash.jin10.com/detail/20260519224526283800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "特朗普称“不考虑向德黑兰作出任何让步”",
           "url": "https://wallstreetcn.com/livenews/3105552",
           "source": "华尔街见闻-快讯",
@@ -620,6 +851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "美国总统特朗普：我同意再给伊朗2到3天的时间，也许到周五或周六，也许到下周初，时间有限。",
+          "url": "https://flash.jin10.com/detail/20260519224449922800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "美国民主党：特朗普不能在IRS和解案中“既当裁判又当运动员”",
@@ -642,6 +884,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "美国总统特朗普展示白宫舞厅的建设情况。",
+          "url": "https://wallstreetcn.com/livenews/3106119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "美国总统特朗普：可获得的折扣药物数量将增加七倍。TrumpRx网站将增加超过600种仿制药。",
@@ -683,7 +936,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
