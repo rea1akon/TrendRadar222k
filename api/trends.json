@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T05:57:26.781361+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-05-21T07:16:49.854760+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 07时16分]"
         },
         {
           "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 07时16分]"
         },
         {
           "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 07时16分]"
         },
         {
           "title": "美国总统特朗普：关于伊朗的唯一问题是，是我们彻底消灭他们，还是他们签署文件。",
@@ -256,7 +256,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
