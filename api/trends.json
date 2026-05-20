@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T13:08:01.230291+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-05-20T17:38:57.162311+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
@@ -95,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "美媒：特朗普或在生日期间出席法国G7峰会",
@@ -339,7 +350,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -353,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "据以色列媒体：特朗普与内塔尼亚胡昨晚通电话，讨论了即将对伊朗做出的决定。",
+          "url": "https://flash.jin10.com/detail/20260520165123555800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
         },
         {
           "title": "为何特朗普抛涉台“四不”说法",
