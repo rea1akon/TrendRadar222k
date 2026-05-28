@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T05:57:05.905572+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-05-29T07:20:46.353140+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时20分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时20分]"
         },
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
@@ -38,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时20分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时20分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -125,7 +125,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -147,7 +147,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         }
