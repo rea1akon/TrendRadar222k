@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T16:01:07.280965+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-05-29T19:38:17.160143+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 16时01分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 19时38分]"
         },
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -58,11 +58,12 @@
           "url": "https://news.ifeng.com/c/8tW3etoYczE",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时59分 ~ 16时01分]"
+          "appearance_count": 4,
+          "time_info": "[15时59分 ~ 19时38分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
