@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T19:38:17.160143+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-05-29T23:39:01.298508+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 14,
+      "match_count": 31,
       "titles": [
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
@@ -54,6 +54,28 @@
           "time_info": "[00时55分 ~ 07时20分]"
         },
         {
+          "title": "特朗普说美伊就核问题和霍尔木兹海峡以外次要事项达成一致",
+          "url": "https://wallstreetcn.com/livenews/3111539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "特朗普说伊朗浓缩铀材料将被挖出销毁",
+          "url": "https://wallstreetcn.com/livenews/3111538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
           "url": "https://news.ifeng.com/c/8tW3etoYczE",
           "source": "凤凰网",
@@ -64,6 +86,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时59分 ~ 19时38分]"
+        },
+        {
+          "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
+          "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时38分 ~ 23时39分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -99,6 +132,50 @@
           "time_info": "00时55分"
         },
         {
+          "title": "特朗普说美伊就核问题和霍尔木兹海峡以外次要事项达成一致",
+          "url": "https://flash.jin10.com/detail/20260529231353506800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "【特朗普就结束伊朗战事提出条件】美国总统特朗普29日说，伊朗必须同意永远不拥有核武器。霍尔木兹海峡必须立即开放，双向通行无阻，不收取任何通行费。所有水雷必须予以清除。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3111533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件",
+          "url": "https://flash.jin10.com/detail/20260529231002596800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "特朗普说即将开会就伊朗战事作出最终决定",
+          "url": "https://wallstreetcn.com/livenews/3111530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "美国财长贝森特：美国财政部正着手筹备一款印有特朗普总统头像的250美元新版纸币。",
           "url": "https://flash.jin10.com/detail/20260529023847021800",
           "source": "金十数据",
@@ -121,6 +198,17 @@
           "time_info": "03时37分"
         },
         {
+          "title": "特朗普说即将开会就伊朗战事作出最终决定",
+          "url": "https://flash.jin10.com/detail/20260529230239683800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "无人机制造商Unusual Machines Inc.（UMAC）维持超过68%的涨幅，持稳于盘中历史新高32美元附近，媒体报道称，美国总统特朗普的政府考虑注资该公司，从而提高美国的产量、降低成本。",
           "url": "https://wallstreetcn.com/livenews/3110888",
           "source": "华尔街见闻-快讯",
@@ -130,6 +218,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
+        },
+        {
+          "title": "特朗普称将就伊朗问题作出“最终决定” 美国记者解读称特朗普暗示批准协议",
+          "url": "https://flash.jin10.com/detail/20260529230219349800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "特朗普对伊朗协议提出要求，称：将做“最终决定”",
+          "url": "https://wallstreetcn.com/livenews/3111525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "据AXIOS网站记者Barak Ravid：特朗普暗示即将批准与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260529230217516800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "美国总统特朗普：在另行通知之前，否则不会进行任何资金交换。",
+          "url": "https://flash.jin10.com/detail/20260529230047258800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "美国总统特朗普：滞留在霍尔木兹海峡的船只可能开始返航。",
+          "url": "https://flash.jin10.com/detail/20260529225954047800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "报道：特朗普政府企图让美国车辆制造在USMCA占比达到50%",
+          "url": "https://wallstreetcn.com/livenews/3111516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         },
         {
           "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
@@ -143,6 +297,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "美国总统特朗普：其他不那么重要的事项已达成一致。",
+          "url": "https://flash.jin10.com/detail/20260529225925212800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "美国财长贝森特：（关于达成协议的报道）团队一直在进行反复沟通，特朗普总统已经明确表示他有几条红线……他不会接受糟糕的交易。",
           "url": "https://flash.jin10.com/detail/20260529022304555800",
           "source": "金十数据",
@@ -154,6 +319,17 @@
           "time_info": "03时37分"
         },
         {
+          "title": "美国总统特朗普：美国将与伊朗及国际原子能机构协调，挖出铀矿并予以销毁。",
+          "url": "https://flash.jin10.com/detail/20260529225734804800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "美国总统特朗普声称：我们掌握所有的牌，伊朗在军事上被击败。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3110932",
           "source": "华尔街见闻-快讯",
@@ -163,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的铀将被美国挖出来。",
+          "url": "https://flash.jin10.com/detail/20260529225720100800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         }
       ]
     }
