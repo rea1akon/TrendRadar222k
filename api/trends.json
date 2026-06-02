@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T02:41:50.779623+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-03T05:50:22.420826+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时50分]"
+        },
+        {
+          "title": "特朗普，开掉“不听话的情报头子”",
+          "url": "https://news.ifeng.com/c/8tdYs26KHgt",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时50分]"
+        },
+        {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时50分]"
         },
         {
           "title": "白宫记协晚宴改期至7月 特朗普称计划出席",
@@ -30,15 +52,15 @@
           "time_info": "02时41分"
         },
         {
-          "title": "特朗普，开掉“不听话的情报头子”",
-          "url": "https://news.ifeng.com/c/8tdYs26KHgt",
-          "source": "凤凰网",
+          "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
+          "url": "https://flash.jin10.com/detail/20260603052655387800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "05时50分"
         },
         {
           "title": "美国总统特朗普将于7月24日出席改期的记者晚宴。",
@@ -52,17 +74,6 @@
           "time_info": "02时41分"
         },
         {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
           "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
@@ -70,8 +81,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时50分]"
+        },
+        {
+          "title": "美国总统特朗普敦促伊朗做出更坚定的核承诺。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3113300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时41分"
+          "time_info": "05时50分"
         },
         {
           "title": "美国总统特朗普：用于支持非法移民或存储非法移民福利的银行账户将被关闭，资金最终将被扣押和没收，以便归还给纳税人。",
@@ -105,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "据美联社：美国代理司法部长托德·布兰奇表示，在遭到广泛的政治反弹和法庭挫败后，特朗普政府将放弃设立18亿美元基金的计划，该基金旨在“补偿”这位共和党总统的盟友。",
+          "url": "https://flash.jin10.com/detail/20260603045046155800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
         },
         {
           "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
