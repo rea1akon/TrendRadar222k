@@ -1,501 +1,132 @@
 {
-  "generated_at": "2026-06-02T22:55:47.841161+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-06-03T02:41:50.779623+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 44,
+      "match_count": 11,
       "titles": [
         {
-          "title": "戏剧性一幕，特朗普被迫打了一个电话",
-          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 18时27分]"
-        },
-        {
-          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
-          "url": "https://www.cls.cn/detail/2387748",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 13时51分]"
-        },
-        {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 02时40分]"
-        },
-        {
-          "title": "特朗普：以黎将立即停火",
-          "url": "https://news.ifeng.com/c/8tc5U5rmZoF",
+          "title": "特朗普：美伊暂停谈判？假新闻！",
+          "url": "https://news.ifeng.com/c/8tdl2ZQctsW",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "02时41分"
         },
         {
-          "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
-          "url": "https://news.ifeng.com/c/8tcSNBrDi2S",
-          "source": "凤凰网",
+          "title": "白宫记协晚宴改期至7月 特朗普称计划出席",
+          "url": "https://flash.jin10.com/detail/20260603023318280800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "02时41分"
         },
         {
           "title": "特朗普，开掉“不听话的情报头子”",
           "url": "https://news.ifeng.com/c/8tdYs26KHgt",
           "source": "凤凰网",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "美国总统特朗普：我认为会在未来一周发生（达成）伊朗协议。 伊朗相关的磋商“看起来不错，看起来很好”。 和平协议可能会比取得军事胜利更好。（ABC）",
-          "url": "https://wallstreetcn.com/livenews/3112661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美国总统特朗普：今天我与内塔尼亚胡进行了交谈，要求他不要对黎巴嫩首都贝鲁特发动大规模突袭。他随即下令部队撤回。谢谢你，内塔尼亚胡！我还与真主党领导人的代表进行了对话，他们同意停止向以色列及其士兵开火。同样，以色列也同意停止向他们开火。让我们拭目以待，看看这种停火能持续多久，但愿它能持续到永远！",
-          "url": "https://flash.jin10.com/detail/20260602054949735800",
-          "source": "金十数据",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普将于7月24日出席改期的记者晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3113229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
           "url": "https://wallstreetcn.com/articles/3773609",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 22时55分]"
-        },
-        {
-          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
-          "url": "https://www.cls.cn/detail/2387782",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "特朗普再发5张照片回味中国：他们的宴会厅又大又漂亮",
-          "url": "https://news.ifeng.com/c/8td32CwSj89",
-          "source": "凤凰网",
-          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "特朗普：协议有望在未来一周内达成 今天只是小插曲",
-          "url": "https://flash.jin10.com/detail/20260602054717157800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美国参议院共和党领袖图恩：（被问及普尔特被特朗普任命为美国国家情报局代理局长）我们不需要一个被武器化的国家情报总监。",
-          "url": "https://flash.jin10.com/detail/20260602222607431800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时39分 ~ 13时51分]"
-        },
-        {
-          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
-          "url": "https://wallstreetcn.com/articles/3773555",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 13时51分]"
-        },
-        {
-          "title": "据ABC新闻：美国总统特朗普称，他认为在“未来一周内”，他将与伊朗达成一项协议，以延长停火期限并重新开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260602054006093800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "特朗普：与伊朗的谈判正“快速推进”",
-          "url": "https://wallstreetcn.com/livenews/3112601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "据CNN：UFC总裁现身美国白宫，白宫南草坪上的格斗场建设仍在继续，为6月14日的赛事做准备。美国总统特朗普曾宣布将在其80岁生日（6月14日）当天举办一场UFC拳击赛事。",
-          "url": "https://flash.jin10.com/detail/20260602075130214800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "02时41分"
         },
         {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
           "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时55分"
-        },
-        {
-          "title": "美国法官叫停特朗普政府关闭气候研究中心的计划。",
-          "url": "https://flash.jin10.com/detail/20260602053325030800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "02时41分"
         },
         {
-          "title": "美国总统特朗普：坦率地说，有关与伊朗谈判的问题开始变得无聊了。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3112599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
-          "url": "https://www.cls.cn/detail/2387700",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "特朗普：以色列和黎真主党的所有交火行动将立即停止",
-          "url": "https://wallstreetcn.com/livenews/3112597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
-          "url": "https://www.cls.cn/detail/2387742",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "美学者破防，“特朗普现在对中国，比对加拿大都亲”",
-          "url": "https://news.ifeng.com/c/8tcn1AFVlOS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "特朗普：与伊朗的谈判正“快速推进”",
-          "url": "https://flash.jin10.com/detail/20260602014426058800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "IBM股价飙升，特朗普赞扬CEO的旧视频在网上重新流传",
-          "url": "https://wallstreetcn.com/livenews/3112603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "美媒称特朗普斥以色列总理疯了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%A5%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E7%96%AF%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "特朗普：不在乎美伊谈判是否终结，油价将“像石头一样下跌”",
-          "url": "https://flash.jin10.com/detail/20260602074011283800",
+          "title": "美国总统特朗普：用于支持非法移民或存储非法移民福利的银行账户将被关闭，资金最终将被扣押和没收，以便归还给纳税人。",
+          "url": "https://flash.jin10.com/detail/20260603022637217800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时15分"
+          "time_info": "02时41分"
         },
         {
-          "title": "美国总统特朗普：（与伊朗）旷日持久的谈判“开始变得非常无聊了”。",
-          "url": "https://flash.jin10.com/detail/20260602013804542800",
+          "title": "美国总统特朗普：我们国家金融系统的使用权限必须仅限于那些拥有合法居留权、从事合法正当商业活动的人。",
+          "url": "https://flash.jin10.com/detail/20260603022625519800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "02时41分"
         },
         {
-          "title": "特朗普：以色列和黎真主党的所有交火行动将立即停止",
-          "url": "https://flash.jin10.com/detail/20260602013511108800",
+          "title": "美国总统特朗普：非法移民和外国诈骗者每年从美国纳税人那里窃取数十亿美元。作为我政府历史性努力的一部分，以结束欺诈和扭转大规模非法移民，我最近签署了一项强有力的新行政命令，由财政部主导，旨在阻止银行、信用卡和金融机构被用于促进人口走私、毒品贩运、非法移民以及策划这些活动的犯罪集团。",
+          "url": "https://flash.jin10.com/detail/20260603022601524800",
           "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "02时41分"
         },
         {
-          "title": "美国总统特朗普：以色列不会攻击他们（真主党），他们也不会攻击以色列。",
-          "url": "https://flash.jin10.com/detail/20260602013138559800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "特朗普：不在乎与伊朗的谈判是否结束",
-          "url": "https://wallstreetcn.com/livenews/3112590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "美国总统特朗普：通过高层代表，我与黎巴嫩真主党进行了非常好的通话，他们同意停止所有射击。",
-          "url": "https://flash.jin10.com/detail/20260602013108643800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "美国总统特朗普：石油价格短期内将“像石头一样”下挫。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3112589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "美国总统特朗普：我与以色列总理内塔尼亚胡进行了非常富有成效的通话，不会有军队前往贝鲁特，任何正在前往的军队已经被召回。",
-          "url": "https://flash.jin10.com/detail/20260602013048880800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "特朗普：是时候查金库了",
-          "url": "https://flash.jin10.com/detail/20260602073308299800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "内塔尼亚胡与特朗普通话，讨论伊朗及黎巴嫩局势",
-          "url": "https://wallstreetcn.com/livenews/3112588",
+          "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
+          "url": "https://wallstreetcn.com/livenews/3113212",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时40分"
+          "time_info": "02时41分"
         },
         {
-          "title": "以色列媒体：真主党告诉特朗普“他们将同意停火”",
-          "url": "https://wallstreetcn.com/livenews/3112585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "两名以色列消息人士称，以色列方面正在等待特朗普对在贝鲁特南部郊区开展任何行动的最终批准。",
-          "url": "https://flash.jin10.com/detail/20260602012545991800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "为保美伊和谈，特朗普爆粗痛骂内塔尼亚胡！",
-          "url": "https://flash.jin10.com/detail/20260602071639017800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
-          "title": "特朗普拟放弃设立“反武器化”基金 曾被质疑是政治同盟金库",
-          "url": "https://flash.jin10.com/detail/20260602043708453800",
+          "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
+          "url": "https://flash.jin10.com/detail/20260603020332024800",
           "source": "金十数据",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-02）",
-          "url": "https://flash.jin10.com/detail/20260602174213706800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        },
-        {
-          "title": "以总理告诉特朗普：以军将继续按计划在黎南部开展行动",
-          "url": "https://wallstreetcn.com/livenews/3112638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "02时41分"
         }
       ]
     }
