@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T17:28:25.275484+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-06-03T22:43:12.482499+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -40,6 +40,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时41分 ~ 07时48分]"
+        },
+        {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
+          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
+          "url": "https://wallstreetcn.com/articles/3773781",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
+          "title": "特朗普任命房屋监管主管兼任情报总监",
+          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
         },
         {
           "title": "白宫记协晚宴改期至7月 特朗普称计划出席",
@@ -82,7 +115,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -93,7 +126,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -120,6 +153,18 @@
           "time_info": "12时19分"
         },
         {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 22时43分]"
+        },
+        {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
           "url": "https://www.cls.cn/detail/2388943",
           "source": "财联社热门",
@@ -144,6 +189,17 @@
           "time_info": "[12时19分 ~ 17时28分]"
         },
         {
+          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 22时43分]"
+        },
+        {
           "title": "特朗普被曝同以总理通话爆粗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33288561",
           "source": "澎湃新闻",
@@ -166,24 +222,13 @@
           "time_info": "05时50分"
         },
         {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
           "title": "“罗生门”再现！伊方曝信息交换“已暂停数日” 特朗普坚称对话持续进行",
           "url": "https://www.cls.cn/detail/2389030",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -241,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "SpaceX上市或让特朗普班底身家再增 披露文件显示多名官员持有股份",
+          "url": "https://wallstreetcn.com/livenews/3113839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
