@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T20:06:54.493871+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-06-06T22:43:32.999065+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 20时06分]"
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 22时43分]"
         },
         {
           "title": "特朗普：将迅速结束伊朗战事",
@@ -85,6 +86,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
+          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "美媒：特朗普称已敦促普尔特对国家情报局进行裁员",
           "url": "https://flash.jin10.com/detail/20260606013829444800",
           "source": "金十数据",
@@ -105,6 +117,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 22时43分]"
         },
         {
           "title": "美国总统特朗普：伊朗保有21%至22%的导弹。",
@@ -203,20 +229,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时58分 ~ 06时16分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 20时06分]"
         },
         {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
@@ -381,6 +393,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "美国总统特朗普：伊朗局势似乎进展顺利。",
           "url": "https://flash.jin10.com/detail/20260606032502925800",
           "source": "金十数据",
@@ -442,9 +465,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时06分"
+        },
+        {
+          "title": "伊朗高官：谈判主动权在特朗普手里",
+          "url": "https://www.toutiao.com/trending/7648086385831804969/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "美国总统特朗普：美联储主席沃什将做一份不错的工作。 我们正在处理前美联储主席鲍威尔。",
