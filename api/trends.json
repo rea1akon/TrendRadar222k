@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T16:59:12.003122+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-06-07T19:14:16.394216+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -45,6 +45,19 @@
           "time_info": "[00时07分 ~ 13时23分]"
         },
         {
+          "title": "伊朗开价240亿美元，这可要了特朗普的命",
+          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时06分 ~ 19时14分]"
+        },
+        {
           "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
           "url": "https://wallstreetcn.com/articles/3773991",
           "source": "华尔街见闻",
@@ -55,6 +68,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时07分 ~ 06时05分]"
+        },
+        {
+          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
+          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 19时14分]"
+        },
+        {
+          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
+          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时23分 ~ 19时14分]"
         },
         {
           "title": "对伊战争百日 特朗普仍未赢得美国民众支持",
@@ -70,29 +106,15 @@
           "time_info": "[04时11分 ~ 08时06分]"
         },
         {
-          "title": "伊朗开价240亿美元，这可要了特朗普的命",
-          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
-          "source": "凤凰网",
+          "title": "特朗普刚起床就发了AI视频",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%B5%B7%E5%BA%8A%E5%B0%B1%E5%8F%91%E4%BA%86AI%E8%A7%86%E9%A2%91&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            7,
-            10,
-            9
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时06分 ~ 16时59分]"
-        },
-        {
-          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
-          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 16时59分]"
+          "time_info": "[16时58分 ~ 19时14分]"
         },
         {
           "title": "美防长在法国模仿特朗普，美军被逗得哈哈大笑",
@@ -107,26 +129,15 @@
           "time_info": "[13时23分 ~ 16时59分]"
         },
         {
-          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
-          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
-          "source": "凤凰网",
+          "title": "马克龙准备用凡尔赛宫晚宴留住特朗普",
+          "url": "https://www.toutiao.com/trending/7647497205582741547/",
+          "source": "今日头条",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 16时59分]"
-        },
-        {
-          "title": "特朗普刚起床就发了AI视频",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%B5%B7%E5%BA%8A%E5%B0%B1%E5%8F%91%E4%BA%86AI%E8%A7%86%E9%A2%91&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "英媒：特朗普无法迫使伊朗让步 转而迁怒海湾盟友",
@@ -149,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-07）",
+          "url": "https://flash.jin10.com/detail/20260607181845041800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
