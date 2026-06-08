@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-06-08T12:12:01.390481+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-06-08T17:24:50.936615+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普：我说了算，以色列总理别无选择",
           "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时07分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[07时07分 ~ 17时24分]"
         },
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
           "url": "https://wallstreetcn.com/articles/3774049",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 17时24分]"
         },
         {
           "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
@@ -86,6 +88,17 @@
           "time_info": "[01时20分 ~ 03时25分]"
         },
         {
+          "title": "特朗普：伊朗最高领袖伤得很重",
+          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "美国总统特朗普：一切进展顺利。",
           "url": "https://flash.jin10.com/detail/20260608043710675800",
           "source": "金十数据",
@@ -95,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "特朗普力压内塔尼亚胡：美伊协议“我说了算”，他必须接受",
@@ -114,9 +138,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "美议员焦虑：“特朗普”级战舰，抗不过中国导弹",
+          "url": "https://news.ifeng.com/c/8tmrYIXSZDx",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "美国总统特朗普：（当被问及如果任何协议失败会发生什么时）会考虑对伊朗进行突袭。",
@@ -150,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "美国总统特朗普：我们与伊朗非常接近达成最终协议，我不希望因为现在发生的事情而让协议破裂。",
@@ -194,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "中东冲突愈演愈烈！不顾特朗普反对 以色列攻击伊朗境内目标",
+          "url": "https://www.cls.cn/detail/2393222",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "据Axios援引美国官员及两名知情人士：以色列在对贝鲁特南郊发动空袭前已通报特朗普政府。",
