@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T20:40:13.695662+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-06-09T23:58:02.993076+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -146,6 +146,18 @@
           "time_info": "13时09分"
         },
         {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时49分 ~ 23时58分]"
+        },
+        {
           "title": "路透社/益普索调查显示，仅有22%的人认可特朗普对生活成本问题的处理，70%的人表示不认可。",
           "url": "https://flash.jin10.com/detail/20260609034919706800",
           "source": "金十数据",
@@ -239,18 +251,6 @@
           "time_info": "[04时22分 ~ 06时28分]"
         },
         {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 20时40分]"
-        },
-        {
           "title": "特朗普提名前私人律师，任司法部长",
           "url": "https://news.ifeng.com/c/8toF8SZ3oLR",
           "source": "凤凰网",
@@ -271,6 +271,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时08分 ~ 13时09分]"
+        },
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
         },
         {
           "title": "特朗普遭全场嘘声",
@@ -499,7 +510,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
