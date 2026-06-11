@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T18:39:39.101629+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-06-11T22:39:39.795662+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
@@ -45,6 +45,17 @@
           "time_info": "13时51分"
         },
         {
+          "title": "加拿大美加贸易事务部长勒布朗：对美国总统特朗普不会在7月1日续签美墨加协定（USMCA）并不感到意外。",
+          "url": "https://flash.jin10.com/detail/20260611221354944800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美国总统特朗普：美方控制霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3117654",
           "source": "华尔街见闻-快讯",
@@ -76,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3774439",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "美国5月CPI爆了，特朗普语出惊人：我爱通胀！",
@@ -111,6 +133,17 @@
           "time_info": "04时43分"
         },
         {
+          "title": "交火暂歇，特朗普威胁发动新袭击，美股高开，油价走低，黄金重回4080美元",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "据AXIOS：特朗普当地时间今天下午召开了战情室会议，讨论对伊朗可能的新打击。",
           "url": "https://flash.jin10.com/detail/20260611041311892800",
           "source": "金十数据",
@@ -120,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "伊朗回应特朗普威胁：将更强烈反击美方",
+          "url": "https://flash.jin10.com/detail/20260611220945573800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
@@ -158,6 +202,17 @@
           "time_info": "[06时52分 ~ 06时53分]"
         },
         {
+          "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2397555",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：特朗普居然真的说出了“我爱通胀”，而且是在镜头前，让全美国都听到了。他对你们的轻蔑没有底线。",
           "url": "https://flash.jin10.com/detail/20260611013844173800",
           "source": "金十数据",
@@ -191,6 +246,17 @@
           "time_info": "08时18分"
         },
         {
+          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
+          "url": "https://wallstreetcn.com/articles/3774371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "据两名美国消息人士透露，总统特朗普就对伊朗打击计划召开战情室会议。 万斯、卢比奥、Ratcliff、凯恩、威特科夫出席了会议。 战争部长海格塞思从美军中央司令部总部参加会议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3117688",
           "source": "华尔街见闻-快讯",
@@ -200,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "特朗普称自己“被当成傻瓜戏耍”，美伊谈判幕后发生了什么？",
+          "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "美媒：特朗普向伊朗提出两项额外要求导致协议推迟达成",
@@ -301,6 +378,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "伊朗革命卫队否认伊朗官员曾主动接触特朗普",
+          "url": "https://wallstreetcn.com/livenews/3118234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美防长重申特朗普警告：若伊朗不达成协议，美军将予以重击",
           "url": "https://flash.jin10.com/detail/20260611034411599800",
           "source": "金十数据",
@@ -332,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "特朗普说今晚将重创伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%8A%E6%99%9A%E5%B0%86%E9%87%8D%E5%88%9B%E4%BC%8A%E6%9C%97%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "美国总统特朗普：我认为，伊朗希望达成协议。",
