@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T08:18:37.581050+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-06-11T13:51:47.775351+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -25,11 +25,23 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 08时18分]"
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 13时51分]"
+        },
+        {
+          "title": "特朗普公开了一个秘密，全世界都有点懵",
+          "url": "https://news.ifeng.com/c/8tos3hBXZVW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "美国总统特朗普：美方控制霍尔木兹海峡。",
@@ -43,15 +55,48 @@
           "time_info": "01时59分"
         },
         {
+          "title": "美媒：如今特朗普最头痛的是这件事",
+          "url": "https://news.ifeng.com/c/8trayef73Wv",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "“我喜欢通胀”！特朗普语出惊人：我们每晚从伊朗运出数百万桶石油",
           "url": "https://flash.jin10.com/detail/20260611081005478800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "美国5月CPI爆了，特朗普语出惊人：我爱通胀！",
+          "url": "https://www.cls.cn/detail/2396641",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "特朗普透露生日愿望",
+          "url": "https://news.ifeng.com/c/8trjoJ9cLMY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "消息人士：特朗普战情室密谋“猛击”伊朗 施压其改变立场",
@@ -140,7 +185,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
         },
@@ -195,7 +240,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
         },
@@ -222,13 +267,24 @@
           "time_info": "04时43分"
         },
         {
+          "title": "特朗普说生日愿望是世界和平",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%94%9F%E6%97%A5%E6%84%BF%E6%9C%9B%E6%98%AF%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "特朗普：美军战斗机正在伊朗领空执行任务。 已直接与伊朗官员进行过对话，伊朗请求我停止轰炸，轰炸很快就会停止。 对进一步对伊空袭持开放态度。 以色列并未参与此次对伊朗的空袭。",
           "url": "https://wallstreetcn.com/livenews/3117762",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
         },
