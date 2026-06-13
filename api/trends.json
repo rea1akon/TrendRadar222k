@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T18:32:32.234318+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-06-13T20:27:50.479797+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -63,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 20时27分]"
         },
         {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
@@ -123,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "特朗普姓名被从肯尼迪中心外墙移除",
+          "url": "https://news.ifeng.com/c/8tvV5h0ssCW",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
