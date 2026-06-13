@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T15:53:09.673541+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-06-13T18:32:32.234318+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -59,11 +59,24 @@
           "url": "https://www.cls.cn/detail/2398839",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
+          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时57分 ~ 15时53分]"
+          "time_info": "[15时52分 ~ 18时32分]"
         },
         {
           "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
@@ -76,17 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 15时53分]"
-        },
-        {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
-          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
@@ -162,7 +164,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
