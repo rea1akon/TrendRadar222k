@@ -1,193 +1,66 @@
 {
-  "generated_at": "2026-06-17T23:36:34.540276+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-06-18T02:22:05.037710+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 35,
+      "match_count": 27,
       "titles": [
         {
-          "title": "特朗普：感谢中俄帮忙",
-          "url": "https://news.ifeng.com/c/8tzsMW2n662",
-          "source": "凤凰网",
+          "title": "摩根资产管理Michele：经济形势不适合降息，沃什注定让特朗普失望",
+          "url": "https://wallstreetcn.com/livenews/3121178",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 06时14分]"
-        },
-        {
-          "title": "特朗普：关我们啥事？就是卖卖武器",
-          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
-          "source": "凤凰网",
-          "ranks": [
-            4,
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 19时50分]"
-        },
-        {
-          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时39分 ~ 08时19分]"
-        },
-        {
-          "title": "特朗普和马克龙为何为一瓶红酒较劲",
-          "url": "https://www.toutiao.com/trending/7651982793936735807/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 06时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         },
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
           "url": "https://wallstreetcn.com/articles/3774815",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 23时36分]"
-        },
-        {
-          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
-          "url": "https://flash.jin10.com/detail/20260617051721170800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
-        },
-        {
-          "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
-          "url": "https://wallstreetcn.com/livenews/3120506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时14分"
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 02时22分]"
         },
         {
           "title": "“马克龙想借中国，来跟特朗普讨价还价”",
           "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
           "source": "凤凰网",
           "ranks": [
-            4,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时50分 ~ 23时36分]"
-        },
-        {
-          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
-          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时39分 ~ 08时19分]"
-        },
-        {
-          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
-          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时18分 ~ 14时18分]"
+          "time_info": "[02时21分 ~ 02时22分]"
         },
         {
           "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
           "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
           "source": "凤凰网",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时50分 ~ 23时36分]"
+          "time_info": "[02时21分 ~ 02时22分]"
         },
         {
           "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
           "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
           "source": "凤凰网",
           "ranks": [
-            8,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时50分 ~ 23时36分]"
-        },
-        {
-          "title": "特朗普：美方或恢复对俄石油制裁",
-          "url": "https://www.toutiao.com/trending/7652117439001477139/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时18分 ~ 08时19分]"
-        },
-        {
-          "title": "特朗普称美印贸易协议即将达成，盛赞莫迪“像杀手一样强硬”",
-          "url": "https://wallstreetcn.com/livenews/3121112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "特朗普称所有欧洲盟友都提出帮忙扫雷 但不一定依赖他们",
-          "url": "https://flash.jin10.com/detail/20260617230843938800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "现场：马克龙夫人险摔倒，不抓身旁老公，反而抓住特朗普",
-          "url": "https://v.ifeng.com/c/8u1lYy22fhi",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "[02时21分 ~ 02时22分]"
         },
         {
           "title": "“特朗普这么干，又给中国打广告”",
@@ -196,9 +69,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 02时22分]"
         },
         {
           "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
@@ -207,196 +80,229 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 02时22分]"
         },
         {
-          "title": "德国总理默茨：在七国集团峰会上与特朗普的对话富有建设性。",
-          "url": "https://wallstreetcn.com/livenews/3120969",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 02时22分]"
         },
         {
           "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
           "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
           "source": "澎湃新闻",
           "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 02时22分]"
+        },
+        {
+          "title": "邵永灵：泽连斯基和欧洲向特朗普低头",
+          "url": "https://www.toutiao.com/trending/7652352370063445558/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时21分 ~ 02时22分]"
+        },
+        {
+          "title": "巴西总统卢拉：我预计美国总统特朗普不会干预巴西选举。",
+          "url": "https://flash.jin10.com/detail/20260618014915001800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "特朗普：我喜欢“伊朗协议不奏效就怪罪万斯”这个想法",
+          "url": "https://wallstreetcn.com/livenews/3121174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "巴西总统卢拉：美国总统特朗普说得太多，倾听得太少。",
+          "url": "https://flash.jin10.com/detail/20260618014754366800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "提醒：美国总统特朗普在七国集团（G7）峰会期间的新闻发布会结束。",
+          "url": "https://wallstreetcn.com/livenews/3121170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "巴西总统卢拉：谈判结束后，我不介意与美国总统特朗普安排新会议。",
+          "url": "https://flash.jin10.com/detail/20260618014416355800",
+          "source": "金十数据",
+          "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时36分"
+          "time_info": "02时22分"
         },
         {
-          "title": "特朗普：有关设立3000亿美元伊朗重建基金的报道不实。 美国没有基金投资伊朗。 美国不会在伊朗投资“10美分”（即一分钱也不投）。 油价保持低位是因为我们正在将船只运出（海峡）。 伊朗谅解备忘录尚未最终定稿。 如果我对看到的不满意，我们会再次袭击。",
-          "url": "https://wallstreetcn.com/livenews/3120964",
-          "source": "华尔街见闻-快讯",
+          "title": "巴西总统卢拉：我现在没有理由与美国总统特朗普交谈，我们正处于谈判中。",
+          "url": "https://flash.jin10.com/detail/20260618014411364800",
+          "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "02时22分"
         },
         {
-          "title": "特朗普赞扬马克龙，称法国做得非常出色。",
-          "url": "https://wallstreetcn.com/livenews/3120963",
-          "source": "华尔街见闻-快讯",
+          "title": "摩根大通全球固收负责人米歇尔：美联储主席沃什注定会让特朗普失望。",
+          "url": "https://flash.jin10.com/detail/20260618014345044800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "02时22分"
         },
         {
-          "title": "特朗普政府再次推动转移教育部职能",
-          "url": "https://wallstreetcn.com/livenews/3120550",
+          "title": "美国总统特朗普：正在调查“美国袭击伊朗学校”一事。",
+          "url": "https://wallstreetcn.com/livenews/3121161",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时19分"
+          "time_info": "02时22分"
         },
         {
-          "title": "特朗普：油价回落将对民众购买力产生积极影响",
-          "url": "https://wallstreetcn.com/livenews/3120960",
+          "title": "特朗普：如果不将资金退还给伊朗，那将对美元不利",
+          "url": "https://wallstreetcn.com/livenews/3121158",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "特朗普：昨晚在七国集团晚宴上很开心。 七国集团之行非常成功。 市场对伊朗协议非常满意。 将在今天的新闻发布会上讨论伊朗协议的细节。 油价正在下跌。 霍尔木兹海峡将在未来一两天内开放。 海峡已部分开放，将全面开放。 没有什么比市场更聪明。",
-          "url": "https://wallstreetcn.com/livenews/3120957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "特朗普称赞与埃及的关系。",
-          "url": "https://wallstreetcn.com/livenews/3120956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "法国总统马克龙：美国总统特朗普注意到俄罗斯不想要和平的事实。特朗普和其他领导人均承认，俄罗斯并无意愿实现和平。",
-          "url": "https://flash.jin10.com/detail/20260617225944082800",
-          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时36分"
+          "time_info": "02时22分"
         },
         {
-          "title": "特朗普政府再次推动转移教育部职能",
-          "url": "https://flash.jin10.com/detail/20260617072322613800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时19分"
-        },
-        {
-          "title": "特朗普：伊朗几乎不可能拥有核武器 市场对伊朗协议“非常满意”",
-          "url": "https://flash.jin10.com/detail/20260617191908755800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "特朗普：是否恢复对俄石油制裁取决于全球能源价格",
-          "url": "https://flash.jin10.com/detail/20260617225917559800",
+          "title": "巴西总统卢拉：我并没有要求在G7峰会上与美国总统特朗普进行双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260618014034015800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时36分"
+          "time_info": "02时22分"
         },
         {
-          "title": "意大利总理梅洛尼：我们在七国集团（G7）峰会上已就乌克兰问题与特朗普达成协议。 与美国总统特朗普就乌克兰问题达成的协议，并不总是可以理所当然地认为会一直存在（不能视为理所当然）。 在峰会期间，所有G7成员国之间的氛围都非常融洽。 我与特朗普的个人关系并没有发生改变。 在即将举行的欧盟峰会上，我将提议为乌克兰事务指定一名统一的欧盟谈判代表。 如果由大国出面提议设立针对乌克兰问题的欧盟单一谈判代表，将会非常困难。 这名谈判代表应该来自一个中等规模的国家。 我们目前正专注于接下来需要落实的工作。",
-          "url": "https://wallstreetcn.com/livenews/3121096",
+          "title": "特朗普：美伊谅解备忘录可能在18日或19日签署",
+          "url": "https://wallstreetcn.com/livenews/3121156",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时36分"
+          "time_info": "02时22分"
         },
         {
-          "title": "特朗普：美国不会向伊朗投资",
-          "url": "https://flash.jin10.com/detail/20260617191833745800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "特朗普：与俄乌首脑会谈良好，考虑用美国导弹援乌！",
-          "url": "https://flash.jin10.com/detail/20260617225454989800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：围绕经济、AI举行了一些不错的会议。",
+          "url": "https://wallstreetcn.com/livenews/3121153",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时36分"
+          "time_info": "02时22分"
         },
         {
-          "title": "据福克斯新闻：美国总统特朗普指责奥巴马在达成2015年伊核协议期间“贿赂”伊朗，称其用飞机向德黑兰运送了17亿美元的“美元现金”。",
-          "url": "https://flash.jin10.com/detail/20260617191109851800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：上周日与俄罗斯总统普京通话。",
+          "url": "https://wallstreetcn.com/livenews/3121152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "美国总统特朗普：希望获得扩大版“亚伯拉罕协议”。",
+          "url": "https://wallstreetcn.com/livenews/3121151",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "02时22分"
         },
         {
-          "title": "特朗普称美伊协议已签署",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普：将不得不为黎巴嫩付出努力。",
+          "url": "https://wallstreetcn.com/livenews/3121150",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时14分"
+          "time_info": "02时22分"
+        },
+        {
+          "title": "美国总统特朗普：试图让哈马斯解除武装。",
+          "url": "https://wallstreetcn.com/livenews/3121149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "美国总统特朗普：关于移除伊朗浓缩铀库存的谈判将立即启动。",
+          "url": "https://wallstreetcn.com/livenews/3121146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         }
       ]
     }
