@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T17:15:55.258786+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-06-18T20:55:34.019756+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
@@ -32,6 +32,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时21分 ~ 17时15分]"
+        },
+        {
+          "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
+          "url": "https://www.cls.cn/detail/2403312",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 20时55分]"
+        },
+        {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 20时55分]"
         },
         {
           "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
@@ -64,7 +88,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -89,29 +113,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
-          "url": "https://www.cls.cn/detail/2403312",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 17时15分]"
         },
         {
           "title": "特朗普离开凡尔赛宫时说签署了伊朗备忘录",
@@ -156,6 +157,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时21分 ~ 07时27分]"
+        },
+        {
+          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 20时55分]"
         },
         {
           "title": "特朗普G7峰会迟到，还宣布“我是老大”",
@@ -206,16 +220,16 @@
           "time_info": "[02时21分 ~ 05时23分]"
         },
         {
-          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
-          "source": "澎湃新闻",
+          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
+          "url": "https://wallstreetcn.com/articles/3774952",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            14
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 17时15分]"
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 20时55分]"
         },
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
@@ -229,6 +243,18 @@
           "time_info": "[02时21分 ~ 02时22分]"
         },
         {
+          "title": "美学者：特朗普凡尔赛签约离谱至极",
+          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 20时55分]"
+        },
+        {
           "title": "FED独立性保住了？特朗普“笃信”沃什：按兵不动没问题，可能会加息！",
           "url": "https://www.cls.cn/detail/2403030",
           "source": "财联社热门",
@@ -238,6 +264,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 20时55分]"
         },
         {
           "title": "特朗普：日本首相是我的头号粉丝",
@@ -262,24 +300,13 @@
           "time_info": "[02时21分 ~ 02时22分]"
         },
         {
-          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
-          "url": "https://wallstreetcn.com/articles/3774952",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
           "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了…”",
           "url": "https://news.ifeng.com/c/8u33RqAGLKg",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -306,24 +333,13 @@
           "time_info": "02时22分"
         },
         {
-          "title": "美学者：特朗普凡尔赛签约离谱至极",
-          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
           "title": "特朗普G7答UP主提问点赞中国",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AEG7%E7%AD%94UP%E4%B8%BB%E6%8F%90%E9%97%AE%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD",
           "source": "bilibili 热搜",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -348,6 +364,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线",
+          "url": "https://wallstreetcn.com/articles/3774931",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
+          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "提醒：美国总统特朗普在七国集团（G7）峰会期间的新闻发布会结束。",
@@ -405,17 +443,6 @@
           "time_info": "02时22分"
         },
         {
-          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
           "title": "特朗普：如果不将资金退还给伊朗，那将对美元不利",
           "url": "https://wallstreetcn.com/livenews/3121158",
           "source": "华尔街见闻-快讯",
@@ -455,7 +482,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
