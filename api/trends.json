@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T08:29:53.922530+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-06-19T14:23:23.421844+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时44分 ~ 06时23分]"
+        },
+        {
+          "title": "特朗普吐露的真相，比战争结局更让人警醒",
+          "url": "https://news.ifeng.com/c/8u4qoy7X1Wi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "美国副总统万斯：现在，总统特朗普是唯一同情以色列的全球领导人。",
@@ -233,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "韩国总统李在明：特朗普询问我韩国能否尽快帮助建造美国海军舰艇。",
+          "url": "https://flash.jin10.com/detail/20260619130852219800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "沃什为何敢“硬刚”特朗普",
