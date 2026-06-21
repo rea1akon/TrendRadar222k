@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T08:09:40.923151+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-06-21T14:04:45.840941+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -44,6 +44,18 @@
           "time_info": "[00时21分 ~ 08时09分]"
         },
         {
+          "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33420376",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 14时04分]"
+        },
+        {
           "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
           "url": "https://wallstreetcn.com/articles/3775098",
           "source": "华尔街见闻",
@@ -54,18 +66,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时21分 ~ 04时17分]"
-        },
-        {
-          "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33420376",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 08时09分]"
         },
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -85,7 +85,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -139,6 +139,18 @@
           "time_info": "[02时14分 ~ 04时17分]"
         },
         {
+          "title": "意大利总理回击特朗普批评：应关注自身支持率",
+          "url": "https://news.ifeng.com/c/8u6beESPjqF",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 14时04分]"
+        },
+        {
           "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
           "url": "https://flash.jin10.com/detail/20260621035019632800",
           "source": "金十数据",
@@ -149,17 +161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 08时09分]"
-        },
-        {
-          "title": "意大利总理回击特朗普批评：应关注自身支持率",
-          "url": "https://news.ifeng.com/c/8u6beESPjqF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时09分"
         },
         {
           "title": "特朗普指责意大利总理“拒绝美国”",
@@ -179,9 +180,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
@@ -193,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "特朗普回应伊朗关闭霍尔木兹海峡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "特朗普的“空中行宫”谁买单",
