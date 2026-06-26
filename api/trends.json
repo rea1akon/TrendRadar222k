@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T04:48:54.702622+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-06-27T06:16:25.327386+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 04时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
@@ -236,7 +236,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         }
