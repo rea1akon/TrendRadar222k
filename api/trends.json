@@ -1,60 +1,33 @@
 {
-  "generated_at": "2026-06-26T21:14:26.750017+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-06-27T00:19:50.013780+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 23,
+      "match_count": 6,
       "titles": [
         {
-          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
-          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普：我们有一个叫做伊朗的新市场。 伊朗将购买小麦、大豆和玉米。",
-          "url": "https://wallstreetcn.com/livenews/3124890",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
+          "url": "https://flash.jin10.com/detail/20260626235210506800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "00时19分"
         },
         {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
+          "title": "美国总统 特朗普谈及伊朗：伊朗向至少四架穿越霍尔木兹海峡的船只发射了自杀式无人机（单向攻击无人机）。 其中一架无人机击中了一艘货船的上层甲板，美国击落了另外三架无人机。 这是对我们停火协议的愚蠢违反。",
+          "url": "https://wallstreetcn.com/livenews/3125391",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            20,
-            15,
-            17
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 07时20分]"
-        },
-        {
-          "title": "如何看NBA交易",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8BNBA%E4%BA%A4%E6%98%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 07时20分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -63,212 +36,42 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时14分"
+          "time_info": "00时19分"
         },
         {
-          "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
-          "url": "https://flash.jin10.com/detail/20260626052048013800",
+          "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
+          "url": "https://flash.jin10.com/detail/20260626233456947800",
           "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 07时20分]"
-        },
-        {
-          "title": "美国众议长约翰逊：与总统特朗普进行了富有成效的会谈。",
-          "url": "https://wallstreetcn.com/livenews/3124865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 07时20分]"
-        },
-        {
-          "title": "曾嘲讽泽连斯基“无牌可打”，如今特朗普又夸“打得不错”",
-          "url": "https://news.ifeng.com/c/8uFlkiiXNU5",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 15时56分]"
-        },
-        {
-          "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
-          "url": "https://wallstreetcn.com/livenews/3124855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
-          "url": "https://flash.jin10.com/detail/20260626043110139800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时46分 ~ 07时20分]"
-        },
-        {
-          "title": "Shams 报道「黄蜂将鲍尔交易至森林狼，换来纳兹里德和 3 首轮」，如何看待这笔交易？森林狼未来前景如何？",
-          "url": "https://www.zhihu.com/question/2053590515577366116",
-          "source": "知乎",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 03时07分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
-          "title": "特朗普政府要求OpenAI分阶段发布新模型。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3125019",
+          "title": "奥巴马回应总被特朗普骂",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E6%80%BB%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%AA%82%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        },
+        {
+          "title": "特朗普前国家安全事务助理认罪",
+          "url": "https://wallstreetcn.com/livenews/3125373",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "美最高法院裁决支持特朗普强硬移民政策",
-          "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "加拿大总理卡尼：周三没有与美国总统特朗普讨论美墨加协定（USMCA）。",
-          "url": "https://flash.jin10.com/detail/20260626000055706800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "加拿大总理卡尼：美国总统特朗普周三打电话给我，我们讨论了很长时间。",
-          "url": "https://wallstreetcn.com/livenews/3124768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "特朗普政府周三通知国会，将向土耳其出售价值7亿美元的喷气发动机。",
-          "url": "https://flash.jin10.com/detail/20260626055515833800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
-          "url": "https://flash.jin10.com/detail/20260626041922109800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "市场消息：特朗普拟任命电信法律专家亚当·坎德布（Adam Candeub）担任司法部反垄断局局长。",
-          "url": "https://flash.jin10.com/detail/20260626041609697800",
-          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "加拿大总理卡尼：与美国总统特朗普讨论的主题包括北约和伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260625233831429800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "加拿大总理卡尼：与美国总统特朗普及多位美国高级官员进行了长时间的讨论，涉及多个议题。",
-          "url": "https://flash.jin10.com/detail/20260625233818988800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
-          "url": "https://wallstreetcn.com/livenews/3124758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "加拿大总理卡尼：美国总统特朗普在周三给我打了电话。",
-          "url": "https://flash.jin10.com/detail/20260625233740726800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "00时19分"
         }
       ]
     }
