@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-06-30T01:39:21.447022+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-30T04:02:16.840898+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 4,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "特朗普：住房法案尚未提交给我，等法案送到后，我会决定如何处理。",
+          "url": "https://flash.jin10.com/detail/20260630033741841800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普：不太可能将《保障美国选民资格法案》纳入其中。",
+          "url": "https://flash.jin10.com/detail/20260630033732173800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普：（住房法案）我目前还不知道对此有什么计划。",
+          "url": "https://flash.jin10.com/detail/20260630033555569800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普：（最高法院）裁决后预计不会有更多解职。",
+          "url": "https://wallstreetcn.com/livenews/3126299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普：由于有关邮寄投票的裁决令人有些意外，《保障美国选民资格法案》显得更加重要。",
+          "url": "https://flash.jin10.com/detail/20260630033047940800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普：我想他们（伊朗方面）已启程去多哈开会。",
+          "url": "https://flash.jin10.com/detail/20260630033019264800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
         {
           "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
           "url": "https://www.cls.cn/detail/2411631",
@@ -15,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时39分"
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 04时02分]"
         },
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -26,8 +92,52 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 04时02分]"
+        },
+        {
+          "title": "美国总统特朗普：油价已大幅下跌。",
+          "url": "https://flash.jin10.com/detail/20260630032956729800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普：我认为他们（伊朗方面）已经动身去参加多哈会议。 多哈会议或许重要，或许不重要。",
+          "url": "https://wallstreetcn.com/livenews/3126296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普签署关于汽车售后零部件的备忘录。",
+          "url": "https://flash.jin10.com/detail/20260630032916343800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普：（关于多哈会晤）这或许很重要，我们将拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260630032736175800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "特朗普政府取消能源公司Duke Energy在美国北卡莱罗纳州近海的风电租赁合同。",
@@ -50,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "美国总统特朗普：最高法院今天的裁决赋予总统解雇部分独立联邦机构官员的权力，这是过去100年来总统权力最大的一次扩张，也是在这一关键时刻作出的一项具有里程碑意义的裁决。",
+          "url": "https://flash.jin10.com/detail/20260630025055671800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     }
