@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T08:16:02.349010+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-06-30T13:06:05.295813+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时39分 ~ 08时16分]"
+          "appearance_count": 9,
+          "time_info": "[01时39分 ~ 13时06分]"
         },
         {
           "title": "特朗普：住房法案尚未提交给我，等法案送到后，我会决定如何处理。",
@@ -121,6 +122,29 @@
           "time_info": "[04时02分 ~ 05时42分]"
         },
         {
+          "title": "特朗普“和粉丝吵翻了”",
+          "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时15分 ~ 13时06分]"
+        },
+        {
+          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
+          "url": "https://www.cls.cn/detail/2412327",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时05分 ~ 13时06分]"
+        },
+        {
           "title": "美国总统特朗普：我认为他们（伊朗方面）已经动身去参加多哈会议。 多哈会议或许重要，或许不重要。",
           "url": "https://wallstreetcn.com/livenews/3126296",
           "source": "华尔街见闻-快讯",
@@ -145,15 +169,15 @@
           "time_info": "[05时42分 ~ 07时01分]"
         },
         {
-          "title": "特朗普“和粉丝吵翻了”",
-          "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
           "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时15分 ~ 08时16分]"
+          "time_info": "[13时05分 ~ 13时06分]"
         },
         {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
@@ -217,7 +241,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -228,7 +252,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -239,7 +263,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -261,7 +285,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -272,7 +296,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -283,7 +307,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
