@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T06:19:34.849134+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-07-02T08:10:43.748960+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美国总统特朗普：7月4日大概会有107华氏度的高温，但我还是会去发表一篇非常长的讲话，只是为了证明我什么都能做到。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "美国总统特朗普：正如我所承诺的，油价正在迅速下跌，汽油价格也在下降，但速度还不够快。",
+          "url": "https://flash.jin10.com/detail/20260702075435655800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "美国总统特朗普：我们正轻松赢得一场战争。 我们在伊朗问题上进展顺利，就像在委内瑞拉那样。",
@@ -47,7 +58,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -69,7 +80,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -91,7 +102,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -113,7 +124,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -124,7 +135,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -135,7 +146,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -146,7 +157,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -168,7 +179,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -179,7 +190,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -190,7 +201,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -212,7 +223,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         }
