@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T16:18:43.479192+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-07-02T19:36:00.446992+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国总统特朗普：7月4日大概会有107华氏度的高温，但我还是会去发表一篇非常长的讲话，只是为了证明我什么都能做到。",
@@ -47,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 13时00分]"
+        },
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
         },
         {
           "title": "美国总统特朗普：假新闻最近对我还算不错。当你表现得像我们现在这样好时，他们大概不得不变得客气一些。",
@@ -146,7 +157,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
