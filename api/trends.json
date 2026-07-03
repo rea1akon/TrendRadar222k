@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T16:11:15.837344+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2026-07-03T19:34:39.416005+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -64,6 +64,19 @@
           "time_info": "06时09分"
         },
         {
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 19时34分]"
+        },
+        {
           "title": "美国总统特朗普：不希望在任内出现全球性萧条。",
           "url": "https://flash.jin10.com/detail/20260703055739392800",
           "source": "金十数据",
@@ -119,16 +132,15 @@
           "time_info": "06时09分"
         },
         {
-          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
-          "url": "https://www.cls.cn/detail/2416012",
-          "source": "财联社热门",
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时44分 ~ 16时11分]"
+          "time_info": "[16时10分 ~ 19时34分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -143,17 +155,6 @@
           "time_info": "[02时26分 ~ 06时09分]"
         },
         {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
-        },
-        {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
           "source": "澎湃新闻",
@@ -161,8 +162,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
+          "appearance_count": 3,
+          "time_info": "[16时10分 ~ 19时34分]"
         },
         {
           "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
@@ -215,7 +216,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
