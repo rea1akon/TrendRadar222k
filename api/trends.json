@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T05:35:25.569098+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-07-08T07:04:09.462771+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时04分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -27,30 +27,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时04分]"
         },
         {
           "title": "特朗普：对北约非常失望",
           "url": "https://news.ifeng.com/c/8uZl0nkCE3Q",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时58分 ~ 05时35分]"
+          "appearance_count": 4,
+          "time_info": "[03时58分 ~ 07时04分]"
         },
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
           "url": "https://news.ifeng.com/c/8uZavoCll5c",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时04分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -61,8 +63,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 05时35分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 07时04分]"
         },
         {
           "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
@@ -71,7 +73,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
         },
