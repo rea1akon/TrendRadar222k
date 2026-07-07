@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T03:58:26.751673+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-07-08T05:35:25.569098+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 05时35分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 05时35分]"
         },
         {
           "title": "特朗普：对北约非常失望",
@@ -37,9 +37,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 05时35分]"
         },
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 05时35分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -61,8 +61,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 05时35分]"
+        },
+        {
+          "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
+          "url": "https://flash.jin10.com/detail/20260708044045752800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
