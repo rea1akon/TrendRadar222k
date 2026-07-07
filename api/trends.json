@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-07T15:42:03.306881+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-07-07T19:09:13.207239+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 19时09分]"
+        },
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
           "url": "https://news.ifeng.com/c/8uYByScLdvD",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时45分 ~ 07时10分]"
-        },
-        {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 15时42分]"
         },
         {
           "title": "特朗普：就红牌与国际足联主席通话",
@@ -55,6 +55,18 @@
           "time_info": "[01时45分 ~ 01时46分]"
         },
         {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 19时09分]"
+        },
+        {
           "title": "特朗普再回应红牌事件，称若比利时赢了美国就是有黑幕",
           "url": "https://news.ifeng.com/c/8uYHhG4pLt3",
           "source": "凤凰网",
@@ -64,6 +76,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时33分 ~ 11时34分]"
+        },
+        {
+          "title": "特朗普称不知道红牌还要禁赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 19时09分]"
         },
         {
           "title": "特朗普插手世界杯红牌",
@@ -180,18 +205,6 @@
           "time_info": "04时01分"
         },
         {
-          "title": "特朗普称不知道红牌还要禁赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 15时42分]"
-        },
-        {
           "title": "如何评价国际足联主席称确实接到了特朗普电话，但「独立裁决」巴洛贡红牌禁赛延后处罚案件？真的毫无影响吗？",
           "url": "https://www.zhihu.com/question/2057732608214004902",
           "source": "知乎",
@@ -205,6 +218,17 @@
           "time_info": "[11时33分 ~ 15时42分]"
         },
         {
+          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
+          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 19时09分]"
+        },
+        {
           "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
           "url": "https://www.cls.cn/detail/2418537",
           "source": "财联社热门",
@@ -215,17 +239,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时33分 ~ 15时42分]"
-        },
-        {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "罕见！特朗普在白宫为纽交所和纳斯达克敲钟，称美股将涨破天际",
@@ -249,17 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时10分]"
-        },
-        {
-          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
-          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
@@ -297,6 +299,17 @@
           "time_info": "[11时33分 ~ 11时34分]"
         },
         {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
           "title": "如何看待比利时淘汰美国引球迷高喊正义必胜？赛前特朗普称若其赢球是黑幕，比利时可能会受到进一步影响吗？",
           "url": "https://www.zhihu.com/question/2057769216468415013",
           "source": "知乎",
@@ -307,6 +320,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书回应特朗普：请以尊重的态度同伊朗人民对话，否则我们将以另一种方式予以回击。",
@@ -417,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "“特朗普账户”正式推出 可操作性引质疑",
+          "url": "https://wallstreetcn.com/livenews/3129896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "美国总统特朗普：我刚刚得知，美国零售商沃尔玛将在我政府的要求下大幅降价，以庆祝我们伟大国家的250周年生日。",
