@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T05:37:54.824935+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-07-10T07:14:47.289688+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时37分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 07时14分]"
         },
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时37分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 07时14分]"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时37分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 07时14分]"
         },
         {
           "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
@@ -50,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时37分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 07时14分]"
         },
         {
           "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
@@ -61,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时37分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 07时14分]"
         },
         {
           "title": "“二鬼子”章家敦，被特朗普点名批评了",
@@ -72,8 +72,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时03分 ~ 05时37分]"
+          "appearance_count": 5,
+          "time_info": "[02时03分 ~ 07时14分]"
         },
         {
           "title": "据福克斯新闻：美国商务部长霍华德·卢特尼克表示，特朗普认为未来油价将保持较低水平。",
@@ -93,7 +93,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -115,9 +115,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "以色列向美国递交新情报：伊朗再被曝策划刺杀特朗普",
+          "url": "https://flash.jin10.com/detail/20260710062334750800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
@@ -126,7 +137,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -148,9 +159,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
+          "url": "https://flash.jin10.com/detail/20260710054645407800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "据华尔街日报：知情人士称，以色列向美国提供新情报，称伊朗或在考虑刺杀特朗普的新计划。",
+          "url": "https://flash.jin10.com/detail/20260710053537851800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话，商定保持两国政策协调",
@@ -159,7 +192,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }
