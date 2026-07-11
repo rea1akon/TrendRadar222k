@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T03:07:04.594051+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2026-07-12T04:51:33.537260+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时51分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -26,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时51分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -35,11 +36,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 04时51分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -47,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 03时07分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 04时51分]"
         }
       ]
     }
