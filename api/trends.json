@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T22:56:29.933187+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-07-11T23:58:46.775159+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,24 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时15分 ~ 22时56分]"
+          "appearance_count": 8,
+          "time_info": "[14时15分 ~ 23时58分]"
+        },
+        {
+          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
+          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时15分 ~ 23时58分]"
         },
         {
           "title": "特朗普称将授权乌克兰本土生产“爱国者”导弹，专家：只是画大饼",
@@ -43,18 +56,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 11时33分]"
-        },
-        {
-          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
-          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时15分 ~ 22时56分]"
         },
         {
           "title": "白宫证实特朗普已“清空”美选举援助委员会",
