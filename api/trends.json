@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T14:35:06.674531+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-07-12T17:03:51.866143+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -38,11 +38,12 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时52分 ~ 14时35分]"
+          "appearance_count": 8,
+          "time_info": "[05时52分 ~ 17时03分]"
         },
         {
           "title": "曝光特朗普临时换专机，美媒吃传票了",
@@ -52,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 14时35分]"
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 17时03分]"
         },
         {
           "title": "美国总统特朗普：即便所有媒体都对我极尽抹黑、充斥虚假新闻，我依旧以压倒性大胜拿下总统大选。由此可见，主流媒体毫无公信力可言！",
@@ -93,6 +94,17 @@
           "time_info": "[01时06分 ~ 06时51分]"
         },
         {
+          "title": "伊朗议员阿拉丁·布鲁杰迪表示，特朗普、以色列总理内塔尼亚胡及其“代理人”应预料到“自由的世界人民”将实施“神圣的复仇之手”，并称“世界上没有任何地方——即便是白宫——对他们而言会是安全的”。",
+          "url": "https://flash.jin10.com/detail/20260712162835799800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
           "url": "https://flash.jin10.com/detail/20260712002717195800",
           "source": "金十数据",
@@ -105,6 +117,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时06分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗议员阿拉丁·布鲁杰迪表示，白宫对美国总统特朗普而言“将不再安全”，并称为已故最高领袖阿里·哈梅内伊复仇已成为其追随者和“全世界所有自由人民”的“一项义务”。",
+          "url": "https://flash.jin10.com/detail/20260712162807383800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         },
         {
           "title": "六成美国民众认为特朗普以权谋私",
@@ -124,9 +147,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时35分"
+        },
+        {
+          "title": "美国总统特朗普：林赛·格雷厄姆参议员，我所认识的最伟大的人和参议员之一，已经去世！他总是在工作，是一位真正的美国爱国者。林赛将被深深怀念！",
+          "url": "https://flash.jin10.com/detail/20260712152257294800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         }
       ]
     }
