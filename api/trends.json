@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T14:55:14.876505+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-07-13T18:29:09.191863+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -30,6 +30,17 @@
           "time_info": "[00时04分 ~ 07时57分]"
         },
         {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 18时29分]"
+        },
+        {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
           "url": "https://wallstreetcn.com/livenews/3132432",
           "source": "华尔街见闻-快讯",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时05分 ~ 06时52分]"
-        },
-        {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 14时55分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时54分]"
+        },
+        {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
