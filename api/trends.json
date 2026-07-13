@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T18:29:09.191863+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-07-13T21:28:09.814971+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -19,6 +19,17 @@
           "time_info": "[00时04分 ~ 07时57分]"
         },
         {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时21分 ~ 21时28分]"
+        },
+        {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
           "url": "https://news.ifeng.com/c/8uhQRko1ti1",
           "source": "凤凰网",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时04分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
-          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时21分 ~ 18时29分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -53,6 +53,17 @@
           "time_info": "[00时05分 ~ 06时52分]"
         },
         {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
           "url": "https://flash.jin10.com/detail/20260713021538403800",
           "source": "金十数据",
@@ -64,17 +75,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时54分]"
-        },
-        {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -122,6 +122,39 @@
           "time_info": "00时05分"
         },
         {
+          "title": "特朗普：我们会给格雷厄姆办一场特别的葬礼。",
+          "url": "https://wallstreetcn.com/livenews/3132916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "特朗普称要接管霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3132914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "特朗普：若冗长辩论规则不终结，9月可能出现政府停摆。 我们正在接管霍尔穆兹海峡。 伊朗一无所有。 伊朗什么都没得到。 伊朗从我这里什么都没得到。 昨晚对伊朗进行了重击。 我们将可能负责管理霍尔木兹海峡。 如果由美国负责霍尔木兹海峡，美国将获得补偿。 我们将成为海峡的守护者。 我们会因为守卫它而获得报酬。",
+          "url": "https://wallstreetcn.com/livenews/3132913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "特朗普：伊朗昨天已同意“完美协议”，但转头就开了火",
           "url": "https://flash.jin10.com/detail/20260712220334979800",
           "source": "金十数据",
@@ -153,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
+        },
+        {
+          "title": "特朗普：伊朗总是撕毁协议，所以要狠狠打击他们",
+          "url": "https://flash.jin10.com/detail/20260713205510868800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     }
