@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T04:58:13.911705+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-07-18T05:59:14.587231+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
           "title": "生死博弈！“特朗普美元”来了",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 04时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -46,11 +46,12 @@
           "url": "https://flash.jin10.com/detail/20260718043845403800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时59分]"
         },
         {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
@@ -63,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 03时13分]"
+        },
+        {
+          "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
+          "url": "https://flash.jin10.com/detail/20260718045100973800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
@@ -104,7 +116,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -115,7 +127,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -126,7 +138,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         },
@@ -137,7 +149,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
         }
