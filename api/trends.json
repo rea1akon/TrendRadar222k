@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T15:54:02.123160+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-07-18T17:28:25.075314+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[01时15分 ~ 06时56分]"
         },
         {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 17时28分]"
+        },
+        {
           "title": "白宫：特朗普将出席世界杯决赛",
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时13分]"
-        },
-        {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 15时54分]"
         },
         {
           "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
@@ -75,8 +76,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 17时28分]"
         },
         {
           "title": "特朗普再谈巴洛贡红牌事件",
@@ -86,8 +87,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 15时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 17时28分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 17时28分]"
         },
         {
           "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
@@ -103,16 +117,16 @@
           "time_info": "[05时59分 ~ 07时55分]"
         },
         {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
+          "title": "特朗普：因凡蒂诺建议中美合办世界杯",
+          "url": "https://www.douyin.com/hot/2575839",
+          "source": "抖音",
           "ranks": [
-            17,
-            15
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时28分 ~ 15时54分]"
+          "time_info": "[15时53分 ~ 17时28分]"
         },
         {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
@@ -125,17 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 03时13分]"
-        },
-        {
-          "title": "特朗普：因凡蒂诺建议中美合办世界杯",
-          "url": "https://www.douyin.com/hot/2575839",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 15时54分]"
         },
         {
           "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
