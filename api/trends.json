@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T00:03:15.505082+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-20T01:59:09.662020+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -15,19 +15,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时59分]"
         },
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
           "url": "https://news.ifeng.com/c/8utCDuus6XE",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 00时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 01时59分]"
+        },
+        {
+          "title": "以媒：特朗普倾向进一步升级对伊行动",
+          "url": "https://flash.jin10.com/detail/20260720014155367800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
         },
         {
           "title": "美国总统特朗普宣称：北海石油是世界上最优质的石油来源之一。 英国的巨大潜力始于开放北海石油。 英国花钱向挪威买油简直是荒唐。 “我们爱你，苏格兰！”",
@@ -36,9 +48,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时59分]"
         },
         {
           "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
@@ -47,9 +59,20 @@
           "ranks": [
             18
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时59分]"
+        },
+        {
+          "title": "以媒：特朗普警告海湾国家 本周若不停火局势将显著升级",
+          "url": "https://flash.jin10.com/detail/20260720012242848800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "01时59分"
         },
         {
           "title": "美国总统特朗普：英国拥有如此巨大的潜力，但这一切都始于开发北海石油。",
@@ -58,7 +81,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -69,7 +92,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -80,7 +103,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -91,7 +114,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         },
@@ -102,7 +125,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
         }
