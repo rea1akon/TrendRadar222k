@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T11:18:05.016725+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-07-21T14:30:36.648524+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时05分 ~ 11时18分]"
+        },
+        {
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 14时30分]"
         },
         {
           "title": "如何看特朗普不愿离开颁奖台",
@@ -82,7 +94,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -116,19 +128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 11时18分]"
-        },
-        {
-          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
-          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 11时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 14时30分]"
         },
         {
           "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
@@ -138,8 +139,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 14时30分]"
+        },
+        {
+          "title": "舒默称特朗普是美国史上最腐败总统",
+          "url": "https://www.toutiao.com/trending/7663682649068109887/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时17分 ~ 11时18分]"
+          "time_info": "[14时29分 ~ 14时30分]"
         },
         {
           "title": "白宫：特朗普采取进一步措施，调整美国铝进口政策。",
@@ -335,7 +347,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         }
