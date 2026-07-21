@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T17:28:41.418189+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-07-21T19:48:11.967478+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[04时23分 ~ 07时58分]"
         },
         {
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 19时48分]"
+        },
+        {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
           "url": "https://www.zhihu.com/question/2062557149230903440",
           "source": "知乎",
@@ -30,16 +42,15 @@
           "time_info": "[02时05分 ~ 11时18分]"
         },
         {
-          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
-          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
           "source": "凤凰网",
           "ranks": [
-            6,
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[11时17分 ~ 19时48分]"
         },
         {
           "title": "如何看特朗普不愿离开颁奖台",
@@ -121,17 +132,6 @@
           "time_info": "06时02分"
         },
         {
-          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
-          "url": "https://news.ifeng.com/c/8uvIalkczmR",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 17时28分]"
-        },
-        {
           "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
           "url": "https://www.cls.cn/detail/2431976",
           "source": "财联社热门",
@@ -141,6 +141,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时17分 ~ 14时30分]"
+        },
+        {
+          "title": "西班牙，你太不给特朗普面子了",
+          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时48分]"
         },
         {
           "title": "舒默称特朗普是美国史上最腐败总统",
@@ -185,17 +196,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
-        },
-        {
-          "title": "西班牙，你太不给特朗普面子了",
-          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "特朗普签署行政令，要求全面梳理供应链以保障国家安全",
