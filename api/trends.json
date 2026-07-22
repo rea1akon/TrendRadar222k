@@ -1,520 +1,55 @@
 {
-  "generated_at": "2026-07-22T23:47:54.881023+08:00",
-  "total_titles_processed": 1629,
+  "generated_at": "2026-07-23T01:22:33.303681+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 45,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
           "url": "https://news.ifeng.com/c/8uy1V150ZKO",
           "source": "凤凰网",
           "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 23时47分]"
-        },
-        {
-          "title": "胡塞武装封锁红海？特朗普回应",
-          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 17时28分]"
-        },
-        {
-          "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
-          "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 08时01分]"
-        },
-        {
-          "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
-          "url": "https://flash.jin10.com/detail/20260722044021391800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "美国总统特朗普：仿制药进入美国关税为零，所有仿制药继续享受零关税。 两年后对仿制药征收100%关税，再之后将提高至200%。 关税税率自2026年8月1日起生效。",
-          "url": "https://wallstreetcn.com/livenews/3137789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普：可能很快打击伊朗“镐山”核设施",
-          "url": "https://news.ifeng.com/c/8ux7TemK3px",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时30分 ~ 21时59分]"
-        },
-        {
-          "title": "特朗普有意提名国际足联主席因凡蒂诺出任联合国秘书长",
-          "url": "https://flash.jin10.com/detail/20260722064418802800",
-          "source": "金十数据",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2433256",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 14时31分]"
-        },
-        {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
-          "ranks": [
-            8,
-            14,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 07时01分]"
-        },
-        {
-          "title": "特朗普宣布两年后对仿制药征收100%关税",
-          "url": "https://news.ifeng.com/c/8uxX85JoJZj",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时35分 ~ 14时31分]"
-        },
-        {
-          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
-          "url": "https://www.cls.cn/detail/2433190",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 11时36分]"
-        },
-        {
-          "title": "特朗普称很快重击伊朗镐山核设施",
-          "url": "https://wallstreetcn.com/livenews/3137693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时25分]"
+          "time_info": "01时22分"
         },
         {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
           "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 23时47分]"
-        },
-        {
-          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
-          "url": "https://wallstreetcn.com/articles/3777496",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 03时25分]"
-        },
-        {
-          "title": "美国总统特朗普下周（一）将前往密歇根州，初选将在那之后举行。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3137781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时01分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
           "url": "https://www.cls.cn/detail/2434152",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 23时47分]"
-        },
-        {
-          "title": "特朗普承认美方干预中国事务",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E7%BE%8E%E6%96%B9%E5%B9%B2%E9%A2%84%E4%B8%AD%E5%9B%BD%E4%BA%8B%E5%8A%A1%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
-        },
-        {
-          "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
-          "url": "https://flash.jin10.com/detail/20260722063924180800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3137751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "特朗普：若伊朗袭击霍尔木兹海峡船只 美将摧毁其桥梁或发电厂",
-          "url": "https://wallstreetcn.com/livenews/3138231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时59分"
-        },
-        {
-          "title": "特朗普对伊态度转鹰，OpenAI智能体测试中突破隔离| Plus日报",
-          "url": "https://flash.jin10.com/detail/20260722230716718800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
-          "url": "https://flash.jin10.com/detail/20260722062026177800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普给孩子发1000美元“投资红包”，但不少父母发现：钱还没到账",
-          "url": "https://flash.jin10.com/detail/20260722193533351800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
-          "url": "https://wallstreetcn.com/livenews/3137704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
-        },
-        {
-          "title": "特朗普宣布两年后对仿制药征收100%关税",
-          "url": "https://wallstreetcn.com/livenews/3137789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "据华尔街日报：官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。",
-          "url": "https://flash.jin10.com/detail/20260722060041607800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普会见黎巴嫩总统奥恩",
-          "url": "https://flash.jin10.com/detail/20260722003143324800",
-          "source": "金十数据",
-          "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
         },
         {
-          "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
-          "url": "https://wallstreetcn.com/livenews/3137772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普称将打击伊朗核设施",
-          "url": "https://www.toutiao.com/trending/7665119295965236786/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "美国联邦通信委员会：特朗普政府考虑禁止进口军用级无人机。",
-          "url": "https://flash.jin10.com/detail/20260722055028115800",
-          "source": "金十数据",
+          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
+          "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
-          "url": "https://wallstreetcn.com/livenews/3137768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
-          "url": "https://wallstreetcn.com/livenews/3137767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普称没兴趣与伊朗会晤，将“猛烈打击”伊朗核设施；油轮在红海掉头避险；美国将对数十个国家实施新的关税……当前黄金转为空头占优，白银、美油多头持续，美股情绪分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260722105441809800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
-          "url": "https://wallstreetcn.com/livenews/3138289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "据华尔街日报：白宫官员称，顶级公用事业公司及数据中心开发商加入特朗普旨在保护缴费用户的承诺。公用事业公司与数据中心开发商承诺为数据中心用电支付更高费用。",
-          "url": "https://flash.jin10.com/detail/20260722071735772800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "因特朗普威胁征收关税，加美大桥通车庆祝仪式取消",
-          "url": "https://flash.jin10.com/detail/20260722071159968800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "美国贸易代表格里尔：昨日与加拿大贸易官员对话。 加拿大并没有提前知晓特朗普政府要对其加征50%的关税。",
-          "url": "https://wallstreetcn.com/livenews/3138287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "特朗普：没兴趣与伊朗见面，我们的斗争根本没有结束",
-          "url": "https://wallstreetcn.com/livenews/3137671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "据福克斯新闻：美国贸易代表格里尔将于当地时间今日在参议院小组委员会就特朗普的贸易和关税政策作证。",
-          "url": "https://flash.jin10.com/detail/20260722165855515800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "特朗普频繁现身美国体育大赛引争议",
-          "url": "https://www.toutiao.com/trending/7664524485127684159/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
-          "url": "https://wallstreetcn.com/livenews/3137667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "特朗普会见黎巴嫩总统奥恩",
-          "url": "https://wallstreetcn.com/livenews/3137692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
-          "url": "https://wallstreetcn.com/livenews/3137726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "特朗普解除美国直飞黎巴嫩航班40余年禁令",
-          "url": "https://wallstreetcn.com/livenews/3137870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
         }
       ]
     }
