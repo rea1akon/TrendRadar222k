@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T11:36:10.096320+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-07-22T14:31:45.210754+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "胡塞武装封锁红海？特朗普回应",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 14时31分]"
         },
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -74,6 +74,19 @@
           "time_info": "07时01分"
         },
         {
+          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2433256",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 14时31分]"
+        },
+        {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
           "url": "https://www.zhihu.com/question/2062849285499138343",
           "source": "知乎",
@@ -86,6 +99,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普宣布两年后对仿制药征收100%关税",
+          "url": "https://news.ifeng.com/c/8uxX85JoJZj",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时35分 ~ 14时31分]"
         },
         {
           "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
@@ -113,27 +137,15 @@
           "time_info": "[01时22分 ~ 03时25分]"
         },
         {
-          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2433256",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时01分 ~ 11时36分]"
-        },
-        {
-          "title": "特朗普宣布两年后对仿制药征收100%关税",
-          "url": "https://news.ifeng.com/c/8uxX85JoJZj",
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
           "source": "凤凰网",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
@@ -157,6 +169,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普承认美方干预中国事务",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E7%BE%8E%E6%96%B9%E5%B9%B2%E9%A2%84%E4%B8%AD%E5%9B%BD%E4%BA%8B%E5%8A%A1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
@@ -297,7 +320,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -374,7 +397,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         }
