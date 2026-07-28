@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T20:56:44.980443+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-07-28T23:23:45.419032+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 50,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -52,6 +52,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时12分 ~ 23时23分]"
         },
         {
           "title": "美国总统特朗普：正在建造大量爱国者导弹。",
@@ -142,6 +157,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "以色列总理内塔尼亚胡与美国总统特朗普在白宫椭圆形办公室会晤。",
+          "url": "https://flash.jin10.com/detail/20260728230530898800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "美国总统特朗普：伊朗通过协调方提出了会面请求。",
           "url": "https://flash.jin10.com/detail/20260728002806691800",
           "source": "金十数据",
@@ -184,20 +210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时12分 ~ 20时56分]"
         },
         {
           "title": "600名以色列前高官联名致信特朗普，发出警告",
@@ -289,6 +301,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "以色列总理内塔尼亚胡抵达白宫与统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260728225729492800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "美国总统特朗普：美国的汽油供应够用1000年。",
           "url": "https://wallstreetcn.com/livenews/3140490",
           "source": "华尔街见闻-快讯",
@@ -309,6 +332,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "市场消息：乌克兰总统泽连斯基与特朗普的会晤结束，泽连斯基将离开白宫。",
+          "url": "https://flash.jin10.com/detail/20260728225717063800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美国总统特朗普宣称：目前，伊朗正与我们洽谈达成协议。 伊朗在说“求求你们，别封锁”。 我们很快就会结束伊朗的核威慑。",
@@ -353,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "市场消息：特朗普将于美国东部时间上午（北京时间晚上）11点迎接以色列总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20260728225242613800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "美国总统特朗普告知通用汽车CEO：你们做得不错。 我想要祝贺通用汽车，对该公司非常骄傲。",
@@ -454,6 +499,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "特朗普关税收入成了美国财政“救命钱”？加图研究所：债市根本不买账",
+          "url": "https://flash.jin10.com/detail/20260728223713254800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "报道：特朗普政府即将敲定AI自愿监管框架",
           "url": "https://wallstreetcn.com/livenews/3140508",
           "source": "华尔街见闻-快讯",
@@ -515,7 +571,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -540,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "特朗普与泽连斯基在白宫会面",
+          "url": "https://flash.jin10.com/detail/20260728222606971800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "特朗普将在白宫再会泽连斯基",
