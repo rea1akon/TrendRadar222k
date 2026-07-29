@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-29T13:55:00.081296+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-07-29T16:44:00.142867+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
           "url": "https://www.toutiao.com/trending/7667418781938679858/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 16时44分]"
         },
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -64,6 +65,28 @@
           "time_info": "[10时45分 ~ 13时55分]"
         },
         {
+          "title": "国际油价急涨5%！特朗普按下冲突“暂停键”后 伊朗首袭驻中东美军",
+          "url": "https://www.cls.cn/detail/2439731",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
           "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
           "url": "https://wallstreetcn.com/livenews/3141133",
           "source": "华尔街见闻-快讯",
@@ -85,6 +108,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时54分 ~ 13时55分]"
+        },
+        {
+          "title": "NBA2K27玩法预告",
+          "url": "https://search.bilibili.com/all?keyword=NBA2K27%E7%8E%A9%E6%B3%95%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
