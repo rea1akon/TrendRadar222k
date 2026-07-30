@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-30T06:03:21.238888+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-07-30T11:58:44.863939+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
-        {
-          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时03分]"
-        },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
           "url": "https://www.cls.cn/detail/2440511",
@@ -25,7 +14,19 @@
           "ranks": [
             4,
             2,
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 11时58分]"
+        },
+        {
+          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -45,13 +46,35 @@
           "time_info": "[00时24分 ~ 04时14分]"
         },
         {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
           "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -62,9 +85,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "最新民调出炉！特朗普在共和党内部也遇挫",
+          "url": "https://news.ifeng.com/c/8vArsLDHzMI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "特朗普再次威胁袭击伊朗，并寻求对伊加征关税",
@@ -73,9 +107,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 11时58分]"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -111,18 +158,6 @@
           "time_info": "[00时24分 ~ 06时03分]"
         },
         {
-          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 06时03分]"
-        },
-        {
           "title": "伊朗武装部队警告特朗普",
           "url": "https://www.douyin.com/hot/2589723",
           "source": "抖音",
@@ -130,8 +165,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时10分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时10分 ~ 11时58分]"
+        },
+        {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         },
         {
           "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
@@ -167,6 +213,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "马斯克“钞能力”重启！重金布局中期选举，特朗普的超级援军来了",
+          "url": "https://flash.jin10.com/detail/20260730111552578800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
           "title": "美联储加息压力渐增，特朗普未必会把矛头指向沃什",
           "url": "https://flash.jin10.com/detail/20260730013432572800",
           "source": "金十数据",
@@ -195,7 +252,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -283,7 +340,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         }
