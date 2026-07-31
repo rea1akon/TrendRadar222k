@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T20:58:14.626121+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-07-31T23:24:45.753975+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 20时58分]"
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 23时24分]"
         },
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 20时58分]"
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 23时24分]"
         },
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
@@ -37,11 +37,12 @@
           "ranks": [
             13,
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 20时58分]"
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 23时24分]"
         },
         {
           "title": "美媒爆料：泽连斯基请特朗普说服马斯克，允许乌借助“星链”打击俄导弹发射装置",
@@ -109,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
