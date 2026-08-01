@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-01T16:25:44.534230+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-08-01T18:43:02.132663+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 18时43分]"
+        },
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
@@ -32,15 +44,17 @@
           "time_info": "[01时40分 ~ 07时03分]"
         },
         {
-          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
-          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
-          "source": "凤凰网",
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            9,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 18时43分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -65,17 +79,6 @@
           "time_info": "07时03分"
         },
         {
-          "title": "特朗普最新支持率公布",
-          "url": "https://wallstreetcn.com/livenews/3143570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
           "title": "特朗普已下令对伊朗发动新一轮攻击",
           "url": "https://flash.jin10.com/detail/20260801053418447800",
           "source": "金十数据",
@@ -98,18 +101,6 @@
           "time_info": "[01时40分 ~ 10时55分]"
         },
         {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 16时25分]"
-        },
-        {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
           "url": "https://www.cls.cn/detail/2443172",
           "source": "财联社热门",
@@ -118,8 +109,43 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 18时43分]"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://wallstreetcn.com/livenews/3143570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时57分 ~ 16时25分]"
+          "time_info": "[16时25分 ~ 18时43分]"
+        },
+        {
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时43分]"
+        },
+        {
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
@@ -154,17 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        },
-        {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         },
         {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
