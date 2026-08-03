@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-04T02:53:23.348812+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-08-04T04:28:15.297977+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33709958",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时28分]"
+        },
         {
           "title": "据路透：消息人士称，特朗普预计将于周五在美国国务院出席一次矿业高管圆桌会议。",
           "url": "https://flash.jin10.com/detail/20260804001514489800",
@@ -36,7 +49,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -52,25 +65,13 @@
           "time_info": "00时27分"
         },
         {
-          "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33709958",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时53分]"
-        },
-        {
           "title": "美国总统特朗普：在“斩首”之前，希望给予伊朗最后的机会。 在伊朗问题上我不受时间限制。",
           "url": "https://wallstreetcn.com/livenews/3144310",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -81,7 +82,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -92,7 +93,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -103,7 +104,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -114,7 +115,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -125,7 +126,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -136,7 +137,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -147,7 +148,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -158,7 +159,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -169,7 +170,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -180,7 +181,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -202,7 +203,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -213,9 +214,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "伊朗最高领袖顾问Mohsen Rezaee通过国家电视台表示：美国必须迈出第一步行动，并改变其行为方式，这可能是一个积极的开端。 如果特朗普不撤销封锁，美军基地、战舰都将沦为我方的打击目标。 如果美国遵守备忘录的条款，这可能表明其行为出现了变化。 而若这种情况没有发生，我们绝不可能容忍海上封锁，美国军舰和基地将面临严重危险。",
+          "url": "https://wallstreetcn.com/livenews/3144329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "雪佛龙(CVX.N)和埃克森美孚石油(XOM.N)股价直线下挫，现分别跌2.2%和0.8%，此前特朗普称雪佛龙和埃克森美孚石油“赚得太多了”。",
@@ -224,7 +236,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -235,7 +247,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -246,7 +258,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -257,7 +269,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -268,9 +280,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "法庭文件显示：美国25个州提起诉讼，挑战特朗普最新关税政策。 纽约州总检察长称，特朗普新关税覆盖面宽泛程度超出法律允许范围，规避了法律规定的针对特定国家开展调查的要求。特朗普最新关税仅仅是替换此前被美国最高法院裁定无效的关税。",
+          "url": "https://wallstreetcn.com/livenews/3144325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美国总统特朗普：我不会让伊朗在霍尔木兹海峡收取费用。",
@@ -279,7 +302,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -290,7 +313,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -301,9 +324,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "美国总统特朗普：将批准2450万美元资金，用于应对密苏里州遭遇的严重风暴、强风、龙卷风和洪水灾害。",
+          "url": "https://flash.jin10.com/detail/20260804034236095800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美国总统特朗普：伊朗谈判的第二阶段是去核化。",
@@ -312,7 +346,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -323,7 +357,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -334,7 +368,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -345,9 +379,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "美国民主党参议员Mark Warner：特朗普无法停止反复摇摆立场。他威胁要对伊朗发动空袭，随后以“协议即将达成”为由取消行动，而如今谈判再次破裂。这场他选择发动的战争已经持续五个月，但目前仍看不到结束的迹象。",
+          "url": "https://flash.jin10.com/detail/20260804032523156800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "伊朗认为特朗普倾向谈判而非局势升级",
@@ -356,7 +401,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -367,7 +412,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -378,7 +423,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
