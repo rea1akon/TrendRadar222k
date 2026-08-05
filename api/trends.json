@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T03:38:04.861873+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-08-06T05:11:53.642100+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 05时11分]"
         },
         {
           "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
@@ -27,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 03时38分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 05时11分]"
         },
         {
           "title": "特朗普直升机一度与客机距离过近",
@@ -37,7 +38,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         },
@@ -48,7 +49,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
         }
