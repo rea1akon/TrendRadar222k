@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-08-06T08:08:26.327761+08:00",
-  "total_titles_processed": 636,
+  "generated_at": "2026-08-06T12:15:59.798441+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "特朗普污蔑：中国背后捣鬼",
+          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
+          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
+          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 12时15分]"
+        },
         {
           "title": "特朗普所乘直升机遭遇飞行安全事件",
           "url": "https://www.toutiao.com/trending/7670517654829927979/",
@@ -22,17 +55,6 @@
           "time_info": "[01时39分 ~ 07时01分]"
         },
         {
-          "title": "特朗普污蔑：中国背后捣鬼",
-          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
           "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
           "url": "https://www.cls.cn/detail/2446327",
           "source": "财联社热门",
@@ -45,26 +67,15 @@
           "time_info": "[01时39分 ~ 07时01分]"
         },
         {
-          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
-          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
-          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
-          "source": "凤凰网",
+          "title": "卡尼不点名调侃特朗普",
+          "url": "https://wallstreetcn.com/livenews/3145797",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "12时15分"
         },
         {
           "title": "美媒曝特朗普在弹药储备问题上被误导 向防长倾泻不满",
@@ -73,9 +84,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         },
         {
           "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
@@ -111,6 +133,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
           "url": "https://flash.jin10.com/detail/20260806054724205800",
           "source": "金十数据",
@@ -120,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普小跑着保护险些摔下台的幼童",
+          "url": "https://www.toutiao.com/trending/7670741330352734262/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         },
         {
           "title": "美国总统特朗普：伊朗不能拥有核武器。",
@@ -142,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "美国白宫否认特朗普与赫格塞思因弹药库存短缺发生争执",
+          "url": "https://wallstreetcn.com/livenews/3145771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         },
         {
           "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
@@ -208,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "卡尼借提词器故障嘲讽特朗普",
+          "url": "https://www.toutiao.com/trending/7670443518179295258/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         },
         {
           "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
