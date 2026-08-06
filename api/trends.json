@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T12:15:59.798441+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-08-06T15:41:59.961456+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,16 @@
       "match_count": 25,
       "titles": [
         {
-          "title": "特朗普污蔑：中国背后捣鬼",
-          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 12时15分]"
-        },
-        {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
           "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 15时41分]"
         },
         {
           "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
@@ -39,6 +29,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时08分 ~ 12时15分]"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 15时41分]"
         },
         {
           "title": "特朗普所乘直升机遭遇飞行安全事件",
@@ -73,9 +75,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "特朗普污蔑：中国背后捣鬼",
+          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 15时41分]"
         },
         {
           "title": "美媒曝特朗普在弹药储备问题上被误导 向防长倾泻不满",
@@ -89,15 +103,15 @@
           "time_info": "08时08分"
         },
         {
-          "title": "涉台问题，特朗普的教训还没吃够",
-          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
-          "source": "凤凰网",
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
+          "source": "财联社热门",
           "ranks": [
-            5
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 15时41分]"
         },
         {
           "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
@@ -133,17 +147,6 @@
           "time_info": "07时01分"
         },
         {
-          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
-          "url": "https://www.cls.cn/detail/2446884",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
           "url": "https://flash.jin10.com/detail/20260806054724205800",
           "source": "金十数据",
@@ -161,7 +164,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -194,7 +197,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -271,7 +274,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
