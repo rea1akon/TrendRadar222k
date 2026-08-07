@@ -1,337 +1,99 @@
 {
-  "generated_at": "2026-08-06T23:22:24.301042+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2026-08-07T08:04:11.371230+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 29,
+      "match_count": 8,
       "titles": [
         {
-          "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
-          "url": "https://news.ifeng.com/c/8vLgY5mFkV5",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 15时41分]"
-        },
-        {
-          "title": "涉台问题，特朗普的教训还没吃够",
-          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 18时42分]"
-        },
-        {
-          "title": "美退还1000亿美元关税特朗普输了吗",
-          "url": "https://www.toutiao.com/trending/7670860336727068203/",
-          "source": "今日头条",
+          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
+          "url": "https://www.cls.cn/detail/2447939",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时58分 ~ 20时59分]"
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
-          "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
-          "url": "https://news.ifeng.com/c/8vLi13wh4eq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 12时15分]"
-        },
-        {
-          "title": "特朗普所乘直升机遭遇飞行安全事件",
-          "url": "https://www.toutiao.com/trending/7670517654829927979/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            10,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时39分 ~ 07时01分]"
-        },
-        {
-          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
-          "url": "https://www.cls.cn/detail/2446327",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时39分 ~ 07时01分]"
-        },
-        {
-          "title": "卡尼不点名调侃特朗普",
-          "url": "https://wallstreetcn.com/livenews/3145797",
+          "title": "特朗普谈霍尔木兹海峡：进展顺利。",
+          "url": "https://wallstreetcn.com/livenews/3146315",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "特朗普污蔑：中国背后捣鬼",
-          "url": "https://news.ifeng.com/c/8vMN6ChGn3S",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 15时41分]"
-        },
-        {
-          "title": "美媒曝特朗普在弹药储备问题上被误导 向防长倾泻不满",
-          "url": "https://flash.jin10.com/detail/20260806075402361800",
-          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "08时04分"
         },
         {
-          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
-          "url": "https://www.cls.cn/detail/2446884",
-          "source": "财联社热门",
+          "title": "特朗普对多晶硅加征关税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时15分 ~ 15时41分]"
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
-          "title": "美国总统特朗普：需要让共和党在参议院更强硬。",
-          "url": "https://flash.jin10.com/detail/20260806055819902800",
-          "source": "金十数据",
+          "title": "特朗普签署针对出生公民权的行政令",
+          "url": "https://www.toutiao.com/trending/7671022114153529394/",
+          "source": "今日头条",
           "ranks": [
-            8
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
-          "title": "美国总统特朗普：我们很欣赏马斯克。",
-          "url": "https://flash.jin10.com/detail/20260806055113870800",
+          "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
+          "url": "https://flash.jin10.com/detail/20260807073607063800",
           "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260806054735118800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
-          "url": "https://flash.jin10.com/detail/20260806054724205800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "白宫：特朗普有权按公民身份达对美联储的看法，“三军统帅”也有这样的责任",
-          "url": "https://wallstreetcn.com/livenews/3146119",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时22分"
+          "time_info": "08时04分"
         },
         {
-          "title": "特朗普小跑着保护险些摔下台的幼童",
-          "url": "https://www.toutiao.com/trending/7670741330352734262/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗不能拥有核武器。",
-          "url": "https://flash.jin10.com/detail/20260806054719148800",
+          "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260807073117453800",
           "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "08时04分"
         },
         {
-          "title": "美国总统特朗普：关税让我们变得富有。",
-          "url": "https://flash.jin10.com/detail/20260806053019525800",
+          "title": "特朗普承认部分弹药供应“相对紧张”",
+          "url": "https://wallstreetcn.com/livenews/3146293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普承认某些弹药供应紧张",
+          "url": "https://flash.jin10.com/detail/20260807061416820800",
           "source": "金十数据",
           "ranks": [
-            18
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美国白宫否认特朗普与赫格塞思因弹药库存短缺发生争执",
-          "url": "https://wallstreetcn.com/livenews/3145771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "美国总统特朗普：（谈及关税）加拿大“很恶劣”，我们把局势扭转过来了。",
-          "url": "https://flash.jin10.com/detail/20260806052258964800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-06）",
-          "url": "https://flash.jin10.com/detail/20260806181207639800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "美国总统特朗普谈及叫停加州的电动汽车强制令，声称：我们都爱马斯克。",
-          "url": "https://wallstreetcn.com/livenews/3145625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "特朗普直升机一度与客机距离过近",
-          "url": "https://wallstreetcn.com/livenews/3145542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "美国总统特朗普声称：我宁愿与伊朗达成一份协议。 美方与伊朗正在对话，让我们看看会发生什么事。",
-          "url": "https://wallstreetcn.com/livenews/3145624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "美国国会山CBO：特朗普的战列舰舰队耗资或达2750亿美元",
-          "url": "https://wallstreetcn.com/livenews/3145541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "美国总统特朗普在拉斯维加斯夸赞通胀下滑。 特朗普称赞股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3145620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
-          "title": "卡尼借提词器故障嘲讽特朗普",
-          "url": "https://www.toutiao.com/trending/7670443518179295258/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "路透社/益普索民调显示，在特朗普任期内，注册选民首次在应对战争和恐怖主义问题上更青睐民主党人而非共和党人。",
-          "url": "https://flash.jin10.com/detail/20260806180146115800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
-          "url": "https://wallstreetcn.com/livenews/3145617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "08时04分"
         }
       ]
     }
