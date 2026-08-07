@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T19:48:04.130558+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-08-07T21:07:03.860285+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "time_info": "[08时03分 ~ 15时19分]"
         },
         {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 21时07分]"
+        },
+        {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
           "url": "https://wallstreetcn.com/articles/3778896",
           "source": "华尔街见闻",
@@ -39,11 +52,12 @@
             10,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时50分 ~ 19时48分]"
+          "appearance_count": 12,
+          "time_info": "[11时50分 ~ 21时07分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -68,16 +82,15 @@
           "time_info": "[11时50分 ~ 15时19分]"
         },
         {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
+          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
           "source": "凤凰网",
           "ranks": [
-            7,
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 19时48分]"
+          "appearance_count": 7,
+          "time_info": "[17时01分 ~ 21时07分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -90,17 +103,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时50分 ~ 17时01分]"
-        },
-        {
-          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
-          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时01分 ~ 19时48分]"
         },
         {
           "title": "特朗普谈霍尔木兹海峡：进展顺利。",
@@ -187,7 +189,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -286,7 +288,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
