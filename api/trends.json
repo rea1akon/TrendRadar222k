@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T09:45:04.231513+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-08-08T11:28:08.965095+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -13,11 +13,24 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时55分 ~ 09时45分]"
+          "appearance_count": 10,
+          "time_info": "[03时55分 ~ 11时28分]"
+        },
+        {
+          "title": "中期选举临近，特朗普连续21场败诉",
+          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 11时28分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -42,15 +55,15 @@
           "time_info": "[09时44分 ~ 09时45分]"
         },
         {
-          "title": "中期选举临近，特朗普连续21场败诉",
-          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
           "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "time_info": "[11时27分 ~ 11时28分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。",
@@ -157,6 +170,18 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
+          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
+          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 11时28分]"
+        },
+        {
           "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3146913",
           "source": "华尔街见闻-快讯",
@@ -232,15 +257,15 @@
           "time_info": "[03时55分 ~ 04时42分]"
         },
         {
-          "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
-          "url": "https://v.ifeng.com/c/8vPA0XjV5pT",
-          "source": "凤凰网",
+          "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
+          "url": "https://wallstreetcn.com/articles/3778955",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时44分 ~ 09时45分]"
+          "time_info": "[11时27分 ~ 11时28分]"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
