@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T15:58:01.532286+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-08-09T16:49:21.897635+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 15时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 16时49分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -41,11 +41,12 @@
             15,
             18,
             19,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 15时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 16时49分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -70,11 +71,12 @@
             20,
             23,
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 15时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 16时49分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -102,6 +104,17 @@
           "time_info": "[00时35分 ~ 04时32分]"
         },
         {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 16时49分]"
+        },
+        {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
           "url": "https://flash.jin10.com/detail/20260809110518488800",
           "source": "金十数据",
@@ -116,27 +129,17 @@
           "time_info": "[11时45分 ~ 15时58分]"
         },
         {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 15时58分]"
-        },
-        {
           "title": "泰勒·斯威夫特下架特朗普团队音频",
           "url": "https://flash.jin10.com/detail/20260809135228907800",
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 16时49分]"
         },
         {
           "title": "舒默怒斥特朗普：你在哪个星球",
