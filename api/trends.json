@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:07:27.385898+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-08-11T19:45:36.982714+08:00",
+  "total_titles_processed": 1381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 18时07分]"
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 19时45分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -26,11 +26,12 @@
             8,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 18时07分]"
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 19时45分]"
         },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -56,6 +57,17 @@
           "time_info": "[02时59分 ~ 07时37分]"
         },
         {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 19时45分]"
+        },
+        {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -68,6 +80,17 @@
           "time_info": "[09时51分 ~ 13时11分]"
         },
         {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 19时45分]"
+        },
+        {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
           "source": "澎湃新闻",
@@ -78,28 +101,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时59分 ~ 09时51分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 18时07分]"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 18时07分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
