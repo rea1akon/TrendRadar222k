@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T16:59:23.377329+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-08-11T18:07:27.385898+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 18时07分]"
+        },
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 18时07分]"
         },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -40,20 +54,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时59分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 16时59分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -80,17 +80,6 @@
           "time_info": "[02时59分 ~ 09时51分]"
         },
         {
-          "title": "特朗普称要向伊朗索赔",
-          "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
           "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -98,8 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 16时59分]"
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 18时07分]"
         },
         {
           "title": "特朗普：美军已100%控制霍尔木兹海峡",
@@ -109,8 +98,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 16时59分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 18时07分]"
+        },
+        {
+          "title": "特朗普称要向伊朗索赔",
+          "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
         },
         {
           "title": "美媒：特朗普上月秘密乘运输机回国",
@@ -164,11 +164,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 16时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 18时07分]"
         },
         {
           "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
@@ -200,7 +201,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
