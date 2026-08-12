@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T14:17:27.980687+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-08-12T16:20:56.894177+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时44分 ~ 14时17分]"
+          "appearance_count": 5,
+          "time_info": "[06时44分 ~ 16时20分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -147,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "美国总统特朗普：正在调查联邦政府是否有权阻止曼达尼在纽约市征收“第二住所税”。",
