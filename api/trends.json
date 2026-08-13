@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T07:43:36.826591+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-08-13T10:05:18.212759+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,19 @@
           "time_info": "00时05分"
         },
         {
+          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时47分 ~ 10时05分]"
+        },
+        {
           "title": "白宫：特朗普签署备忘录，授权美国执法部门使用网络工具打击在外国司法管辖区活动的犯罪组织。",
           "url": "https://flash.jin10.com/detail/20260813054700329800",
           "source": "金十数据",
@@ -75,18 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时43分]"
-        },
-        {
-          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时47分 ~ 07时43分]"
         },
         {
           "title": "特朗普躲避暗杀更多细节曝光",
@@ -214,7 +215,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
