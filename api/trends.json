@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T14:42:00.842237+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-08-16T16:32:00.434451+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,33 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时23分 ~ 16时32分]"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时23分 ~ 14时42分]"
+          "time_info": "[12时37分 ~ 16时32分]"
+        },
+        {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时30分 ~ 16时32分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -32,30 +57,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时23分 ~ 12时38分]"
-        },
-        {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时30分 ~ 14时42分]"
-        },
-        {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时37分 ~ 14时42分]"
         },
         {
           "title": "美国总统特朗普：参议院必须尽快投票通过《不再改变时钟法案》。白天多些阳光总是好的（还能打击犯罪！），但更重要的，别再每年两次荒唐地来回拨时钟和手表了，又混乱又麻烦。赶紧把它搞定！",
@@ -77,11 +78,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 16时32分]"
         },
         {
           "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
@@ -102,11 +104,23 @@
           "source": "金十数据",
           "ranks": [
             5,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 16时32分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 16时32分]"
         },
         {
           "title": "特朗普为何要求航母改回蒸汽弹射",
@@ -142,17 +156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时23分 ~ 11时02分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
