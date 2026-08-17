@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T18:34:39.787029+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-08-17T19:28:31.376753+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 39,
+      "match_count": 48,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 18时34分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 19时28分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -53,6 +53,21 @@
           "time_info": "[09时20分 ~ 17时43分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 19时28分]"
+        },
+        {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
           "url": "https://news.ifeng.com/c/8veP1BeKo8D",
           "source": "凤凰网",
@@ -64,27 +79,13 @@
           "time_info": "[09时20分 ~ 13时37分]"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 18时34分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗绝不能以任何方式、形态或形式拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260817181911430800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -95,9 +96,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "特朗普对：我可能会支持以色列选举中的某位候选人。以色列不该袭击加沙。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3150476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "特朗普威胁阿曼：若妨碍美国 将对其进行轰炸",
+          "url": "https://flash.jin10.com/detail/20260817191721703800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼",
+          "url": "https://wallstreetcn.com/livenews/3150475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "特朗普为何关键时刻与韩国作对",
@@ -106,7 +140,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -120,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，以色列不该袭击加沙。",
+          "url": "https://flash.jin10.com/detail/20260817191605015800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -361,6 +406,28 @@
           "time_info": "15时56分"
         },
         {
+          "title": "据福克斯新闻：特朗普表示，他可能会在以色列选举中支持某位候选人。",
+          "url": "https://flash.jin10.com/detail/20260817191247640800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼。",
+          "url": "https://flash.jin10.com/detail/20260817191233400800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
           "url": "https://flash.jin10.com/detail/20260817043331858800",
           "source": "金十数据",
@@ -400,9 +467,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普谈及伊朗问题时表示，他“不着急”。",
+          "url": "https://flash.jin10.com/detail/20260817191005202800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，与伊朗伊斯兰革命卫队官员之间存在秘密沟通渠道。",
+          "url": "https://flash.jin10.com/detail/20260817190947776800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "据半岛电视台：巴勒斯坦消息人士透露，库什纳已告知哈马斯领导层，特朗普认为解除各派武装是加沙采取任何其他行动前的关键一步。",
@@ -414,6 +503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普再称伊朗绝不能拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3150454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "特朗普女婿库什纳：埃及是美国在中东的重要合作伙伴。",
