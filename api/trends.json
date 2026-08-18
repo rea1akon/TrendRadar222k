@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T12:37:34.853467+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-08-18T13:32:38.997571+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "NBA2K NBA2KON2 球员数据更新 2Kratings NBA周最佳 NBA月最佳 shams Ronnie2K NBA交易 特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -49,8 +49,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时32分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -60,8 +60,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时32分]"
         },
         {
           "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
@@ -76,6 +88,18 @@
           "time_info": "[05时28分 ~ 07时36分]"
         },
         {
+          "title": "美国议员：特朗普把欺骗到底当美德",
+          "url": "https://www.toutiao.com/trending/7674814398469947401/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时37分 ~ 13时32分]"
+        },
+        {
           "title": "特朗普将宣布霍尔木兹为美国领土",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -88,39 +112,28 @@
           "time_info": "[05时27分 ~ 07时36分]"
         },
         {
-          "title": "特朗普：金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时37分]"
-        },
-        {
           "title": "特朗普被曝自己也通过邮寄选票投票",
           "url": "https://www.toutiao.com/trending/7675157131825905718/",
           "source": "今日头条",
           "ranks": [
             9,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时48分 ~ 13时32分]"
         },
         {
-          "title": "美国议员：特朗普把欺骗到底当美德",
-          "url": "https://www.toutiao.com/trending/7674814398469947401/",
-          "source": "今日头条",
+          "title": "埃尔多安与特朗普通话 呼吁外交解决美伊问题",
+          "url": "https://flash.jin10.com/detail/20260818130250125800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时37分"
+          "time_info": "13时32分"
         },
         {
           "title": "特朗普拒绝延长美伊停火协议，警告阿曼别“挡路”，否则将遭轰炸",
